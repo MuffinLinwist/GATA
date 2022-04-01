@@ -8,7 +8,14 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:license": "CC-BY",
     "dc:title": "Grammars Across Time Analyzed ",
+    "dcat:accessURL": "https://github.com/MuffinLinwist/GATA",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "https://github.com/MuffinLinwist/GATA",
+            "rdf:type": "prov:Entity",
+            "dc:created": "475852d",
+            "dc:title": "Repository"
+        },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
