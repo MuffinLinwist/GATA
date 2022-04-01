@@ -1,0 +1,1613 @@
+,Language,Parameter,State_1,Certainty_1,Reference_1,Comments_1,State_2,Certainty_2,Reference_2,Comments_2
+0,Arapaho,Pron1P,3,1,Salzmann (1963:134),"Singular, plural excl y plural incl.Se consignan las formas ligadas presentadas en el afijario de la descripción. La variación interna de cada una de las formas en función a la semántica del verbo es sumamente confusa: no permite una sistematización clara. Además, muchas de estas variaciones se deben a la función gramatical que cumplen.",4(4),2,Cowell (2008:76),El arapaho no presenta formas libres. El primer dígito corresponde a las formas sufijadas a los verbos animados intransitivos. El número de los paréntesis corresponde a las formas  sufijadas a los verbos inanimados transitivos. Los verbos animados trnasitivos utilizan morfemas de transición. 
+1,Arapaho,Pron2P,2,1,Salzmann (1963:134),Singular y plural. Formas ligadas.La lengua no presenta pronombres libres. ,2(2),2,Cowell (2008:76),El arapaho no presenta formas libres. El primer dígito corresponde a las formas sufijadas a los verbos animados intransitivos. El número de los paréntesis corresponde a las formas  sufijadas a los verbos inanimados transitivos. Los verbos animados trnasitivos utilizan morfemas de transición. 
+2,Arapaho,Pron3P,2,1,Salzmann (1963:134),Singular y pluralLa lengua no presenta pronombres libres. ,4(2) /  4,2,Cowell (2008:76),"Se incluyen, además de lo mencionado para las dos primeras personas, las formas de la tercera persona obviativa luego de la barra angulada. "
+3,Arapaho,Cases,2,1,Salzmann (1963:68),Locativo y vocativo.,4,2,Cowell (2008:511),"Locativo, obviativo, posesivo y locativo. Se  marcan conpreposiciones ylibres. "
+4,Arapaho,Dem,3,2,Salzmann (1963:68),,3,2,Cowell (2008:306-307,"Tres demostrativos. Sin embargo, los deícticos conforman una clase abierta."
+5,Arapaho,NumClass,1,2,Salzmann (1963:77),,1,2,Cowell (2008:354),
+6,Arapaho,GenClass,0,,,,0,,,
+7,Arapaho,NounClass,1,2,Salzmann (1963:29),Animado vs Inanimado,1,2,,Animado vs Inanimado
+8,Arapaho,InstrCom,nan,,,"Falta de datos, Posiblemente si exista la distinción.",1,2,Cowell (2008:354),
+9,Arapaho,Poss,nan,,,,0,,,
+10,Arapaho,LocDir,nan,,,,1,2,Cowell (2008:214),
+11,Arapaho,TempLoc,1,1,Salzmann (1963:158),"El locativo general se marca con una forma ligada. Sin embargo, existe una partícula libre glosada como 'now' que parece cumplir la función de locativo temporal.",1,2,Cowell (2008:217),
+12,Arapaho,DitransMarking,nan,,,,nan,,,
+13,Arapaho,CA_case,nan,2,,,0,2,,
+14,Arapaho,CA_head,1,2,Salzmann (1963:92),,1,2,,
+15,Arapaho,CA_wordorder,nan,2,,,0,2,,
+16,Arapaho,PronAlign,nan,,,La lengua no presenta pronombres.,0,,,La lengua no presenta pronombres.
+17,Arapaho,NomAlign,ergativo-absolutivo,1,Salzmann (1963:92),"La lengua codifica las funciones s¿de S, A y P en el verbo. En ese sentido no sería muy  preciso decir que los nombres presentan un alineamiento de tipo ergativo: lo que ocurre es que las marcas de concordancia en el verbo para S y P son idénticas en oposición a la marca de A solo para el caso de los nombres inanimados. En el caso de los animados se encuentra un alineamiento neutro: todas las formas son idénticas.",Jerárquico,1,Este alineamiento jerárquico se da únicamente para los nombres transitivos animados. Los Transitivos inanimados solo marcan los argumentos con sufijos de trancisión que no presentan correspondencia con las formas intransitivas. ,Las relaciones gramaticales se marcan en el nombre
+18,Arapaho,TA_marks,3,1,Salzmann (1963:134),"Pasado narrativo, futuro.",5,2,Cowell (2008:265),Tres de tiempo y dos de aspecto: perfectivo e imperfectivo. 
+19,Arapaho,Evid,0,,,,0,2,Cowell (2008:93),
+20,Arapaho,Questions,1,2,Salzmann (1963:111),,1,2,Cowell (2008:107),
+21,Arapaho,MorphCaus,1,1,Salzmann (1963:132),,1,2,Cowell (2008:156),
+22,Arapaho,Tones,0,,,,0,,,
+23,Arapaho,Consonants,12,2,Salzmann (1963:9),,12,2,Cowell (2008:14),
+24,Arapaho,Vowels,4,2,Salzmann (1963:12),,4,2,Cowell (2008:14),Hay realizaciones breves y largas.
+25,Arapaho,NasVowels,0,,,,0,,,
+26,Arapaho,AdjN,Adj N ,1,,Injferencia a partir de ejemplos,Adj N ,2,Cowell (2008:324),
+27,Arapaho,GenN,GEN N ,2,Salzmann (1963:157),,GEN N ,2,Cowell (2008:60),
+28,Arapaho,BasicWO,no hay orden básico,1,,Inferencia a partir de ejemplos.,no hay orden básico,2,Cowell (2008:408),El orden parece estar en función a la saliencia pragmática de cada uno de los constituyentes. 
+29,Arapaho,,1,1,Salzmann (1963:92),,1,2,Cowell (2008:59),
+30,Arapaho,NP_Agr,0,1,,Datos insuficientes.,1,1,,La lengua no presenta adjetivos. 
+31,Bardi,Pron1P,7,1,Metcalfe (1975:72/123),Formas libres  y ligadas,7,2,Bowern (2012:396),Se incluyen las formas libres y ligadas. Para las últimas se considera la diferencia entre aumentativo (tipo de plural) y mínimo. 
+32,Bardi,Pron2P,4,1,Metcalfe (1975:72),Formas libres  y ligadas,7,2,Bowern (2012:396),
+33,Bardi,Pron3P,4,1,Metcalfe (1975:72),Formas libres  y ligadas,6,2,Bowern (2012:396),
+34,Bardi,Cases,4,1,Metcalfe (1975:72),,14,2,Bowern (2012:195-230),
+35,Bardi,Dem,nan,,,,13,2,Bowern (2012:195-322),
+36,Bardi,NumClass,1,2,Metcalfe (1975:186),,1,,,
+37,Bardi,GenClass,0,,,,0,,,
+38,Bardi,NounClass,1,2,Metcalfe (1975:123),,1,2,Bowern (2012:754),
+39,Bardi,InstrCom,1,2,Metcalfe (1975:18),,1,2,Bowern (2012:211/242),
+40,Bardi,Poss,nan,,,,1,2,Bowern (2012:153),
+41,Bardi,LocDir,1,2,Metcalfe (1975:189),,1,2,Bowern (2012:211/237),
+42,Bardi,TempLoc,nan,,,,nan,,,
+43,Bardi,DitransMarking,nan,,,,0,2,Bowern (2012:211/370),No hay verbos propiamente ditransitivos. Los verbos como 'dar' y 'mostrar' solo marcan un argumento. 
+44,Bardi,CA_case,1,2,Metcalfe (1975:82),,1,2,Bowern (2012:195-196),
+45,Bardi,CA_head,nan,,,,0,2,Bowern (2012:195-196),
+46,Bardi,CA_wordorder,1,,,,0,2,Bowern (2012:195-196),
+47,Bardi,PronAlign,ergativo-absolutivo,2,Metcalfe (1975:82),"Aunque en algun punto de la gramática menciona que los pronombres no llevan marca de caso, los ejemplos muestran la misma forma de  ergativo.",ergativo-absolutivo,2,Bowern (2012:195-196),"Ergativo -nim, Absolutivo no marcado."
+48,Bardi,NomAlign,ergativo-absolutivo,2,Metcalfe (1975:82),,ergativo-absolutivo,2,Bowern (2012:195-196),"Ergativo -nim, Absolutivo no marcado."
+49,Bardi,TA_marks,6,2,Metcalfe (1975:82),Se consideran los sufijos listados en el afijario. No necesariamente todos presentan un tratamiento en la gramática. ,6,2,Bowern (2012:195-436),
+50,Bardi,Evid,nan,,,No se menciona la categoría de evidencialidad.,nan,,,
+51,Bardi,Questions,1,2,Metcalfe (1975:184),,1,,Bowern (2012:617),
+52,Bardi,MorphCaus,1,2,Metcalfe (1975:70),,1,2,Bowern (2012:204),
+53,Bardi,Tones,0,,,,0,,,
+54,Bardi,Consonants,17,2,Metcalfe (1975:17),,17,2,Bowern (2012:71),
+55,Bardi,Vowels,7,2,Metcalfe (1975:17),Se incluyen las vocales largas.,7,2,Bowern (2012:71),
+56,Bardi,NasVowels,0,,,,0,,,
+57,Bardi,AdjN,Adj N ,1,Metcalfe (1975:117), No concluyente.Inferencia a partiir de ejemplos.,ambos,2,Bowern (2012:335),Aunque a veces se prohibe y juzga como agramatical el orden  N ADJ
+58,Bardi,GenN,nan,,,Datos insuficientes,ambos,2,Inferencia a partir de ejemplos.,
+59,Bardi,BasicWO,VSO ,2,Metcalfe (1975:),,no hay orden básico,2,Bowern (2012:165),
+60,Bardi,,0,1,,Inferencia a ppartir de ejemplos.,1,2,Bowern (2012:370),
+61,Bardi,,0,1,,datos poco claros,0,2,Bowern (2012:158),
+62,Chontal,Pron1P,2,1,Waterhause (1967:357),"El autor sostiene que en cuanto a la primera persona plural, la presencia de ese pronombre codifica exclusión mientras que su ausencia codifica inclusión. ",4,2,O'connor (2004:46),Se marcan dos formas por cada persona (tanto singular como plural): una agentiva y otra pacientiva. 
+63,Chontal,Pron2P,2,1,Waterhause (1967:357),Singular y plural.,4,2,O'connor (2004:46),Se marcan dos formas por cada persona (tanto singular como plural): una agentiva y otra pacientiva. 
+64,Chontal,Pron3P,0,,Waterhause (1967:357),La tercera persona se codifica con deícticos tanto singulares como plulrales. ,0,2,O'connor (2004:46),No haya marcas pronominales de tercera persona. 
+65,Chontal,Cases,0,,Waterhause (1967:356-358),,0,,O'connor (2004:98),No hay marcación de caso.
+66,Chontal,Dem,8,1,Waterhause (1967:357),Se consigna a los deícticos como compuestos por dos partes. Aparentan ser cicunfijos. Estos deícticos tienen funciones pronominales. ,8,1,O'connor (2004:68),"Según la autora, los demostrativos forman parte del inventario de clíticos. "
+67,Chontal,NumClass,1,1,Waterhause (1967:357-358),,1,2,O'connor (2004:43),"Se consignan diversas estrategias pluralizadoras: infijación, acento, sufijación, etc. "
+68,Chontal,GenClass,0,1,,,0,1,,
+69,Chontal,NounClass,0,1,,,0,1,,"El género suele ser léxico. A veces se usan los lexemas""hombre"" y ""mujer"" para especificar género pero no existe un mrofema dedicado a femenino, masculino o neutro. "
+70,Chontal,InstrCom,nan,,,,nan,,,
+71,Chontal,Poss,0,1,Waterhause (1967:357),,0,2,O'connor (2004:40),
+72,Chontal,LocDir,1,1,Waterhause (1967:359),,1,2,O'connor (2004:64),
+73,Chontal,TempLoc,1,1,Waterhause (1967:358),,1,2,O'connor (2004:68),
+74,Chontal,DitransMarking,nan,,,,0,1,O'connor (2004:47),
+75,Chontal,CA_case,nan,,,,nan,,,
+76,Chontal,CA_head,1,,Waterhause (1967:354),,nan,,,
+77,Chontal,CA_wordorder,nan,,,,0,,,El orden de palabras es libre. 
+78,Chontal,PronAlign,nominativo-acusativo,1,Waterhause (1967:354),,activo-inactivo,2,O'connor (2004:74),"Según la autora, el contraste entre acción-inacción (agentivo/pacientivo) da forma a la gramática y su diferenciación codifica a los participantes de la cláusula. "
+79,Chontal,NomAlign,nominativo-acusativo,1,Waterhause (1967:354),"Si bien no se marcan los core cases ni los oblicuos, en la página referida, el autor sostiene que los verbos intransitivos ""no marcan agente"" mientras que los transitivos ""no marcan el sujeto pero si amrcan el objeto""",activo-inactivo,,,
+80,Chontal,TA_marks,6,1,Waterhause (1967:356),6 aspectuales. No se consigna tiempo.,13,2,O'connor (2004:51-53),"5 clases de aspecto, 4 con dos morfemas cada una (sing vs pl). El estativo presenta cinco marcas diferentes. No existen marcadores de tiempo. Dicha categoría se codifica adverbialmente. "
+81,Chontal,Evid,0,1,Waterhause (1967:356),No se consignan,1,1,O'connor (2004:82),"No existen formas dedicadas específicamente a la evidencialidad. Sin embargo, la lengua utiliza los verbos auxiliares en primera persona del perfectivo para codificar certeza de la información brindada. "
+82,Chontal,Questions,SÍ,1,Waterhause (1967:361),Morfológicamente.,NO,1,O'connor (2004:88),Las formas funcionan como bases: palabras interrogativas. 
+83,Chontal,MorphCaus,0,1,Waterhause (1967:361),Léxicamente,1,2,O'connor (2004:55-56),
+84,Chontal,Tones,2,1,Waterhause (1967:352),,0,1,O'connor (2004:35-37),
+85,Chontal,Consonants,35,2,Waterhause (1967:351),,42,2,O'connor (2004:35-36),La autora considera variaciones dialectales. La descripción anterior es de solo una variedad.
+86,Chontal,Vowels,5,2,Waterhause (1967:351),,5,2,O'connor (2004:35-36),La autora considera vocales largas pero no les asigna valor fonológico.
+87,Chontal,NasVowels,0,2,Waterhause (1967:351),,0,2,O'connor (2004:35-36),
+88,Chontal,AdjN,ambos,1,,,Adj N ,2,O'connor (2004:71),"Adjectives ""usually"" precede the modified noun."
+89,Chontal,GenN,GEN N ,1,Waterhause (1967:357),,GEN N ,2,O'connor (2004:57),
+90,Chontal,BasicWO,no hay orden básico,2,Waterhause (1967:357),,no hay orden básico,2,O'connor (2004:1),
+91,Chontal,,1,1,Waterhause (1967:355),El verbo puede llevar marca de objeto indirecto. ,1,2,O'connor (2004:71),
+92,Chontal,NP_Agr,0,1,,,0,2,O'connor (2004:72),
+93,Kalispel,Pron1P,2,2,Vogt (1940:27),Estas formas pueden ser libres y funcionar como pronombres o ligadas y funcionar como flexiones verbales.,6,1,Speck (1977:125),"Es necesario mencionar que si bien este texto es producido en 1977, se trata de una reedición de una gramática hecha or un misionero en 1904. Se le está considerando como G2 por el hecho de ser una versión crítica que incorpora relecturas de los datos y datos nuevos."
+94,Kalispel,Pron2P,2,2,Vogt (1940:27),Estas formas pueden ser libres y funcionar como pronombres o ligadas y funcionar como flexiones verbales.,6,1,Speck (1977:125),Formas libres y flexivas. 
+95,Kalispel,Pron3P,2,2,Vogt (1940:27),Estas formas pueden ser libres y funcionar como pronombres o ligadas y funcionar como flexiones verbales.,2,1,Speck (1977:125),Formas libres y flexivas. 
+96,Kalispel,Cases,6,1,Vogt (1940:68),"El caso parece expresarse mediante preposiciones. Los casos no son mencionados literalmente. Sin emabrgo, se puede inferir la función a partir de las explicaciones. ",7,1,Speck (1977:37),"Nominativo, causativo, locativo, instrumental, direccional, acusativo y benefactivo. "
+97,Kalispel,Dem,4,1,,Las  formas parecen diferenciar la cercanía del objeto con el hablante. ,5,1,Speck (1977:6),
+98,Kalispel,NumClass,1,2,Vogt (1940:50),,1,,Speck (1977:73),
+99,Kalispel,GenClass,0,,,,0,,,
+100,Kalispel,NounClass,0,,,,0,,,
+101,Kalispel,InstrCom,1,1,Vogt (1940:50),,1,,,
+102,Kalispel,Poss,nan,,,,nan,,,
+103,Kalispel,LocDir,1,2,Vogt (1940:66),,1,2,Speck (1977:66),
+104,Kalispel,TempLoc,1,1,Vogt (1940:71),,nan,,,
+105,Kalispel,DitransMarking,nan,,,,nan,,,
+106,Kalispel,CA_case,nan,,,,nan,,,
+107,Kalispel,CA_head,1,1,Vogt (1940:31),Los argumentos se marcan solo en una determinada clase dde verbos. ,1,2,,
+108,Kalispel,CA_wordorder,1,,,,nan,,,
+109,Kalispel,PronAlign,nan,,,,nan,,,No conluyente.
+110,Kalispel,NomAlign,nominativo-acusativo,1,Vogt (1940:36),Inferencia a partir de paradigmas verbales de marcación de caso. Datos de ninguna manera concluyentes.,tripartito,1,Speck (1977:38),Datos no conclusivos.
+111,Kalispel,TA_marks,4,1,Vogt (1940:29),Solo marcas de aspecto. ,8,2,Speck (1977:76),
+112,Kalispel,Evid,nan,,,,nan,,,
+113,Kalispel,Questions,1,2,Vogt (1940:71),,1,2,Speck (1977:106),
+114,Kalispel,MorphCaus,1,2,Vogt (1940:59),,nan,,,
+115,Kalispel,Tones,0,,,,0,,,
+116,Kalispel,Consonants,33,1,Vogt (1940:12),,13,2,Speck (1977:11),
+117,Kalispel,Vowels,6,1,Vogt (1940:14),,22,2,Speck (1977:22),
+118,Kalispel,NasVowels,0,,,,0,,,
+119,Kalispel,AdjN,Adj N ,1,No concluyente.,,ambos,1,Inferencia a partir de ejemplos.,
+120,Kalispel,GenN,GEN N ,2,Vogt (1940:78),,GEN N ,1,Inferencia a partir de ejemplos,
+121,Kalispel,BasicWO,VSO ,1,Vogt (1940:78),,no hay orden básico,1,Inferencia a partir de ejemplos,
+122,Kalispel,,1,1,Vogt (1940:31),,1,2,Speck (1977:64),
+123,Kalispel,,0,1,La información no es clara. ,,0,1,No se mencionan aspectos sobre la concordancia nombre-adjetivo.,
+124,Karok,Pron1P,2,1,Bright (1957:60),Inferencia a partir de ejemplos. No  se presenta el sistema pronominal claramente. Solo se presentan morfemas de trancisión sin especificar las formas.,2,2,Halpern (1997:25),
+125,Karok,Pron2P,2,1,Bright (1957:60),Inferencia a partir de ejemplos. No  se presenta el sistema pronominal claramente. Solo se presentan morfemas de trancisión sin especificar las formas.,2,2,Halpern (1997:25),
+126,Karok,Pron3P,2,1,Bright (1957:60),Inferencia a partir de ejemplos. No  se presenta el sistema pronominal claramente. Solo se presentan morfemas de trancisión sin especificar las formas.,3,2,Halpern (1997:25),
+127,Karok,Cases,6,1,Bright (1957: 150-53),,5,1,Halpern (1997:26),Las traducciones no son tan precisas.
+128,Karok,Dem,30,1,Bright (1957: 95),,3,2,Halpern (1997:25),"""Their use ins not fully understood"""
+129,Karok,NumClass,1,2,Bright (1957: 150),"Singular, plural y dual",1,1,Halpern (1997:25),Parece haberse perdido la forma dual.
+130,Karok,GenClass,1,1,Bright (1957: 45),,1,1,Halpern (1997:25),
+131,Karok,NounClass,1,1,Bright (1957: 70),,0,1,Halpern (1997:34),
+132,Karok,InstrCom,1,,Bright (1957: 150),,0,1,Halpern (1997:25),
+133,Karok,Poss,nan,,,,nan,,,
+134,Karok,LocDir,1,1,Bright (1957: 75),,1,2,Halpern (1997:26),
+135,Karok,TempLoc,1,1,Bright (1957: 150),Clítico de LOC.TEMP,1,2,Halpern (1997:26),
+136,Karok,DitransMarking,nan,,,,nan,,,
+137,Karok,CA_case,nan,,,,nan,,,
+138,Karok,CA_head,1,1,Bright (1957),Inferencia a partir de los ejemplos. ,1,,Inferencia a partir de los ejemplos. ,
+139,Karok,CA_wordorder,nan,,,,1,,,
+140,Karok,PronAlign,nominativo-acusativo,1,,,nominativo-acusativo,1,Halpern (1997:26),"""Object always remains unmarked (…) subject of transitivies and intransitives clauses are treated equally"""
+141,Karok,NomAlign,nominativo-acusativo,1,,,nominativo-acusativo,1,Halpern (1997:26),"""Object always remains unmarked (…) subject of transitivies and intransitives clauses are treated equally"""
+142,Karok,TA_marks,14,1,Bright (1957:152),,7,1,Halpern (1997:26),
+143,Karok,Evid,0,,,,5,1,Halpern (1997:26),"Si bien solo se consigna una forma como propiamente evidencial, he considerado marcas glosdas como 'truly'. No he considerado la marca de irrealis. "
+144,Karok,Questions,0,1,Bright (1957:152),Sin embargo la descripción posterior si consigna interrogativo.,1,2,Halpern (1997:26),Se consigna un interrogativo.
+145,Karok,MorphCaus,1,2,Bright (1957:75/109),,1,1,Halpern (1997:171),
+146,Karok,Tones,0,1,Bright (1957:16),Solo fenómenos de entonación.,0,2,Halpern (1997:24),
+147,Karok,Consonants,16,2,Bright (1957:7),,24,2,Halpern (1997:24),
+148,Karok,Vowels,8,2,Bright (1957:7),,10,1,Halpern (1997:24),
+149,Karok,NasVowels,0,2,Bright (1957:7),,0,1,Halpern (1997:24),
+150,Karok,AdjN,N Adj ,1,Bright (1957:69),,N Adj ,2,Halpern (1997:31),
+151,Karok,GenN,GEN N ,1,Bright (1957:49),,GEN N ,2,Halpern (1997:25),
+152,Karok,BasicWO,no hay orden básico,2,Bright (1957:141),,SOV ,2,Halpern (1997:29),
+153,Karok,,1,2,Bright (1957:64),,1,2,Halpern (1997:25),
+154,Karok,,1,1,Bright (1957:69),Los adjetivos son nombres en funciones adjetivales por lo que toman la misma morfología del nombre al que modifican. ,1,1,Halpern (1997:29),Concuerda en caso. 
+155,Kokama,Pron1P,6,2,Fasut (1972:27),"Formas largas y cortas para singular, plural exclusiva y plural inclusiva.",13,2,Vallejos (2016:149),Formas libres y clíticos. Distinción entre habla femenina y masculina. 
+156,Kokama,Pron2P,4,2,Fasut (1972:27),Formas largas y cortas para singular y plural.,10,2,Vallejos (2016:149),Formas libres y clíticos. Distinción entre habla femenina y masculina. 
+157,Kokama,Pron3P,5,2,Fasut (1972:27),Formas largas y cortas.,10,2,Vallejos (2016:149),
+158,Kokama,Cases,0,2,,No existe marcación de caso. Se utilizan complementos semánticamente marcados con órdenes de palabra específicos.,10,2,Vallejos (2016:319),Todos oblicuos marcados con posposiciones.
+159,Kokama,Dem,13,1,Fasut (1972:1556-162),Se consignan formas de habla masculina y femenina aunque con mismo significado. ,15,2,Vallejos (2016:170),"Se consignan todas las formas recogidas por Vallejo. Sin embargo, muchas de ellas son formas derivadas. "
+160,Kokama,NumClass,1,2,Fasut (1972:68),Singular Vs Plural,1,2,Vallejos (2016:181),
+161,Kokama,GenClass,0,,,,0,,,
+162,Kokama,NounClass,0,,,Sin embargo hay habla femenina y habla masculina. ,0,2,Vallejos (2016:181),"Sin embargo, hay distinción entre habla masculina y femenina. "
+163,Kokama,InstrCom,1,,Fasut (1972:50),,1,2,Vallejos (2016:292-299),
+164,Kokama,Poss,0,,,,1,1,Vallejos (2016:164),
+165,Kokama,LocDir,1,2,Fasut (1972:11),,1,2,Vallejos (2016:307),Locativo vs Alativo. 
+166,Kokama,TempLoc,1,1,Fasut (1972:74/138),,nan,1,,
+167,Kokama,DitransMarking,nan,,,,1,2,Vallejos (2016:272),recipiente' y 'meta' se marcan con dativo y locativo respectivamente. 
+168,Kokama,CA_case,nan,,,,0,2,Vallejos (2016:28),
+169,Kokama,CA_head,nan,,,,0,2,Vallejos (2016:28),
+170,Kokama,CA_wordorder,1,,,,1,2,Vallejos (2016:28),
+171,Kokama,PronAlign,nan,,,No hay marcación de caso.,nan,2,Vallejos (2016:118),No hay marcación de core cases en el nombre.
+172,Kokama,NomAlign,nan,,,"Los pronombres, como los nombres, no presentan marcación de caso. ",nominativo-acusativo,1,Vallejos (2016:118),Se encuentran algunos patrones ergativos. 
+173,Kokama,TA_marks,4,1,Fasut (1972:45),"Faust afirma que el aspecto se obtiene a partir de verbos auxiliares. Sin embargo, Vallejos consigna muchos más sufijos. Debe considerarse que el texto de Faust no es una gramática sino más bien un conjunto de lecciones de aprendizaje. ",8,2,Vallejos (2016:389),5 de tiempo y 3 de aspecto
+174,Kokama,Evid,nan,,,,4,2,Vallejos (2016:401),"Vallejos sostiene que las marcas son modales pero cumplen funciones de evidencialidad. 'certeza', 'inferencia' e 'información personal'"
+175,Kokama,Questions,1,2,Fasut (1972:21),,1,2,Vallejos (2016:425),
+176,Kokama,MorphCaus,1,2,Fasut (1972:109),,1,2,Vallejos (2016:610),
+177,Kokama,Tones,0,,Fasut (1972:145),,0,,,
+178,Kokama,Consonants,17,1,Fasut (1972:145),No se consignan fonemas sino 'letras',11,2,Vallejos (2016:40),
+179,Kokama,Vowels,6,1,Fasut (1972:145),,5,2,Vallejos (2016:51),
+180,Kokama,NasVowels,0,,Fasut (1972:145),,0,,,
+181,Kokama,AdjN,ambos,2,Fasut (1972:35),,ambos,2,Vallejos (2016:262),
+182,Kokama,GenN,GEN N ,2,Fasut (1972:51),,GEN N ,2,Vallejos (2016:152),
+183,Kokama,BasicWO,no hay orden básico,2,Fasut (1972:32),"Dado que la lengua no tiene marcas de caso ni en los nombres ni en el verbo, el orden de palabras es crucial para dientificar los roles en la oración. El orden de los constituyentes varía en función a la semántica del verbo. No existe un orden fijo.",no hay orden básico,2,Vallejos (2016:596),"No hay un orden fijo. Sin embargo, el orden no es libre. Está condicionado por el requerimiento de marcación de argumentos del verbo."
+184,Kokama,,1,1,Fasut (1972:78),,0,2,Vallejos (2016:28),
+185,Kokama,,0,1,Fasut (1972:35),La lengua no tiene adjetivos propiamente dichos. La función adjetival la cumplen algunos nombres. Estos no llevan marca de concordancia con el nombre. ,0,2,Vallejos (2016:116),La lengua no tiene adjetivos.
+186,Lepcha,Pron1P,3,2,Mainwaring (1876:33-34),"Singular, dual y plural. ",3,2,Plaiser (2003:711),"Singular, dual y plural. "
+187,Lepcha,Pron2P,3,2,Mainwaring (1876:33-34),"Singular, dual y plural. ",3,2,Plaiser (2003:711),"Singular, dual y plural. "
+188,Lepcha,Pron3P,3,2,Mainwaring (1876:35),"Singular, dual y plural. ",3,2,Plaiser (2003:711),"Singular, dual y plural. "
+189,Lepcha,Cases,6,1,Mainwaring (1876:28),"El autor afirma que los casos nominativo y ""objetivo"" (posiblemente P) permanecen no marcados. Las formas morfológicas con las que se asignan los casos instrumental, dativo, acusativo y vocativo son referidos como preposiciones.  Aparentemente también hay una marca genitiva en los pronombres. Sin embargo, este caso no es consignado en la lista de casos nominales. ",7,2,Plaiser (2003:709-711),"La lengua presenta seis sufijos de caso: LOC,ABL,NOM,GEN,DAT, INST y COM. Los sufijos  de ablativo y genitivo son polifuncionales. Su significado varía en función a la semántica del nombre al que se le sufija. "
+190,Lepcha,Dem,2,1,Mainwaring (1876:43),Dos demostrativos básicos que se pueden presentar flexión de caso. ,14,2,Plaiser (2003:712),
+191,Lepcha,NumClass,1,2,Mainwaring (1876:27),"Singular, dual y plural.",1,2,Plaiser (2003:708),Plaiser especifica que no ha encontrado el Dual. Aparente simplificación. 
+192,Lepcha,GenClass,0,,,,1,1,Plaiser (2003:710),
+193,Lepcha,NounClass,1,2,Mainwaring (1876:24),,0,2,Plaiser (2003:707),
+194,Lepcha,InstrCom,1,1,Mainwaring (1876:32),No se encuentra una marca específica para el comitativo.,1,2,Plaiser (2003:711),El comitativo y el genitivo (que tiene usos instrumentales) alternan mas o menos libremente. 
+195,Lepcha,Poss,nan,,,,nan,,,
+196,Lepcha,LocDir,0,,Mainwaring (1876:28),No se encuentra una marca específica para el direccional.,0,2,Plaiser (2003:711),
+197,Lepcha,TempLoc,nan,,,Datos insuficientes. ,1,1,Plaiser (2003:712),El locativo temporal se puede marcar con el ablativo. 
+198,Lepcha,DitransMarking,nan,,,Datos insuficientes. ,nan,,,
+199,Lepcha,CA_case,nan,,,La gramática no presenta ni los datos ni la legibilidad suficiente para extraer información sobre relaciones gramaticales. ,1,1,Plaiser (2003),Inferencia a partir de los ejemplos del texto. 
+200,Lepcha,CA_head,nan,,,La gramática no presenta ni los datos ni la legibilidad suficiente para extraer información sobre relaciones gramaticales. ,0,1,Plaiser (2003),Inferencia a partir de los ejemplos del texto. 
+201,Lepcha,CA_wordorder,1,,,La gramática no presenta ni los datos ni la legibilidad suficiente para extraer información sobre relaciones gramaticales. ,1,1,Plaiser (2003),Inferencia a partir de los ejemplos del texto. 
+202,Lepcha,PronAlign,nan,,,La gramática no presenta ni los datos ni la legibilidad suficiente para extraer información sobre relaciones gramaticales. ,nan,,,
+203,Lepcha,NomAlign,nan,,,La gramática no presenta ni los datos ni la legibilidad suficiente para extraer información sobre relaciones gramaticales. ,ergativo-absolutivo,1,Plaiser (2003),"Inferencia a partir de ejemplos. Además, el ablativo se consigna a veces de función ergativa. "
+204,Lepcha,TA_marks,11,1,Mainwaring (1876:44-49),"La forma indicativa del presente se marca con un verbo auxiliar de quietud. La lengua presenta marcas diferenciadas para indicativo, subjuntivo y participio. Tres en el primer modo (presente, pasado y futuro), tres en el segundo (presente, pasado y futuro) y cinco en el tercero (presente, pasado y tres formas de futuro). Cada forma es morfológicamente distinta por lo que se consideran 11 marcas morfológicas. ",4,1,Plaiser (2003:713),El tiempo y el aspecto pueden marcarse con verbos auxiliares afijados. 
+205,Lepcha,Evid,0,,,La gramática no presenta ni los datos ni la legibilidad suficiente para extraer información sobre relaciones gramaticales. ,nan,,,
+206,Lepcha,Questions,1,1,Mainwaring (1876:44-42),,1,2,Plaiser (2003:712),Se usan partículas interrogativas. 
+207,Lepcha,MorphCaus,0,2,Mainwaring (1876:93),La causación se marca con verbos independientes causativos. ,nan,,,
+208,Lepcha,Tones,0,,,Aparentemente es una lengua sin tono sin embargo hay una notable cantidad de diacríticos.,0,1,Plaiser (2003:706),
+209,Lepcha,Consonants,35,1,Mainwaring (1876:26),,32,2,Plaiser (2003:706),
+210,Lepcha,Vowels,8,2,Mainwaring (1876:27),,8,2,Plaiser (2003:706),
+211,Lepcha,NasVowels,0,1,Mainwaring (1876:26),"Podrían, sin embargo, ser solo cuatro. La descripción es sumamente confusa.",0,2,Plaiser (2003:706),
+212,Lepcha,AdjN,N Adj ,2,Mainwaring (1876:31),,Adj N ,1,Plaiser (2003),Inferencia a partir de los ejemplos del texto. 
+213,Lepcha,GenN,GEN N ,1,Mainwaring (1876:121),,GEN N ,2,Plaiser (2003:710),
+214,Lepcha,BasicWO,SOV ,2,Mainwaring (1876:119),,SOV ,2,Plaiser (2003),Inferencia a partir de los ejemplos del texto. 
+215,Lepcha,,0,1,Mainwaring (1876:44),Verbs do not take declension of gender or number'. No hay información suficiente para establecer concordancia argumental.,0,2,Plaiser (2003:712),
+216,Lepcha,,1,1,Mainwaring (1876:31),Adjectives are declined in the same way the nouns they modify are',0,2,Plaiser (2003:707),Nouns (...) show no agreement with (...) adjectives'.
+217,Ngarinjin,Pron1P,6,1,Coate y Oates (1970:28-29),,6,2,Spronck (2015:33),
+218,Ngarinjin,Pron2P,5,1,Coate y Oates (1970:28-29),,4,2,Spronck (2015:33),
+219,Ngarinjin,Pron3P,10,1,Coate y Oates (1970:28-29),,25,1,Spronck (2015:33),"La tercera persona presenta variaciones de género, y ""discourse status/spacial remoteness"" que generan el número tan elevado aunque impreciso. "
+220,Ngarinjin,Cases,7,,Coate y Oates (1970:28-29),,6,1,Spronck (2015:20),
+221,Ngarinjin,Dem,7,1,"Coate y Oates (1970:32,43)",,15,2,Spronck (2015:20),"Cinco demostrativos por cada una de las tres categorías: próximo, distante, remoto. "
+222,Ngarinjin,NumClass,1,2,Coate y Oates (1970:19),,1,2,Spronck (2015:40),
+223,Ngarinjin,GenClass,0,1,Coate y Oates (1970:20),No se mencionan en el apartado de clasificadores. ,0,,,
+224,Ngarinjin,NounClass,1,2,Coate y Oates (1970:19),,1,2,Spronck (2015:40),
+225,Ngarinjin,InstrCom,0,2,Coate y Oates (1970:63),Los ejemplos evidencian un mismo morfema para ambas funciones. ,1,2,Spronck (2015:20),
+226,Ngarinjin,Poss,nan,,,,1,2,Spronck (2015:19),
+227,Ngarinjin,LocDir,1,2,Coate y Oates (1970:19),,1,2,Spronck (2015:40),
+228,Ngarinjin,TempLoc,1,1,Coate y Oates (1970:25),"Existe un morfema glosado como ""cuando"" diferente del locativo.",1,2,Spronck (2015:40),
+229,Ngarinjin,DitransMarking,0,1,Coate y Oates (1970:71),Inferencia a partir de ejemplos. ,nan,,,
+230,Ngarinjin,CA_case,0,,,Inferencia a partir de ejemplos. ,nan,,,
+231,Ngarinjin,CA_head,1,,,Inferencia a partir de ejemplos. ,1,,,
+232,Ngarinjin,CA_wordorder,1,1,,,nan,,,
+233,Ngarinjin,PronAlign,nan,,,,neutro,1,Spronck (2015:19),
+234,Ngarinjin,NomAlign,nan,,,,neutro,1,Spronck (2015:19),
+235,Ngarinjin,TA_marks,9,1,Coate y Oates (1970:86),Nueve formas que pueden cumplir múltiples funciones dependiendo de la clase verbal a la que se sufijen. ,2,1,Spronck (2015:103),Presente e irrealis
+236,Ngarinjin,Evid,1,1,Coate y Oates (1970:79),"Se consigna una forma que glosada como ""certeza""",2,2,Spronck (2015:211), (=karra) y un INDEF
+237,Ngarinjin,Questions,1,1,Coate y Oates (1970:74),,1,1,Spronck (2015:2127),
+238,Ngarinjin,MorphCaus,1,1,Coate y Oates (1970:74),Los causativos pueden ser libres o ligados. ,1,2,Spronck (2015:56,
+239,Ngarinjin,Tones,0,,,,0,,,
+240,Ngarinjin,Consonants,17,2,Coate y Oates (1970:4),,18,1,Spronck (2015:428),La gramática no presenta un inventario fonológico. El número consignado aquí responde a una inferencia a partir de la presentación del alfabeto de la lengua. 
+241,Ngarinjin,Vowels,5,2,Coate y Oates (1970:4),,10,2,Spronck (2015:426),5 vocales largas. 
+242,Ngarinjin,NasVowels,0,2,Coate y Oates (1970:4),,0,1,,
+243,Ngarinjin,AdjN,N Adj ,1,Coate y Oates (1970:23),,N Adj ,2,Spronck (2015:426),
+244,Ngarinjin,GenN,GEN N ,1,Coate y Oates (1970:25),,GEN N ,2,Spronck (2015:426),
+245,Ngarinjin,BasicWO,SVO ,1,Coate y Oates (1970:79),,no hay orden básico,1,Spronck (2015:93),"""No fixed order"""
+246,Ngarinjin,,1,1,,Inferencia a partir de ejemplos. ,1,2,Spronck (2015:27),
+247,Ngarinjin,NP_Agr,1,2,Coate y Oates (1970:33),,1,1,Spronck (2015:40),
+248,Ofaye,Pron1P, ,,,Esta descripción del Ofaye no presenta información gramatical. Solo fonológica. ,3,2,De Oliveira (197),Dos singulares (masculino y femenino) y una plural.
+249,Ofaye,Pron2P,nan,,,,3,2,De Oliveira (197),Dos singulares (masculino y femenino) y una plural.
+250,Ofaye,Pron3P,nan,,,,3,2,De Oliveira (197),Dos singulares (masculino y femenino) y una plural.
+251,Ofaye,Cases,nan,,,,nan,,De Oliveira (197),
+252,Ofaye,Dem,nan,,,,2,2,De Oliveira (2006: 107-108),Dos demostrativos: uno cercano al emisor y otro lejano tanto del emisor como del receptor de la locución.
+253,Ofaye,NumClass,nan,,,,1,2,De Oliveira (2006: 1061),Singular y plural
+254,Ofaye,GenClass,nan,,,,0,,,
+255,Ofaye,NounClass,nan,,,,1,2,De Oliveira (97-105),"Los nombres toman género con el modificador léxico ""hembra"""
+256,Ofaye,InstrCom,nan,,,,1,2,De Oliveira (2006:235),
+257,Ofaye,Poss,nan,,,,1,2,De Oliveira (97-101),
+258,Ofaye,LocDir,nan,,,,1,2,De Oliveira (2006:234),
+259,Ofaye,TempLoc,nan,,,,nan,1,,No encuentro datos suficientes. 
+260,Ofaye,DitransMarking,nan,,,,1,1,De Oliveira (2006:207),El objeto indirecto se marca con cero. 
+261,Ofaye,CA_case,nan,,,,1,2,De Oliveira (2006:215),La marcación de caso varía en función a la semántica del verbo: verbos de emoción presentan alineamientos distintos a verbos de otras categorías. 
+262,Ofaye,CA_head,nan,,,,0,,De Oliveira (2006:215),
+263,Ofaye,CA_wordorder,nan,,,,1,,,
+264,Ofaye,PronAlign,nan,,,,nominativo-acusativo,2,De Oliveira (2006:167-168),"Los verbos tanto transitivvos como intransitivos no presentan diferencia de marcación en el sujeto. Si hay contraste, por otro lado, entre las marcaciones de los verbos tr e intrs frente a los verbos activos-inactivos. "
+265,Ofaye,NomAlign,nan,,,,activo-inactivo,2,De Oliveira (2006:215,Activo/Estativo aunque parece haber una situación de intransitividad escindida en función a la semántica de los verbos (2006:216-217)
+266,Ofaye,TA_marks,nan,,,,1,2,De Oliveira (2006:174-180),La lengua solo marca la diferencia perfectivo-imperfectivo. La marca perfectiva es cero mientras que la imperfectiva es -ta. El tiempo se consigna mediante adverbios y otras interrelaciones entre el aspectoy el tiempo en función a la semántica de los verbos. 
+267,Ofaye,Evid,nan,,,,0,,,
+268,Ofaye,Questions,nan,,,,0,2,De Oliveira (2006:240-244),La lengua marca las clúauslas interrogativas a partir de una partícula léxica ggeneral y varias partículas del tipo WH question.
+269,Ofaye,MorphCaus,nan,,,,0,1,De Oliveira (2006:7),
+270,Ofaye,Tones,0,,Gudschinsky (1971:1-7),,0,2,De Oliveira (2006:89),
+271,Ofaye,Consonants,11,2,Gudschinsky (1971:2),,15,2,De Oliveira (2006:40),
+272,Ofaye,Vowels,6,2,Gudschinsky (1971:2),,6,2,De Oliveira (2006:40),
+273,Ofaye,NasVowels,4,2,Gudschinsky (1971:2),,4,2,De Oliveira (2006:40),
+274,Ofaye,AdjN,nan,,,,N Adj ,2,De Oliveira (2006:121),
+275,Ofaye,GenN,nan,,,,GEN N ,2,De Oliveira (2006:120),
+276,Ofaye,BasicWO,nan,,,,SOV ,2,De Oliveira (2006:205),
+277,Ofaye,,0,1,,No existen datos,1,2,De Oliveira (2006:162),Concordancia opcional con A.
+278,Ofaye,NP_Agr,0,1,,No existen datos,0,2,De Oliveira (2006:188),Se menciona explícitamente que el adjetivo no presenta ninguna marca de concordancia con el nombre. 
+279,Onondaga,Pron1P,15,1,Zeisberger (1888:14),2 formas libres y 13 formas que aparentemente hacen parte del paradigma flexivo pronominal.,3,1,Chafe (1970),Inferencia a partir de los ejemplos. No se ofrece ningún paradigma pronominal claro.
+280,Onondaga,Pron2P,14,1,Zeisberger (1888:14),2 formas libres y 12 formas que aparentemente hacen parte del paradigma flexivo.,2,,Chafe (1970),Inferencia a partir de los ejemplos. No se ofrece ningún paradigma pronominal claro.
+281,Onondaga,Pron3P,28,1,Zeisberger (1888:14),6 formas libres y 22 formas que parecen hacer parte del paradigma de flexión pronominal.,4,1,Chafe (1970),"Ella, El, Ellos dual, Ellos plural.Inferencia a partir de los ejemplos. No se ofrece ningún paradigma pronominal claro."
+282,Onondaga,Cases,2,1,Zeisberger (1888:3),"Si bien no hay flexión de caso,  se consigna una forma vocativa y una ablativa. ",2,1,,Causativo y Dativo
+283,Onondaga,Dem,22,1,Zeisberger (1888:38),Dato sumamente dudoso.,2,1,Chafe (1970:32),
+284,Onondaga,NumClass,1,1,Zeisberger (1888:3),,1,1,Chafe (1970:31),
+285,Onondaga,GenClass,0,,,,0,,,
+286,Onondaga,NounClass,1,1,Zeisberger (1888:3),El género es léxico. ,1,1,Chafe (1970:25),
+287,Onondaga,InstrCom,nan,,,,nan,,,
+288,Onondaga,Poss,nan,,,,nan,,,
+289,Onondaga,LocDir,nan,,,,nan,,,
+290,Onondaga,TempLoc,1,1,Zeisberger (1888:38-39),,nan,,,
+291,Onondaga,DitransMarking,nan,,,,nan,,,
+292,Onondaga,CA_case,nan,,,,nan,,,
+293,Onondaga,CA_head,nan,,,,nan,,,
+294,Onondaga,CA_wordorder,1,1,,,nan,,,
+295,Onondaga,PronAlign,nan,,,,nan,,,
+296,Onondaga,NomAlign,nan,,,,nan,,,
+297,Onondaga,TA_marks,4,1,Zeisberger (1888:13),"Pasado, presente, futuro y continuativo. Posiblemente haya más marcas pero la descripción no ofrece segmentaciones legibles.",7,1,Chafe (1970:39-40),"Incoativo, iterativo, puntual, pasado, continuativo futuro, aorista"
+298,Onondaga,Evid,nan,,,,nan,,,
+299,Onondaga,Questions,0,1,Zeisberger (1888:17),Formas léxicas.,nan,,,
+300,Onondaga,MorphCaus,nan,,,,1,1,Chafe (1970:39-40),
+301,Onondaga,Tones,0,1,Zeisberger (1888:2),No es claro que no existan vocales nasales. La descripción no permite aseverarlo totalmente. ,nan,,,
+302,Onondaga,Consonants,16,1,Zeisberger (1888:2),"La descripción habla de letras, no de sonidos. ",nan,,,La descripción no ofrece datos fonológicos procesables ni precisos.
+303,Onondaga,Vowels,5,1,Zeisberger (1888:2),Se consignan solo las cinco vocales del alfabeto latino.,nan,,,
+304,Onondaga,NasVowels,0,1,Zeisberger (1888:2),No es claro que no existan vocales nasales. La descripción no permite aseverarlo totalmente. ,nan,,,
+305,Onondaga,AdjN,N Adj ,1,Zeisberger (1888:7),,Adj N ,1,Chafe (1970),Inferencia a aprtir de los ejemplos. Chafe (1970) menciona que las lenguas iroquesas tienden a tener un orden libre. 
+306,Onondaga,GenN,GEN N ,1,Zeisberger (1888:15),,GEN N ,1,Chafe (1970),Inferencia a aprtir de los ejemplos. Chafe (1970) menciona que las lenguas iroquesas tienden a tener un orden libre. 
+307,Onondaga,BasicWO,OVS ,1,,Inferencia a aprtir de los ejemplos. Chafe (1970) menciona que las lenguas iroquesas tienden a tener un orden libre. ,no hay orden básico,1,Chafe (1970),Inferencia a aprtir de los ejemplos. Chafe (1970) menciona que las lenguas iroquesas tienden a tener un orden libre. 
+308,Onondaga,,1,1,Zeisberger (1888:18),Concordancia de número,0,,Información insuficiente,
+309,Onondaga,,1,1,Zeisberger (1888:6),Concordancia en género y número. ,0,,Información insuficiente,
+310,Seneca,Pron1P,5,1,Holmer (1954:32),"Singular, Dual, Plural,Exclusivo, Inclusivo. La descripción es incompleta.",6,2,Chafe (2015:31),"1 forma libre. 5 ligadas. En total hay 13 formas alomórfas. Sin embargo, son distintas a las de la gramática del primer estadio. "
+311,Seneca,Pron2P,3,2,Holmer (1954:32),,4,2,Chafe (2015:31),"1 forma libre, 3 ligadas con sus respectivos alomorfos."
+312,Seneca,Pron3P,4,2,Holmer (1954:32),"Masculino, no masculino, singular y plural. ",7,2,Chafe (2015:31),"7 funciones, 21 formas contantod todos los alomorfos."
+313,Seneca,Cases,0,1,,La lengua no tiene caso gramatical.,0,0,,La lengua no presenta caso nominal. Pero hay marcas diferenciadas para agente y paciente.
+314,Seneca,Dem,7,1,Holmer (1954:33),El autor menciona que las traducciones (y por ende las clasificaciones semánticas no son claras),3,2,Chafe (2015:119),
+315,Seneca,NumClass,1,2,,"Singular, Dual, Plural",1,2,Chafe (2015:31),"Dual, Plural,Singular"
+316,Seneca,GenClass,0,,,,0,,,
+317,Seneca,NounClass,1,2,Holmer (1954:20),,1,,,
+318,Seneca,InstrCom,nan,,,,nan,,,
+319,Seneca,Poss,0,,,"La descripción no consigna diferencia entre alienabilidad e inalineabilidad pero la gramática 2, si. Sin embargo, se plantean ""clases de nombres"" que parecen responder a un ordenamiento alienable-inalienable aunque no se evidencia un tratamiento morfológico distinto. ",1,2,Chafe (2015:89),
+320,Seneca,LocDir,1,2,Holmer (1954:38),,1,2,Chafe (2015:74),
+321,Seneca,TempLoc,1,2,Holmer (1954:53),,1,2,Chafe (2015:127-128),
+322,Seneca,DitransMarking,nan,,,,nan,,,
+323,Seneca,CA_case,nan,,,,0,,,
+324,Seneca,CA_head,1,,,Inferencia a partir de los ejemplos. ,1,,,"No hay caso nominal pero las marcas de A,S y P se ajifan al verbo."
+325,Seneca,CA_wordorder,nan,,,,0,1,,Ejemplos
+326,Seneca,PronAlign,nan,,,,nominativo-acusativo,,,Ejemplos.
+327,Seneca,NomAlign,nan,,,,nominativo-acusativo,2,,Ejemplos
+328,Seneca,TA_marks,19,1,Holmer (1954:35-38),La descripción recoge una  serie de formas entre positivas y negativas. Aquí no se consignan las formas denominadas de 'objeto'.,28,1,Chafe (2015:24-30),"Habitual, estativo, puntual, incoativo, futuro, factitivo. Diversas formas."
+329,Seneca,Evid,0,,,,10,2,Chafe (2015:134),
+330,Seneca,Questions,1,2,Holmer (1954),,1,2,Chafe (2015:153),
+331,Seneca,MorphCaus,1,,,,1,2,Chafe (2015:63),
+332,Seneca,Tones,0,2,Holmer (1954:16),,0,2,Chafe (2015:8),
+333,Seneca,Consonants,10,2,Holmer (1954:16),,15,2,Chafe (2015:10),
+334,Seneca,Vowels,5,2,Holmer (1954:13),,8,2,Chafe (2015:8),
+335,Seneca,NasVowels,2,2,Holmer (1954:13),,2,2,Chafe (2015:8),
+336,Seneca,AdjN,N Adj ,,,Ejemplos,Adj N ,2,Chafe (2015:147),
+337,Seneca,GenN,GEN N ,1,Holmer (1954:21),,GEN N ,2,Chafe (2015:147),
+338,Seneca,BasicWO,no hay orden básico,2,Holmer (1954:56),,no hay orden básico,2,Chafe (2015:147),
+339,Seneca,,0,2,Holmer (1954:56),Los argumentos principales se incorporan al verbo. ,0,2,Chafe (2015:23),"Nuevamente, los participantes se incorporan a la raíz verbal. "
+340,Seneca,,0,2,Holmer (1954:28),La lengua no presenta adjetivos.,0,2,Chafe (2015:120),Adjective like meanings'
+341,Sirionó,Pron1P,3,2,Schermair (1949: 60),"Singular, Plural inclusivo y plural exclusivo. ",4,2,Dahl (2014:108),
+342,Sirionó,Pron2P,2,2,Schermair (1949: 60),,3,2,Dahl (2014:108),
+343,Sirionó,Pron3P,2,2,Schermair (1949: 60),,2,2,Dahl (2014:108),
+344,Sirionó,Cases,7,1,Schermair (1949: 28),"Genitivo, dativo, acusativo, nominativo, locativo, instrumental, direccional.",3,2,Dahl (2014:114),"Sujeto, objeto y oblícuo."
+345,Sirionó,Dem,7,1,Schermair (1949: 69),,3,2,Dahl (2014:124),
+346,Sirionó,NumClass,0,1,Schermair (1949: 28),,0,2,,
+347,Sirionó,GenClass,0,,,,1,2,Dahl (2014:123),
+348,Sirionó,NounClass,1,1,Schermair (1949: 27),Se afijan formas léxicas como 'macho' o 'hembra',0,2,Dahl (2014:109),
+349,Sirionó,InstrCom,1,2,Schermair (1949: 31),,nan,,,
+350,Sirionó,Poss,nan,,,Cuando se habla de posesión no se evidencia la diferenciación por alienabilidad.,0,2,Dahl (2014:110),"No hay motivos para pensar en la distinción entre alienable e inalienable"""
+351,Sirionó,LocDir,1,2,Schermair (1949: 31),,nan,,,
+352,Sirionó,TempLoc,0,,,,nan,,,
+353,Sirionó,DitransMarking,0,1,Schermair (1949: 164),Se utiliza la misma marca.,1,2,Dahl (2014:109),
+354,Sirionó,CA_case,0,,,Se marcan con elementos libres. ,nan,,,
+355,Sirionó,CA_head,nan,,,,nan,,,
+356,Sirionó,CA_wordorder,1,1,Schermair (1949: 250),,1,2,Dahl (2014:110),
+357,Sirionó,PronAlign,nan,,,"Parecen seguir el mismo patrón que los nombres. Sin embargo, la descripción no permite asegurar el patrón de marcación.",nominativo-acusativo,2,Dahl (2014:108),
+358,Sirionó,NomAlign,nan,,,Orden de palabras. ,nan,2,Dahl (2014:114),No hay marcación en las FN. 
+359,Sirionó,TA_marks,7,1,Schermair (1949: 5),,4,1,Dahl (2014:118),Realis-Irealis además de dos circunfijos de pasado con contenido evidencial.
+360,Sirionó,Evid,nan,,,,3,2,Dahl (2014:120),
+361,Sirionó,Questions,1,2,Schermair (1949: 74),,1,2,Dahl (2014:124),
+362,Sirionó,MorphCaus,nan,,,,1,2,Dahl (2014:109),
+363,Sirionó,Tones,0,,,,0,,,
+364,Sirionó,Consonants,20,1,Schermair (1949: 11),,17,2,Dahl (2014:103),
+365,Sirionó,Vowels,14,1,Schermair (1949: 9),,6,1,Dahl (2014:104),"Sin embargo, cada una puede presentar realizaciones nasales, orales, cortas o largas."
+366,Sirionó,NasVowels,10,1,Schermair (1949: 9),,6,1,Dahl (2014:104),No tienen peso fonológico pero si son realizaciones muy comunes. 
+367,Sirionó,AdjN,N Adj ,2,Schermair (1949: 43),,N Adj ,2,,Ejemplos.
+368,Sirionó,GenN,GEN N ,1,Schermair (1949: 28),,ambos,2,Dahl (2014:116),
+369,Sirionó,BasicWO,SOV ,1,Revisión de ejemplos.,,no hay orden básico,2,Dahl (2014:116),Se pueden presentar construcciones SOV y OSV.
+370,Sirionó,,1,1,Schermair (1949: 111),,1,2,Dahl (2014:114),
+371,Sirionó,,0,1,Schermair (1949: 43), La información es confusa. Se dice que el adjetivo no presenta ninguna marca de 'declinación' de género número o caso pero inmediatamente desúpués se sostiene que presenta los mismos 'accidentes gramaticales'.,0,2,Dahl (2014:115),La lengua no tiene adjetivos.
+372,Uighur,Pron1P,2,2,Nadzip (1971:96),,3,2,Yakup (2005:103),Distinción entre inclusivo y exclusivo.
+373,Uighur,Pron2P,3,2,Nadzip (1971:96),,5,2,Yakup (2005:103),
+374,Uighur,Pron3P,2,2,Nadzip (1971:96),,2,2,Yakup (2005:103),
+375,Uighur,Cases,7,2,Nadzip (1971:77),Se consignan formas idénticas para el lativo y el dativo. Se menciona un  caso comparativo que no se consigna en la tabla principal de casos pero que si se ha consignado en este cuestionario. ,6,2,Yakup (2005:104),Cada caso presenta más de una marca con ligeras diferencias semánticas.
+376,Uighur,Dem,9,1,Nadzip (1971:101),Algunas formas aparentan ser compuestos. El autor lo menciona pero no hay ninguna sistematización que permita extraer las formas. ,6,1,Yakup (2005:104),"Los pornombres consignados son los ""básicos"". El sistema admite otros elementos que precisan la distancia entre el hablante y lo referenciado. "
+377,Uighur,NumClass,1,2,Nadzip (1971:95),,1,2,"Yakup (2005:107, 126,etc.)",
+378,Uighur,GenClass,0,,,,0,1,"Yakup (2005:96, 97, 98)",
+379,Uighur,NounClass,0,1,Nadzip (1971),"Las distinciones de género son léxicas.Los únicos, y poco comunes, morfemas de género son prestados de lenguas de contacto y no son productivos. ",0,1,,Género léxico.
+380,Uighur,InstrCom,0,2,Nadzip (1971:80),,nan,,,
+381,Uighur,Poss,nan,,,,nan,,,
+382,Uighur,LocDir,1,2,Nadzip (1971:83),,1,2,Yakup (2005:104),El direccional es llamado 'directivo'
+383,Uighur,TempLoc,1,2,Nadzip (1971:84),,0,2,Yakup (2005:125),El locativo se sufija a lexemas temporales.
+384,Uighur,DitransMarking,nan,,,,nan,,,
+385,Uighur,CA_case,1,1,Nadzip (1971:76),,1,1,Yakup (2005),
+386,Uighur,CA_head,nan,,,,nan,,,
+387,Uighur,CA_wordorder,1,,,,1,,,
+388,Uighur,PronAlign,nominativo-acusativo,2,Nadzip (1971:77),,nominativo-acusativo,2,Yakup (2005:103),
+389,Uighur,NomAlign,nominativo-acusativo,2,Nadzip (1971:146-47),,nominativo-acusativo,2,Yakup (2005:103),
+390,Uighur,TA_marks,5,1,Nadzip (1971:106),La descripción es bastante entreverada. Podría haber más elementos. ,3,2,,"Pasado habitual, intraterminal y aorista. El futuro se marca con verbos auxiliares. "
+391,Uighur,Evid,0,1,Nadzip (1971),"La lengua si tiene marcas de evidencialidad tal y como se consigna en la gramática del estadio 2. Sin embargo, en esta primera no hay reastro de dichas formas. ",8,1,Yakup (2005:145),Algunas formas parecen morfológicamente complejas por lo que no queda claro su estatus de marcas puramente evidenciales. 
+392,Uighur,Questions,1,2,Nadzip (1971:26),,1,2,Yakup (2005:106-,
+393,Uighur,MorphCaus,1,2,Nadzip (1971:109),,1,2,Yakup (2005:108),
+394,Uighur,Tones,0,,,,0,,,
+395,Uighur,Consonants,24,2,Nadzip (1971:17),,22,2,Yakup (2005:30),
+396,Uighur,Vowels,8,1,Nadzip (1971:17),,16,2,Yakup (2005:34),Se consideran las vocales largas.
+397,Uighur,NasVowels,0,,,,0,2,Yakup (2005:34),
+398,Uighur,AdjN,Adj N ,2,Nadzip (1971:139),,N Adj ,2,,Inferencia a partir de la evidencia en los ejemplos.
+399,Uighur,GenN,N GEN ,2,Nadzip (1971:172),,N GEN ,2,Yakup (2005:97),
+400,Uighur,BasicWO,SOV ,2,Nadzip (1971:140),,SOV ,2,,Ejemplos. 
+401,Uighur,,1,1,Nadzip (1971:117),,0,1,Yakup (2005:125),Ejemplos. 
+402,Uighur,,1,1,Nadzip (1971:90),,0,1,Yakup (2005:125),Ejemplos. 
+403,Washo,Pron1P,5,2,Kroeber (1907:268),,7,2,Jacobsen (1964: 441-462),5 libres mas dos ligadas. Todas para sujeto. Hay otras marcas para objeto que no se contabilizan aquí.
+404,Washo,Pron2P,4,2,Kroeber 1907:268),,6,2,Jacobsen (1964: 441-462),"3 libres, 3 ligadas. Hay otras marcas de objeto que no se contabilizan aquí. "
+405,Washo,Pron3P,0,2,Kroeber 1907:268),"Sin embargo, presenta una marca de objeto -a en algunos casos. Si se toma como referencia la gramática 2, el apatrente 0  en verdad corresponde a un salto glotal. ",7,1,Jacobsen (1964: 441-462),"6libres, 1 ligada. Hay otras marcas de objeto que no se contabilizan aquí. "
+406,Washo,Cases,13,1,Kroeber (1907:271),El listado de estas formas no es exahustivo. Hay tres marcas locativas que son formalmente distintas pero cuyo significado parece ser distinto.,5,1,Jacobsen (1964: 502),"Locativo, instrumental, comitativo, ablativo, proximativo."
+407,Washo,Dem,6,2,Kroeber (1907:269),,1,1,,Solo una forma (-di) que admite flexión para especificar su significado. 
+408,Washo,NumClass,1,,Kroeber (1907:299),,1,2,Jacobsen (1964: 599),
+409,Washo,GenClass,0,,,Sin datos,0,,,Sin datos
+410,Washo,NounClass,0,,,,1,2,Jacobsen (1964: 483),
+411,Washo,InstrCom,1,2,Kroeber (1907:271),,1,2,Jacobsen (1964: 524),
+412,Washo,Poss,nan,,,,nan,,,
+413,Washo,LocDir,1,2,Kroeber (1907:271),,1,2,Jacobsen (1964: 564),
+414,Washo,TempLoc,1,,Kroeber (1907:271),,nan,,,No se encuentran datos. 
+415,Washo,DitransMarking,nan,,,No hay datos suficientes.,1,1,Jacobsen (1964: 455),
+416,Washo,CA_case,nan,,,,nan,,,
+417,Washo,CA_head,1,2,Kroeber (1907:270),,1,1,,El caso es marcado en el verbo. 
+418,Washo,CA_wordorder,1,,,,1,,,
+419,Washo,PronAlign,nominativo-acusativo,1,Kroeber (1907:280),1 y 3 presentan un alineamiento tripartito. 2 presenta un alineamiento nominativo-acusativo. ,nominativo-acusativo,1,,
+420,Washo,NomAlign,neutro,,,No hay marcas en el nombre.,neutro,,,"NO hay marcas de A,S y P en el nombre."
+421,Washo,TA_marks,19,2,Kroeber (1907:290),,13,2,Jacobsen (1964: 606),
+422,Washo,Evid,nan,1,Kroeber (1907:290),"Sin embargo, el potencial parece tener usos evidenciales.",4,2,Jacobsen (1964: 606),"Etres niveles; primera mano visual, primera mano auditiva y reportativo. Se incliye un posclítico de ""conjetura"""
+423,Washo,Questions,1,,,,1,2,Jacobsen (1964: 598),
+424,Washo,MorphCaus,1,,Kroeber (1907:271),,1,2,Jacobsen (1964: 584),
+425,Washo,Tones,0,,,,0,,Jacobsen (1964: 52),
+426,Washo,Consonants,21,2,Kroeber (1907:255),,26,2,Jacobsen (1964: 52),
+427,Washo,Vowels,5,1,Kroeber (1907:253),,12,2,Jacobsen (1964: 52),
+428,Washo,NasVowels,0,2,Kroeber (1907:253),,0,,Jacobsen (1964: 52),
+429,Washo,AdjN,N Adj ,2,Kroeber (1907:299),,N Adj ,2,Jacobsen (1964),
+430,Washo,GenN,GEN N ,2,Kroeber (1907:301),,GEN N ,2,Jacobsen (1964),Los paradigmas pronominales y todas los ejemplos de posesión evidencian el orden consignado.
+431,Washo,BasicWO,SOV ,2,Kroeber (1907:301),,SOV ,2,Jacobsen (1964),
+432,Washo,,1,2,Kroeber (1907:270),Las relaciones gramaticales se marcan en el verbo.,1,2,Jacobsen (1964: 393),Las relaciones gramaticales se marcan en el verbo.
+433,Washo,NP_Agr,0,1,,Los datos no son claros.,0,2,Jacobsen (1964:412),
+434,Yami,Pron1P,3,2,Asai (1936:16),"Singular, plural exclusivo e inclusivo.",6,2,Rau-dong (2006:123),Incluye formas libres y ligadas.
+435,Yami,Pron2P,4,2,Asai (1936:16),Dos formas singulares y  dos formas plurales.,5,2,Rau-dong (2006:123),Incluye formas libres y ligadas.
+436,Yami,Pron3P,4,2,Asai (1936:17),"Dos singulares, una plural.",4,2,Rau-dong (2006:123),Incluye formas libres y ligadas.
+437,Yami,Cases,3,1,Asai (1936:16),"Nominativo, atributivo, locativo. ",4,2,Rau-dong (2006:118),"Locativo, Nominativo, Genitivo y Oblícuo."
+438,Yami,Dem,0,,,no hay evidencia,16,2,Rau-dong (2006:119),Distinciones  en función a la distancia del hablante. 
+439,Yami,NumClass,1,2,,Diferencias entre formas singulares y plurales.,1,2,Rau-dong (2006:122),
+440,Yami,GenClass,0,,,no hay evidencia,0,,,no hay evidencia
+441,Yami,NounClass,0,,,no hay evidencia,0,,,no hay evidencia
+442,Yami,InstrCom,nan,,,no hay evidencia,0,1,Rau-dong (2006:92),No se menciona al comitativo.
+443,Yami,Poss,nan,,,no hay evidencia,0,2,Rau-dong (2006:90),
+444,Yami,LocDir,nan,,,no hay evidencia,1,2,Rau-dong (2006:136),
+445,Yami,TempLoc,nan,,,no hay evidencia,nan,,,"En todas las meciones al locativo, no se hace referencia al matiz temporal."
+446,Yami,DitransMarking,nan,,,no hay evidencia,nan,,,
+447,Yami,CA_case,nan,,,no hay evidencia,nan,,,
+448,Yami,CA_head,nan,,,no hay evidencia,nan,,,
+449,Yami,CA_wordorder,1,,,no hay evidencia,1,,,
+450,Yami,PronAlign,nan,,,no hay evidencia,nan,,,
+451,Yami,NomAlign,nan,,,no hay evidencia,ergativo-absolutivo,2,Rau-dong (2006:94),
+452,Yami,TA_marks,7,1,Asai (1936:82),"Tres marcas de pretérito, cuatro aspectuales que denotan continuativo, rrealis e irrealis.",18,2,Rau-dong (2006:88),
+453,Yami,Evid,0,,,No se hace referencia a marcas de evidencialidad. ,0,,,
+454,Yami,Questions,1,2,Asai (1936:86),Partícula interrogativa.,1,,Rau-dong (2006:97),Partículas libres.
+455,Yami,MorphCaus,1,2,Asai (1936:76),*-pa,1,2,Rau-dong (2006:84),
+456,Yami,Tones,0,,,,0,,,
+457,Yami,Consonants,14,2,Asai (1936:16),,20,2,Rau-dong (2006:79),
+458,Yami,Vowels,7,2,Asai (1936:12),,4,2,Rau-dong (2006:79),
+459,Yami,NasVowels,0,1,Asai (1936:12),,0,,,
+460,Yami,AdjN,Adj N ,1,,Ejemplos.,Adj N ,2,Rau-dong (2006:125),
+461,Yami,GenN,ambos,,,Ejemplos: yuxtaposicipón.,N GEN ,2,Rau-dong (2006:105),
+462,Yami,BasicWO,VSO ,1,Asai (1936:12),,SVO ,2,Rau-dong (2006:91),
+463,Yami,,0,,Información insuficiente,,1,2,Rau-dong (2006:94),
+464,Yami,NP_Agr,0,,Información insuficiente,,0,2,Rau-dong (2006:125),La lengua no tiene adjetivos. Las frases adjetivales no presentan concordancia con el nombre. 
+465,Baure,Pron1P,4,2,pp. 56,,2,2,pp. 319,
+466,Baure,Pron2P,4,2,pp. 56,,2,2,pp. 319,
+467,Baure,Pron3P,6,2,pp. 3,,3,2,pp. 319,
+468,Baure,Cases,0,2,pp. 56,,0,2,pp. 116,
+469,Baure,Dem,10,2,pp. 3,,7,2,pp. 312-316,
+470,Baure,NumClass,0,,,,1,2,pp. 139,
+471,Baure,GenClass,0,,,,0,,,
+472,Baure,NounClass,1,2,pp. 2,,1,2,pp. 116  y 127,
+473,Baure,InstrCom,nan,,,,nan,,,
+474,Baure,Poss,nan,,,,0,2,pp. 31,El lexical
+475,Baure,LocDir,nan,,,,1,2,pp. 86,
+476,Baure,TempLoc,nan,,,,nan,,,
+477,Baure,DitransMarking,nan,,,,0,2,pp. 336,
+478,Baure,,0,1,pp. 2,,1,2,pp. 157,Mediante el clasificador
+479,Baure,CA_case,0,2,pp. 56,,1,2,pp. 116,
+480,Baure,CA_head,nan,,,,1,2,pp. 174-176,
+481,Baure,CA_wordorder,1,,,,1,2,pp. 333 ,
+482,Baure,PronAlign,neutro,2,pp. 56,,neutro,2,pp. 319,
+483,Baure,NomAlign,neutro,2,pp. 56,,nominativo-acusativo,2,pp. 116,
+484,Baure,TA_marks,4,2,pp. 68 y pp. 70,,9,2,pp. 218,
+485,Baure,Evid,nan,,,,1,2,pp. 376,
+486,Baure,Questions,nan,,,,1,2,pp. 349,
+487,Baure,MorphCaus,nan,,,,1,2,pp. 217,
+488,Baure,,nan,,,,1,2,pp. 175,
+489,Baure,Tones,nan,,,,0,2,pp. 33,
+490,Baure,Consonants,nan,,,,13,2,pp. 39,"Mencionan que la glotal es un caso crítico, así que no la cuento"
+491,Baure,Vowels,nan,,,,4,2,pp. 33,
+492,Baure,NasVowels,nan,,,,0,2,pp. 33,
+493,Baure,AdjN,nan,,,,ambos,2,pp. 104,
+494,Baure,GenN,nan,,,,N GEN ,2,pp. 126,
+495,Baure,BasicWO,nan,,,,VSO ,2,pp. 333 ,"En narrativa, cambia a VOS cuando hay un argumento humano o inanimado"
+496,Central_Okinawa,Pron1P,2,2,pp. 105,,3,2,pp. 387,
+497,Central_Okinawa,Pron2P,4,2,pp. 105,,4,2,pp. 387,
+498,Central_Okinawa,Pron3P,12,2,pp. 105,,2,2,pp. 387,
+499,Central_Okinawa,Cases,nan,,,,nan,,,
+500,Central_Okinawa,Dem,nan,,,,nan,,,
+501,Central_Okinawa,NumClass,0,,,,0,,,
+502,Central_Okinawa,GenClass,0,,,,0,,,
+503,Central_Okinawa,NounClass,1,2,pp. 113,,0,,,
+504,Central_Okinawa,InstrCom,nan,,,,nan,,,
+505,Central_Okinawa,Poss,nan,,,,nan,,,
+506,Central_Okinawa,LocDir,nan,,,,nan,,,
+507,Central_Okinawa,TempLoc,nan,,,,0,2,pp. 391,El locativo temporal es una partícula
+508,Central_Okinawa,DitransMarking,nan,,,,nan,,,
+509,Central_Okinawa,,nan,,,,0,2,pp. 387-388,
+510,Central_Okinawa,CA_case,nan,,,,1,2,pp. 391,
+511,Central_Okinawa,CA_head,nan,,,,0,2,pp. 391,
+512,Central_Okinawa,CA_wordorder,nan,,,,1,1,,"A partir de los ejemplos en el bosquejo, parece una con sistema de marcación de orden de palabras nominativo-acusativo"
+513,Central_Okinawa,PronAlign,neutro,1,Parece que no marca RG en los pronombres,,neutro,1,,Parece que no marca RG en los pronombres
+514,Central_Okinawa,NomAlign,nan,,,,nominativo-acusativo,2,pp. 391,
+515,Central_Okinawa,TA_marks,3,2,pp. 60,,4,2,pp. 384-385,
+516,Central_Okinawa,Evid,nan,,,,2,2,pp. 398,
+517,Central_Okinawa,Questions,nan,,,,1,2,pp. 395-396,
+518,Central_Okinawa,MorphCaus,1,2,pp. 169,,1,2,pp. 397,
+519,Central_Okinawa,,0,2,pp. 59,,0,2,pp. 384-385,
+520,Central_Okinawa,Tones,1,2,pp. 7                                            ,,nan,,,
+521,Central_Okinawa,Consonants,24,2,pp. 5,,19,2,pp. 379,
+522,Central_Okinawa,Vowels,5,2,pp. 5,,6,2,pp. 379,
+523,Central_Okinawa,NasVowels,0,2,pp. 5,,0,2,pp. 379,
+524,Central_Okinawa,AdjN,nan,,,,N Adj ,2,pp. 387,
+525,Central_Okinawa,GenN,nan,,,,GEN N ,2,pp. 387,
+526,Central_Okinawa,BasicWO,nan,,,,SOV ,1,,"A partir de los ejemplos en el bosquejo, parece una con sistema de marcación de orden de palabras nominativo-acusativo"
+527,Comanche,Pron1P,2,2,pp. 356,,5,2,pp. 98,
+528,Comanche,Pron2P,2,2,pp. 356,,7,2,pp. 98,
+529,Comanche,Pron3P,2,2,pp. 356,,16,2,pp. 98,
+530,Comanche,Cases,0,2,pp. 355,,3,2,pp. 47,
+531,Comanche,Dem,2,1,pp. 359,,5,2,pp. 90-91,Estoy contando solo las raíces
+532,Comanche,NumClass,0,,,,0,,,
+533,Comanche,GenClass,0,,,,0,,,
+534,Comanche,NounClass,1,2,pp. 354,Es mediante léxico,1,2,pp. 47,
+535,Comanche,InstrCom,nan,,,,1,2,pp. 224,
+536,Comanche,Poss,nan,,,,nan,,,
+537,Comanche,LocDir,nan,,,,nan,,,
+538,Comanche,TempLoc,nan,,,,nan,,,
+539,Comanche,DitransMarking,nan,,,,nan,,,
+540,Comanche,,nan,,,,1,2,pp. 7,
+541,Comanche,CA_case,nan,,,,1,2,pp. 53,
+542,Comanche,CA_head,nan,,,,1,2,pp. 113,
+543,Comanche,CA_wordorder,nan,,,,1,2,pp. 194,
+544,Comanche,PronAlign,nan,,,,nominativo-acusativo,1,pp. 98-99,
+545,Comanche,NomAlign,nan,,,,nominativo-acusativo,2,pp. 53,
+546,Comanche,TA_marks,0,1,pp. 357-359,Son partículas léxicas,13,2,pp. 135 y pp. 142,
+547,Comanche,Evid,nan,,,,nan,,,
+548,Comanche,Questions,nan,,,,0,2,pp. 108,Flexión en el pronombre
+549,Comanche,MorphCaus,nan,,,,1,2,pp. 130,
+550,Comanche,,nan,,,,1,2,pp. 136 y pp. 149,
+551,Comanche,Tones,nan,,,,nan,,,
+552,Comanche,Consonants,nan,,,,12,2,pp. 10,
+553,Comanche,Vowels,nan,,,,6,2,pp. 10,
+554,Comanche,NasVowels,nan,,,,0,2,pp. 19,
+555,Comanche,AdjN,nan,,,,Adj N ,2,pp. 192,
+556,Comanche,GenN,nan,,,,nan,,,
+557,Comanche,BasicWO,nan,,,,SOV ,2,pp. 194,
+558,Garrwa,Pron1P, ,,,,5,2,pp. 85,
+559,Garrwa,Pron2P,nan,,,,3,2,pp. 85,
+560,Garrwa,Pron3P,nan,,,,3,2,pp. 85,
+561,Garrwa,Cases,7,1,pp. 5,,7,2,pp. 58,
+562,Garrwa,Dem,nan,,,,3,1,pp. 41,
+563,Garrwa,NumClass,0,,,,0,,,
+564,Garrwa,GenClass,0,,,,0,,,
+565,Garrwa,NounClass,0,,,,1,2,pp. 78,
+566,Garrwa,InstrCom,0,2,pp. 4,,0,2,pp. 38,
+567,Garrwa,Poss,0,1,pp. 25,Es mediante sintaxis,1,2,pp. 81-82,
+568,Garrwa,LocDir,nan,,,,1,1,pp. 42 y pp. 68,
+569,Garrwa,TempLoc,nan,,,,0,1,pp. 68,Ambos bajo un mismo morfema de locativo
+570,Garrwa,DitransMarking,0,1,pp. 67,Sx,0,1,pp. 184,Parece que no hay verbos que pidan tres argumentos 
+571,Garrwa,,1,2,pp. 3-4,Mediante caso,nan,2,pp. 44,Los adjetivos no son una clase de palabras
+572,Garrwa,CA_case,1,2,pp. 2,,1,2,pp. 34,
+573,Garrwa,CA_head,nan,,,,nan,,,
+574,Garrwa,CA_wordorder,0,2,pp. 52,,nan,,,
+575,Garrwa,PronAlign,nominativo-acusativo,2,pp. 2,,nominativo-acusativo,2,pp. 40,
+576,Garrwa,NomAlign,ergativo-absolutivo,2,pp. 2,,ergativo-absolutivo,2,pp. 34,
+577,Garrwa,TA_marks,11,1,pp. 51-52 y pp. 58,,5,2,pp. 205-226,
+578,Garrwa,Evid,nan,,,,1,2,pp. 232,
+579,Garrwa,Questions,0,2,pp. 76,Mediante sx,0,2,pp. 143 y pp. 285,Mediante léxico
+580,Garrwa,MorphCaus,nan,,,,1,2,pp. 178,
+581,Garrwa,,0,2,pp. 52,,0,2,pp. 184,
+582,Garrwa,Tones,nan,,,,nan,,,
+583,Garrwa,Consonants,nan,,,,14,2,pp. 14,
+584,Garrwa,Vowels,nan,,,,3,2,pp. 22,
+585,Garrwa,NasVowels,nan,,,,0,2,pp. 22,
+586,Garrwa,AdjN,N Adj ,2,pp. 7,,nan,,,
+587,Garrwa,GenN,nan,,,,nan,,,
+588,Garrwa,BasicWO,no hay orden básico,2,pp. 52,,nan,,,
+589,Guugu_Yimidhirr,Pron1P,4,2,pp. 17,,6,2,pp. 66,
+590,Guugu_Yimidhirr,Pron2P,3,2,pp. 17,,4,2,pp. 66,
+591,Guugu_Yimidhirr,Pron3P,3,2,pp. 17,,3,2,pp. 66,
+592,Guugu_Yimidhirr,Cases,4,2,pp. 16,,12,2,pp. 46-47,
+593,Guugu_Yimidhirr,Dem,nan,,,,nan,,,
+594,Guugu_Yimidhirr,NumClass,0,,,,0,,,
+595,Guugu_Yimidhirr,GenClass,0,,,,0,,,
+596,Guugu_Yimidhirr,NounClass,1,2,PP. 15,,1,2,pp. 55,
+597,Guugu_Yimidhirr,InstrCom,nan,,,,1,2,pp. 58,Existe caso instrumental (igual al erg) y hay una marca para comitativo
+598,Guugu_Yimidhirr,Poss,nan,,,,nan,,,
+599,Guugu_Yimidhirr,LocDir,nan,,,,nan,,,
+600,Guugu_Yimidhirr,TempLoc,nan,,,,nan,,,
+601,Guugu_Yimidhirr,DitransMarking,nan,,,,nan,,,
+602,Guugu_Yimidhirr,,0,2,pp. 23,,1,2,pp. 46,Mediante caso
+603,Guugu_Yimidhirr,CA_case,1,2,pp. 16,,1,2,pp. 46-47,
+604,Guugu_Yimidhirr,CA_head,nan,,,,nan,,,
+605,Guugu_Yimidhirr,CA_wordorder,nan,,,,1,1,pp. 101,
+606,Guugu_Yimidhirr,PronAlign,nominativo-acusativo,2,pp. 16-18,,nominativo-acusativo,2,pp. 65,
+607,Guugu_Yimidhirr,NomAlign,nominativo-acusativo,2,pp. 16,,ergativo-absolutivo,2,pp. 46-47,
+608,Guugu_Yimidhirr,TA_marks,12,2,pp. 21,,14,2,pp. 80,
+609,Guugu_Yimidhirr,Evid,nan,,,,nan,,,
+610,Guugu_Yimidhirr,Questions,1,2,pp. 32,Es mediante tono y acento,nan,,,
+611,Guugu_Yimidhirr,MorphCaus,nan,,,,1,2,pp. 47,
+612,Guugu_Yimidhirr,,0,2,pp. 21,,0,2,pp. 28,
+613,Guugu_Yimidhirr,Tones,nan,,,Mencionan la existencia de tono fonológico pero no dan un número.,nan,,,
+614,Guugu_Yimidhirr,Consonants,nan,,,,17,2,pp. 36,
+615,Guugu_Yimidhirr,Vowels,nan,,,,6,2,pp.28,
+616,Guugu_Yimidhirr,NasVowels,nan,,,,0,2,pp. 28,
+617,Guugu_Yimidhirr,AdjN,N Adj ,2,pp. 28,,N Adj ,2,pp. 103,
+618,Guugu_Yimidhirr,GenN,nan,,,,nan,,,
+619,Guugu_Yimidhirr,BasicWO,nan,,,,SOV,1,pp. 101,
+620,Jaru,Pron1P,6,1,pp. 64-65 ,,7,2,pp. 214,
+621,Jaru,Pron2P,3,1,pp. 64-65,,3,2,pp. 214,
+622,Jaru,Pron3P,2,1,pp. 64-65,,3,2,pp. 214,
+623,Jaru,Cases,8,2,pp. 55-61,,10,2,pp. 168,
+624,Jaru,Dem,7,1,pp. 61-63,,7,2,pp. 110-11,
+625,Jaru,NumClass,0,,,,0,,,
+626,Jaru,GenClass,0,,,,0,,,
+627,Jaru,NounClass,0,2,pp. 2,,1,2,pp. 210,Parece haber dos sufijos de número: dual y paucal
+628,Jaru,InstrCom,0,1,,"El ergativo tiene función de instrumental. No hay mención en la gramática de la categoría de comitativo, solo de instrumental",1,2,pp. 173,El ergativo tiene función de instrumental y existe un caso comitativo
+629,Jaru,Poss,0,2,pp. 194,"La distinción no es morfológica, sino sintáctica",1,2,pp. 374-378,
+630,Jaru,LocDir,1,1,pp. 55 y pp. 208,,1,2,pp. 169 y pp. 111,
+631,Jaru,TempLoc,0,1,pp. 55,Solo mencionan un locativo,nan,,,
+632,Jaru,DitransMarking,nan,,,,1,1,pp. 582,
+633,Jaru,,1,2,pp. 94,,1,2,pp. 105,
+634,Jaru,CA_case,1,2,pp. 55,,1,2,pp. 531,
+635,Jaru,CA_head,0,1,,"De acuerdo con los ejemplos, parece que no marca argumentos en el verbo",nan,,,
+636,Jaru,CA_wordorder,1,2,pp. 211,,0,2,pp. 547,
+637,Jaru,PronAlign,ergativo-absolutivo,1,pp. 91,Las pronombres libres son erg-abs; las marcas pronominales son nom-acc,neutro,1,pp. 214,
+638,Jaru,NomAlign,ergativo-absolutivo,2,pp. 55,,ergativo-absolutivo,2,pp. 532,
+639,Jaru,TA_marks,nan,,,,nan,,,
+640,Jaru,Evid,nan,,,,nan,,,
+641,Jaru,Questions,0,2,"pp. 63, pp. 67, pp. 75",Es mediante léxico,0,2,pp.,Es mediante léxico
+642,Jaru,MorphCaus,0,2,pp. 193,,0,1,pp. 454,Solo mencionan la afijación de ese verbo transitivo
+643,Jaru,,0,2,pp. 76,,0,2,pp. 401,
+644,Jaru,Tones,0,2,pp. 47,,0,1,Cap 2,"Parece no haber, no se menciona en el capítulo de fonología y no apareció como relevante en la anterior gram"
+645,Jaru,Consonants,17,2,pp. 23,,17,2,pp. 62,
+646,Jaru,Vowels,4,2,pp. 23 y pp. 26,,4,2,pp. 63,
+647,Jaru,NasVowels,0,1,pp. 23 y pp. 26,No mencionan vocales nasales,0,1,Cap 2,Solo aparece como proceso fonológico
+648,Jaru,AdjN,N Adj ,1,pp. 93-94,"Al ver los ejemplos, eso parece",ambos,2,pp. 366-367,
+649,Jaru,GenN,nan,,,,nan,,,
+650,Jaru,BasicWO,SOV,1,pp. 211,El segundo más extendido es SVO,no hay orden básico,2,pp. 547-548,La tabla demuestra una frecuencia parecida entre los distintos órdenes
+651,Kanakanavu,Pron1P,5,2,pp. 38,,5,2,pp. 72,
+652,Kanakanavu,Pron2P,4,2,pp. 38,,2,2,pp. 72,
+653,Kanakanavu,Pron3P,0,2,pp. 38,,1,2,pp. 72,
+654,Kanakanavu,Cases,nan,,,,nan,,,
+655,Kanakanavu,Dem,nan,,,,5,2,pp. 86,
+656,Kanakanavu,NumClass,0,,,,0,,,
+657,Kanakanavu,GenClass,0,,,,0,,,
+658,Kanakanavu,NounClass,0,,,,1,2,pp. 59-60,
+659,Kanakanavu,InstrCom,nan,,,,0,1,,Sí hay marca de instrumental pero no se menciona marca de comitativo
+660,Kanakanavu,Poss,nan,,,,nan,,,
+661,Kanakanavu,LocDir,nan,,,,nan,,,
+662,Kanakanavu,TempLoc,nan,,,,nan,,,
+663,Kanakanavu,DitransMarking,nan,,,,nan,,,
+664,Kanakanavu,,nan,,,,0,2,pp. 83-83,
+665,Kanakanavu,CA_case,1,1,pp. 36,,nan,,,
+666,Kanakanavu,CA_head,1,2,pp. 36,,1,2,pp. 114-115,
+667,Kanakanavu,CA_wordorder,nan,,,,1,2,pp. 119,
+668,Kanakanavu,PronAlign,nominativo-acusativo,1,pp. 38,,nan,,,
+669,Kanakanavu,NomAlign,nominativo-acusativo,1,pp. 36,,nan,,,
+670,Kanakanavu,TA_marks,4,2,pp. 51,,6,2,pp. 99,
+671,Kanakanavu,Evid,nan,,,,0,2,pp. 127,Es mediante construcción de cláusula
+672,Kanakanavu,Questions,nan,,,,0,2,pp. 136-137,Léxico
+673,Kanakanavu,MorphCaus,nan,,,,1,2,115-116,
+674,Kanakanavu,,1,2,pp. 36,,1,2,pp. 114-115,
+675,Kanakanavu,Tones,0,1,,No  mencionan en la parte de fonología,0,1,,No mencionan en la parte de fonología
+676,Kanakanavu,Consonants,13,2,pp. 27,,14,2,pp. 30,
+677,Kanakanavu,Vowels,4,2,pp. 27,,6,2,pp. 33,
+678,Kanakanavu,NasVowels,0,2,pp. 27,,0,2,pp. 33,
+679,Kanakanavu,AdjN,nan,,,,Adj N ,2,pp. 60,
+680,Kanakanavu,GenN,nan,,,,N GEN ,2,pp. 61,
+681,Kanakanavu,BasicWO,nan,,,,VSO ,2,pp. 119,
+682,Nimboran,Pron1P,2,1,pp. 167,,2,2,pp. 47,
+683,Nimboran,Pron2P,1,1,pp. 167,,1,2,pp. 47,
+684,Nimboran,Pron3P,1,1,pp. 167,,1,2,pp. 47,
+685,Nimboran,Cases,nan,,,,0,2,pp. 160,
+686,Nimboran,Dem,nan,,,,0,1,,No aparece en clases de palabras
+687,Nimboran,NumClass,0,,,,0,2,pp. 52-53,
+688,Nimboran,GenClass,0,,,,0,,,
+689,Nimboran,NounClass,1,2,pp. 91,,0,2,pp. 160,
+690,Nimboran,InstrCom,nan,,,,0,2,pp. 124-125,Son partículas léxicas distintas
+691,Nimboran,Poss,nan,,,,0,2,pp. 162,
+692,Nimboran,LocDir,nan,,,,1,2,pp. 68-73,
+693,Nimboran,TempLoc,nan,,,,nan,,,
+694,Nimboran,DitransMarking,nan,,,,1,2,pp. 43,
+695,Nimboran,,nan,2,pp. 121,No son una clase de palabras,0,2,pp. 47,
+696,Nimboran,CA_case,nan,,,,0,2,pp. 160,
+697,Nimboran,CA_head,1,2,pp. 56-57,,1,2,pp. 43,
+698,Nimboran,CA_wordorder,nan,,,,1,2,pp. 41,
+699,Nimboran,PronAlign,nan,,,,nan,,,
+700,Nimboran,NomAlign,nan,,,,nan,,,
+701,Nimboran,TA_marks,4,2,pp. 59-60,,4,2,pp. 61,
+702,Nimboran,Evid,nan,,,,nan,,,
+703,Nimboran,Questions,nan,,,,0,2,pp. 47,Solo mediante pronombre interrogativo
+704,Nimboran,MorphCaus,nan,,,,nan,,,
+705,Nimboran,,1,2,pp. 56,,1,2,pp. 42-43,
+706,Nimboran,Tones,0,1,,No aparece en la parte de fonología,0,1,,No aparece en la parte de fonología
+707,Nimboran,Consonants,12,2,pp. 9,,12,2,pp. 12,
+708,Nimboran,Vowels,6,2,pp. 9,,6,2,pp. 12,
+709,Nimboran,NasVowels,0,2,pp. 9,,0,2,pp. 12,
+710,Nimboran,AdjN,nan,,,,N Adj ,2,pp. 41,
+711,Nimboran,GenN,nan,,,,GEN N ,2,pp. 41,
+712,Nimboran,BasicWO,nan,,,,SOV ,2,pp. 41,
+713,Northwest_Sahaptin,Pron1P,3,2,pp. 250,,4,2,pp. 186,
+714,Northwest_Sahaptin,Pron2P,3,1,pp. 250,Parecen la misma forma pero las cuentan como 3,3,2,pp. 186,
+715,Northwest_Sahaptin,Pron3P,3,1,pp. 250,Parecen la misma forma pero las cuentan como 3,5,2,pp. 186,
+716,Northwest_Sahaptin,Cases,4,1,pp. 212,,8,2,pp. 158,
+717,Northwest_Sahaptin,Dem,2,1,pp. 258,Estoy contando las raíces,2,2,pp.193,Contando las raíces
+718,Northwest_Sahaptin,NumClass,0,,,,0,,,
+719,Northwest_Sahaptin,GenClass,0,,,,0,,,
+720,Northwest_Sahaptin,NounClass,1,2,pp. 226,,1,2,pp. 267,
+721,Northwest_Sahaptin,InstrCom,nan,,,,1,2,pp. 161 y pp. 166,
+722,Northwest_Sahaptin,Poss,nan,,,,nan,,,
+723,Northwest_Sahaptin,LocDir,1,2,pp. 212,,1,2,pp. 108 y pp. 174,
+724,Northwest_Sahaptin,TempLoc,nan,,,,nan,,,
+725,Northwest_Sahaptin,DitransMarking,nan,,,,1,2,pp. 323-324,
+726,Northwest_Sahaptin,,nan,2,pp. 242,No hay adjetivos. Son nombres.,1,2,pp. 161,Es mediante el caso
+727,Northwest_Sahaptin,CA_case,1,2,pp. 212,,1,2,pp. 332,
+728,Northwest_Sahaptin,CA_head,1,1,pp. 143-144,,1,2,pp. 74,
+729,Northwest_Sahaptin,CA_wordorder,0,2,pp.270,,0,2,pp. 334,
+730,Northwest_Sahaptin,PronAlign,nominativo-acusativo,2,pp. 249-250,,nominativo-acusativo,2,pp. 186,
+731,Northwest_Sahaptin,NomAlign,nominativo-acusativo,2,pp. 212,,tripartito,2,pp. 332,
+732,Northwest_Sahaptin,TA_marks,4,2,pp. 199 y pp. 206,,6,2,pp. 92,
+733,Northwest_Sahaptin,Evid,1,2,pp. 129,,1,2,pp. 391,
+734,Northwest_Sahaptin,Questions,nan,,,,0,2,pp. 199,Es léxico
+735,Northwest_Sahaptin,MorphCaus,1,2,pp. 151,,1,2,pp. 223,
+736,Northwest_Sahaptin,,1,2,pp. 142,Solo para la 3P,1,2,pp. 74,Solo para la 3P
+737,Northwest_Sahaptin,Tones,0,1,,No aparece en la parte de fonología,0,1,,No aparece en la parte de fonología
+738,Northwest_Sahaptin,Consonants,33,2,pp. 103,,32,2,pp. 43,
+739,Northwest_Sahaptin,Vowels,4,1,pp. 100,,7,2,pp. 39,
+740,Northwest_Sahaptin,NasVowels,0,1,,No aparece en la parte de fonología,0,2,pp. 39,
+741,Northwest_Sahaptin,AdjN,Adj N ,2,pp. 270,,Adj N ,2,pp. 288,El orden puede variar en la FN
+742,Northwest_Sahaptin,GenN,nan,,,,GEN N ,2,pp. 121-122,
+743,Northwest_Sahaptin,BasicWO,no hay orden básico,2,pp. 270,,no hay orden básico,2,pp. 334,
+744,Pawnee,Pron1P, ,,,,nan,,,
+745,Pawnee,Pron2P,nan,,,,nan,,,
+746,Pawnee,Pron3P,nan,,,,nan,,,
+747,Pawnee,Cases,2,2,pp. 93,,0,2,pp. 39,
+748,Pawnee,Dem,7,2,pp. 254-260,,nan,,,
+749,Pawnee,NumClass,0,,,,0,,,
+750,Pawnee,GenClass,0,,,,0,,,
+751,Pawnee,NounClass,1,2,pp. 96,,1,2,pp. 41-42,
+752,Pawnee,InstrCom,0,2,pp. 93,,nan,,,
+753,Pawnee,Poss,1,2,pp. 93,,nan,,,
+754,Pawnee,LocDir,0,2,pp. 93,,0,2,pp. 40,
+755,Pawnee,TempLoc,nan,,,,0,2,pp. 40,
+756,Pawnee,DitransMarking,nan,,,,nan,,,
+757,Pawnee,,nan,,,,nan,,,
+758,Pawnee,CA_case,0,2,pp. 93,,0,2,pp. 39,
+759,Pawnee,CA_head,1,2,pp. 164,,1,2,pp. 8,
+760,Pawnee,CA_wordorder,nan,,,,0,2,pp. 43,
+761,Pawnee,PronAlign,nan,,,,nan,,,
+762,Pawnee,NomAlign,nan,,,,nan,,,
+763,Pawnee,TA_marks,9,2,pp. 188 y pp. 224,,nan,,,
+764,Pawnee,Evid,5,2,pp. 232,,1,2,pp. 61,
+765,Pawnee,Questions,0,2,pp. 243,Léxico,1,2,pp. 113,
+766,Pawnee,MorphCaus,1,2,pp. 275,,1,2,pp. 8,
+767,Pawnee,,1,2,pp. 144,,1,2,pp. 12,
+768,Pawnee,Tones,0,1,,No aparece en la parte de fonología,0,1,,No aparece en la parte de fonología
+769,Pawnee,Consonants,8,2,pp. 14,,9,2,pp. 4,Menciona que se considera la glotal a diferencia de la G1
+770,Pawnee,Vowels,8,2,pp. 16-17,La gramática menciona que la distinción larga/corta es fonológica,4,2,pp. 4,Menciona que la distinción larga/corta no es fonológica
+771,Pawnee,NasVowels,0,2,pp. 16-17,,0,2,pp. 4,
+772,Pawnee,AdjN,nan,,,,nan,,,
+773,Pawnee,GenN,nan,,,,nan,,,
+774,Pawnee,BasicWO,nan,,,,no hay orden básico,2,pp. 43,
+775,Rembarrnga,Pron1P,6,1,pp. 100,,8,2,pp. 203,
+776,Rembarrnga,Pron2P,3,1,pp. 100,,4,2,pp. 203,
+777,Rembarrnga,Pron3P,4,1,pp. 100,,5,2,pp. 203,
+778,Rembarrnga,Cases,15,2,"pp. 78, pp. 80, pp. 86 y pp. 88-89",,2,2,pp. 191,
+779,Rembarrnga,Dem,23,2,pp. 119 y pp. 122,,15,2,pp. 217,
+780,Rembarrnga,NumClass,0,,,,0,,,
+781,Rembarrnga,GenClass,0,,,,0,,,
+782,Rembarrnga,NounClass,1,2,"pp. 73-74, pp. 77",,1,2,pp. 192,
+783,Rembarrnga,InstrCom,1,2,pp. 78 y pp. 85,,nan,,,
+784,Rembarrnga,Poss,1,2,pp. 289,,1,2,pp. 155,
+785,Rembarrnga,LocDir,nan,,,,0,2,pp. 202,Solo hay marca de locativo
+786,Rembarrnga,TempLoc,nan,,,,0,1,pp. 202,
+787,Rembarrnga,DitransMarking,nan,,,,0,2,pp. 208,
+788,Rembarrnga,,nan,2,pp. 72,No considera los adjetivos como una clase separada de los nombres.,nan,2,pp. 190-191,No considera los adjetivos como una clase separada de los nombres.
+789,Rembarrnga,CA_case,1,2,pp. 78,,0,2,pp. 191,
+790,Rembarrnga,CA_head,1,1,pp. 141-145,,1,2,pp. 208,
+791,Rembarrnga,CA_wordorder,1,2,pp. 256,,0,2,pp. 155,La pragmática motiva el orden de constituyentes
+792,Rembarrnga,PronAlign,nan,2,pp. 100,,neutro,2,pp. 191,
+793,Rembarrnga,NomAlign,ergativo-absolutivo,2,pp. 78,Mencionan caso nom y erg pero agrupa S y O en contraste con A,neutro,2,pp. 191,
+794,Rembarrnga,TA_marks,5,2,pp. 130,,3,1,pp. 222-225,
+795,Rembarrnga,Evid,nan,,,,nan,,,
+796,Rembarrnga,Questions,0,2,pp. 114,,0,2,pp. 213,Es mediante léxico
+797,Rembarrnga,MorphCaus,1,2,pp. 129,,nan,,,
+798,Rembarrnga,,1,2,pp. 126,,1,2,pp. 155,
+799,Rembarrnga,Tones,0,1,,No aparece en la parte de fonología,0,1,,No aparece en la parte d fonología
+800,Rembarrnga,Consonants,16,2,pp. 13,,16,2,pp.170,
+801,Rembarrnga,Vowels,6,2,pp. 24,,5,2,pp. 170,
+802,Rembarrnga,NasVowels,0,2,pp. 24,,0,2,pp. 170,
+803,Rembarrnga,AdjN,ambos,1,pp. 68-69,,ambos,1,pp. 190-191,
+804,Rembarrnga,GenN,nan,,,,nan,,,
+805,Rembarrnga,BasicWO,SOV ,2,256,,no hay orden básico,2,pp. 155,La pragmática motiva el orden de constituyentes
+806,Saaroa,Pron1P,3,2,pp68,,3,2,pp. 258,
+807,Saaroa,Pron2P,2,2,pp. 68,,2,2,pp. 258,
+808,Saaroa,Pron3P,1,2,pp. 68,,5,2,pp. 258,
+809,Saaroa,Cases,3,1,pp. 67,,3,2,pp. 248,
+810,Saaroa,Dem,nan,,,,2,2,pp. 107,
+811,Saaroa,NumClass,0,,,,0,,,
+812,Saaroa,GenClass,0,,,,0,,,
+813,Saaroa,NounClass,0,,,,1,2,pp. 179 y pp. 57,
+814,Saaroa,InstrCom,nan,,,,0,2,,Mediante la misma partícula
+815,Saaroa,Poss,nan,,,,0,2,pp. 61,
+816,Saaroa,LocDir,nan,,,,nan,,,
+817,Saaroa,TempLoc,nan,,,,nan,,,
+818,Saaroa,DitransMarking,nan,,,,nan,,,
+819,Saaroa,,nan,,,,0,1,pp. 85,Ejemplo 3.74: Parece que no hay concordancia
+820,Saaroa,CA_case,1,1,pp. 67,,0,2,pp. 247-248,
+821,Saaroa,CA_head,1,1,pp. 69,Actor y Goal focus en el verb,0,1,pp. 247-258,
+822,Saaroa,CA_wordorder,nan,,,,1,2,pp. 219,
+823,Saaroa,PronAlign,nan,,,,neutro,2,pp. 262,
+824,Saaroa,NomAlign,nominativo-acusativo,,,,neutro,2,pp. 247-248,
+825,Saaroa,TA_marks,6,1,pp. 69,,7,2,pp. 193,
+826,Saaroa,Evid,nan,,,,1,2,pp. 201,
+827,Saaroa,Questions,nan,,,,1,2,pp. 107,Las polares son mediante marca morfológica y prosodia
+828,Saaroa,MorphCaus,nan,,,,3,2,pp. 308,
+829,Saaroa,,0,2,pp. 69,,1,2,pp. 79,
+830,Saaroa,Tones,0,1,,No aparece en la parte de fonología,0,2,pp. 21,
+831,Saaroa,Consonants,13,2,pp 59,,13,2,pp. 21,
+832,Saaroa,Vowels,4,2,pp. 59,,4,2,pp. 28-29,
+833,Saaroa,NasVowels,0,2,pp. 50,,0,2,pp. 28-29,
+834,Saaroa,AdjN,nan,,,,nan,2,pp. V ,Los adjetivos no son reconocidos como una clase de palabra independiente
+835,Saaroa,GenN,nan,,,,nan,,,
+836,Saaroa,BasicWO,nan,,,,VSO ,2,pp. 219,
+837,South_Wa,Pron1P,7,1,pp. 14,,5,2,pp. 42,
+838,South_Wa,Pron2P,4,1,pp. 14,,3,2,pp. 42,
+839,South_Wa,Pron3P,8,1,pp. 14,,3,2,pp. 42,
+840,South_Wa,Cases,0,2,pp. 9,,0,2,pp. 40,
+841,South_Wa,Dem,6,2,pp. 14,,11,2,pp. 51,
+842,South_Wa,NumClass,0,,,,1,2,"pp. 27-28, pp. 55-56",
+843,South_Wa,GenClass,0,,,,0,2,pp. 55-56,
+844,South_Wa,NounClass,0,2,pp. 11,El género se distingue porque son distintas palabras y el plural es añadiendo un adj al nombre,1,2,pp. 55-56,clasificadores
+845,South_Wa,InstrCom,nan,,,,0,2,pp. 60,El comitativo es mediante preposición
+846,South_Wa,Poss,0,1,pp. 14-15,No parece tan confiable,nan,,,
+847,South_Wa,LocDir,nan,,,,0,2,pp. 33,
+848,South_Wa,TempLoc,nan,,,,0,2,pp. 33,
+849,South_Wa,DitransMarking,nan,,,,nan,,,
+850,South_Wa,,0,1,pp. 12,"En base al ejemplo de clear water y el registro del adjetivo clear, parece que no hay concordancia entre nombre y adjetivo",0,2,pp. 48,
+851,South_Wa,CA_case,0,,pp. 9,,0,2,pp. 40,
+852,South_Wa,CA_head,nan,,,,0,1,pp. 46 y pp.72,Parece que no hay morfología verbal
+853,South_Wa,CA_wordorder,nan,,,,1,2,pp. 24,
+854,South_Wa,PronAlign,nan,,,,neutro,2,pp. 43,
+855,South_Wa,NomAlign,neutro,2,pp. 9,,neutro,1,pp. 40,Parece que no se marca las RG mediante caso
+856,South_Wa,TA_marks,nan,,,,0,2,pp. 78 y pp. 80-81,Es mediante léxico
+857,South_Wa,Evid,nan,,,,nan,,,
+858,South_Wa,Questions,nan,,,,0,2,pp.103-104,Es mediante léxico
+859,South_Wa,MorphCaus,nan,,,,0,2,pp. 98-99,La causatividad se expresa mediante verbos 
+860,South_Wa,,0,2,pp. 15,,0,2,pp. 21,
+861,South_Wa,Tones,5,2,pp. 8,,0,1,,No aparece en el capítulo 2 q es de fonología y morfología
+862,South_Wa,Consonants,nan,,,Solo hay referencia de la ortografía,35,2,pp. 14,
+863,South_Wa,Vowels,nan,,,,9,2,pp. 15,
+864,South_Wa,NasVowels,nan,,,,0,2,pp. 15,
+865,South_Wa,AdjN,ambos,2,pp. 12,Pero usualmente N Adj,N Adj ,2,pp. 39,
+866,South_Wa,GenN,N GEN ,2,pp. 15,,N GEN ,2,pp. 69,
+867,South_Wa,BasicWO,nan,,,,SVO ,2,pp. 21,"o VSO, siempre O al final"
+868,Tarifiyt,Pron1P,4,2,pp. 68,,2,2,pp. 21,
+869,Tarifiyt,Pron2P,6,2,pp. 68,,4,2,pp. 21,
+870,Tarifiyt,Pron3P,6,2,pp. 69,,4,2,pp. 21,
+871,Tarifiyt,Cases,0,1,pp. 52,,11,2,pp. 22,
+872,Tarifiyt,Dem,22,2,pp.81,,6,2,pp. 24,
+873,Tarifiyt,NumClass,0,,,,0,,,
+874,Tarifiyt,GenClass,0,,,,0,,,
+875,Tarifiyt,NounClass,1,2,pp. 42-43,,0,,,
+876,Tarifiyt,InstrCom,0,2,pp. 321,Solo hay preposición para instrumento. No hay mención de comitativo en la gramática.,nan,,,
+877,Tarifiyt,Poss,nan,,,,nan,,,
+878,Tarifiyt,LocDir,nan,,,,nan,,,
+879,Tarifiyt,TempLoc,nan,,,,nan,,,
+880,Tarifiyt,DitransMarking,nan,,,,nan,,,
+881,Tarifiyt,,nan,,pp. 368,Los verbos actúan de adjetivos.,nan,,pp.24,Tarifiyt no tiene adjetivos
+882,Tarifiyt,CA_case,1,1,pp. 51-52,Mencionan caso nom-acc,nan,,,
+883,Tarifiyt,CA_head,nan,,,,nan,,,
+884,Tarifiyt,CA_wordorder,1,2,pp. 439-440,,1,2,pp. 33,
+885,Tarifiyt,PronAlign,nan,,,,nan,,,
+886,Tarifiyt,NomAlign,nominativo-acusativo,1,pp. 51-52,Mencionan caso nom-acc,nan,,,
+887,Tarifiyt,TA_marks,4,1,pp. 167-170,,3,1,pp. 19,
+888,Tarifiyt,Evid,nan,,,,nan,,,
+889,Tarifiyt,Questions,0,2,pp. 427,Mediante partícula o entonación,0,2,pp. 26,Mediante pronombres interrogativo
+890,Tarifiyt,MorphCaus,0,2,pp. 321,Mediante preposición,1,2,pp. 18,
+891,Tarifiyt,,1,2,pp. 30,,1,2,pp. 15,
+892,Tarifiyt,Tones,0,1,,No aparece en la parte de fonología,0,1,,No aparece en la parte de fonología
+893,Tarifiyt,Consonants,24,1,pp. 1,,31,2,pp. 14,
+894,Tarifiyt,Vowels,6,1,pp. 1,,3,2,pp. 14,
+895,Tarifiyt,NasVowels,0,1,,No aparece en la parte de vocales,0,2,pp. 14,
+896,Tarifiyt,AdjN,N Adj ,2,pp. 370,,nan,,,
+897,Tarifiyt,GenN,nan,,,,nan,,,
+898,Tarifiyt,BasicWO,VSO ,2,pp. 439-440,"También SOV, el objeto siempre después del sujeto",VSO ,2,pp. 33,
+899,Thado_Chin,Pron1P,5,2,pp. 40,,5,2,pp. 101,
+900,Thado_Chin,Pron2P,3,2,pp. 40,,3,2,pp. 101,
+901,Thado_Chin,Pron3P,3,2,pp. 40,,3,2,pp. 101,
+902,Thado_Chin,Cases,7,2,pp. 45-46,,5,2,pp. 125,
+903,Thado_Chin,Dem,2,2,pp. 40,,6,2,pp. 103,
+904,Thado_Chin,NumClass,0,,,,0,2,pp. 123-124,
+905,Thado_Chin,GenClass,0,,,,0,2,pp. 123-124,
+906,Thado_Chin,NounClass,1,2,pp. 36-38,,1,2,pp. 123-124 y pp. 107,
+907,Thado_Chin,InstrCom,nan,,,,1,2,pp. 125,
+908,Thado_Chin,Poss,nan,,,,nan,,,
+909,Thado_Chin,LocDir,1,2,pp. 35 y pp. 47,,nan,,,
+910,Thado_Chin,TempLoc,nan,,,,nan,,,
+911,Thado_Chin,DitransMarking,nan,,,,0,2,pp. 213,
+912,Thado_Chin,,1,2,pp. 52,,nan,2,pp. 116-118,Son adjectival verbs
+913,Thado_Chin,CA_case,1,2,pp. 45-46,,1,2,pp. 125,
+914,Thado_Chin,CA_head,0,2,pp. 59,,1,2,pp. 156,
+915,Thado_Chin,CA_wordorder,1,,pp. 79,,1,2,pp. 198,
+916,Thado_Chin,PronAlign,nominativo-acusativo,2,pp. 42-43,,nan,,,
+917,Thado_Chin,NomAlign,nominativo-acusativo,2,pp. 42-43,,ergativo-absolutivo,2,pp. 125,
+918,Thado_Chin,TA_marks,0,2,pp. 64-67,Léxico,0,2,pp. 143-144,Léxico
+919,Thado_Chin,Evid,nan,,,,1,2,pp. 151,
+920,Thado_Chin,Questions,1,2,pp. 71,,1,2,pp. 214,
+921,Thado_Chin,MorphCaus,1,2,pp. 61,,1,2,pp. 213-214,
+922,Thado_Chin,,1,2,pp. 60,,0,2,pp. 132,
+923,Thado_Chin,Tones,5,2,pp. 7,,3,2,pp. 72,
+924,Thado_Chin,Consonants,23,2,pp. 6,,20,2,pp. 44,
+925,Thado_Chin,Vowels,6,2,pp. 6-7,,6,2,pp. 53,
+926,Thado_Chin,NasVowels,0,2,pp. 6-7,,0,2,pp. 53,
+927,Thado_Chin,AdjN,N Adj ,2,pp. 6,,N Adj ,2,pp. 129-130,
+928,Thado_Chin,GenN,nan,1,pp. 6,"No aparece en la FN, pero hay caso posesivo en el nombre",GEN N ,2,pp. 129-130,
+929,Thado_Chin,BasicWO,SOV ,1,pp. 79,"También OSV, solo mencionan que el V está al final",SOV ,2,pp. 198,Tambiéen OSV para fines pragmáticos
+930,Yuwaalaraay_Gamilaraay,Pron1P,3,2,pp. 47,,3,2,pp. 127-128,
+931,Yuwaalaraay_Gamilaraay,Pron2P,3,2,pp. 47,,3,2,pp. 127-128,
+932,Yuwaalaraay_Gamilaraay,Pron3P,1,2,pp. 47,,6,2,pp. 128-129,
+933,Yuwaalaraay_Gamilaraay,Cases,6,2,pp. 38,,10,2,pp. 19-20,
+934,Yuwaalaraay_Gamilaraay,Dem,19,2,pp. 87-92,,17,1,pp. 161 y pp. 170,El autor dice que la lista no es concluyente ya que faltan muchos más
+935,Yuwaalaraay_Gamilaraay,NumClass,0,,,,0,,,
+936,Yuwaalaraay_Gamilaraay,GenClass,0,,,,0,,,
+937,Yuwaalaraay_Gamilaraay,NounClass,1,2,pp. 43,,1,2,pp. 96-109,
+938,Yuwaalaraay_Gamilaraay,InstrCom,1,2,pp. 41,,1,2,pp. 23 y pp. 73,
+939,Yuwaalaraay_Gamilaraay,Poss,nan,,,,nan,,,
+940,Yuwaalaraay_Gamilaraay,LocDir,nan,,,,nan,,,
+941,Yuwaalaraay_Gamilaraay,TempLoc,nan,,,,nan,,,
+942,Yuwaalaraay_Gamilaraay,DitransMarking,nan,,,,nan,,,
+943,Yuwaalaraay_Gamilaraay,,1,2,pp. 36,Tanto el sujeto como el adjetivo toma afijos de caso,1,2,xxxvii,Tanto el sujeto como el adjetivo toma afijos de caso
+944,Yuwaalaraay_Gamilaraay,CA_case,1,2,pp. 36,,1,2,,
+945,Yuwaalaraay_Gamilaraay,CA_head,0,1,,En la gramática no aparece y en los ejemplos parece no haber,0,2,,No sale en el cap de morfo verbal y en los ejemplos no parece haber
+946,Yuwaalaraay_Gamilaraay,CA_wordorder,1,2,pp. 93,,1,2,pp. 408,
+947,Yuwaalaraay_Gamilaraay,PronAlign,activo-inactivo,2,pp. 48,,activo-inactivo,2,pp. 127-129,
+948,Yuwaalaraay_Gamilaraay,NomAlign,ergativo-absolutivo,2,pp. 36,,activo-inactivo,2,pp. 38-39,
+949,Yuwaalaraay_Gamilaraay,TA_marks,8,2,pp. 61 y pp. 74,,nan,,,
+950,Yuwaalaraay_Gamilaraay,Evid,nan,,,,nan,,,
+951,Yuwaalaraay_Gamilaraay,Questions,nan,,,,0,2,pp. 237,Léxico
+952,Yuwaalaraay_Gamilaraay,MorphCaus,nan,,,,1,2,pp. 353,
+953,Yuwaalaraay_Gamilaraay,,0,1,pp. 59,"En el capítulo no se menciona. Al parecer por los ejemplos, parece que no.",0,1,pp. 271,"En el capítulo de morfología verbal no aparece, y en los ejemplos parece no haber."
+954,Yuwaalaraay_Gamilaraay,Tones,0,2,pp. 14,,0,2,pp. 497,
+955,Yuwaalaraay_Gamilaraay,Consonants,15,2,pp. 14,,15,2,pp. 497,
+956,Yuwaalaraay_Gamilaraay,Vowels,6,2,pp. 18,,6,2,pp. 497,
+957,Yuwaalaraay_Gamilaraay,NasVowels,0,2,pp. 18,,0,2,pp. 497,
+958,Yuwaalaraay_Gamilaraay,AdjN,Adj N ,2,pp. 96,,Adj N ,2,pp. 431,
+959,Yuwaalaraay_Gamilaraay,GenN,N GEN ,2,pp. 96-97,,ambos,2,pp. 434,
+960,Yuwaalaraay_Gamilaraay,BasicWO,SOV ,2,pp. 93,Este orden de palabras ocurre en un  65% de 150 oraciones recogidas,SOV ,2,pp. 408,La tabla muestra más frecuencia de SOV
+961,Carijona,Pron1P,2,1,Koch-Grünberg 1908: 969,no informa sobre inclusivo/exclusivo,3,1,Moreno 2000: 174,Da exclusivo/inclusivo; pero ninguna forma para 2pl
+962,Carijona,Pron2P,2,1,Koch-Grünberg 1908: 969,,1,1,Moreno 2000: 174,"Las formas de 2pl de Koch-Grünberg y de 1excl. tienen cierta correspondencia, probablemente la misma forma"
+963,Carijona,Pron3P,2,2,Koch-Grünberg 1908: 969,,2,2,Moreno 2000: 174,
+964,Carijona,Cases,0,1,Koch-Grünberg 1908:959,"“No hay caso” - pero da una lista de oblicuos postposicionales; probablemente no ligados, pero tal vez algunos de ellos; no se sabe",2,2,Moreno 2000: 175,only dative and comitative as bound forms: “Las demás postposiciones parecen no participar de la prefija­ción de morfemas de persona. “
+965,Carijona,Dem,2,2,Koch-Grünberg 1908:972,,nan,,no se comenta,
+966,Carijona,NumClass,0,2,,,0,2,,
+967,Carijona,GenClass,0,2,,no hay marca de possession,0,1,,
+968,Carijona,NounClass,1,1,Koch-Grünberg 1908:957,“no hay evidencia de genéro” pero da varios ejemplos de clasificadores nominales; possibly compounds?,1,1,Moreno 2000: 174,"“ Los procesosgramaticales propios del nombre son los de determinación. Ladeterminación permite a un nombre modificar su referencia; puedeasí remitir a la generalidad la clase de las entidades que denota,hasta llegar a referir a una sola entidad dentro de la clase.”"
+969,Carijona,InstrCom,1,2,Koch-Grünberg 1908:961,Comitativo: -mateInstrumental: -ke,1,2,Moreno 2000: 175,
+970,Carijona,Poss,1,2,Koch-Grünberg 1908:970,“a punto de perderse”,1,2,Moreno 2000: 175,"pues, no se perdió"
+971,Carijona,LocDir,1,2,Koch-Grünberg 1908:959,,1,2,Moreno 2000: 175,
+972,Carijona,TempLoc,nan,,,no se menciona locativo temporal,nan,,no se comenta,
+973,Carijona,DitransMarking,1,2,Koch-Grünberg 1908:960,postpositions for beneficiary,1,2,Moreno 2000: 175,dative (-dza)
+974,Carijona,CA_case,0,2,Koch-Grünberg 1908:955,no hay marca de caso,0,2,Moreno 2000: 173,
+975,Carijona,CA_head,1,2,Koch-Grünberg 1908:976,Ergativo,1,2,Moreno 2000: 173,Switch to Nom-Acc in most persons
+976,Carijona,CA_wordorder,0,2,Koch-Grünberg 1908:955,cross-referencing,0,2,Moreno 2000: 175,OV como órden básico
+977,Carijona,PronAlign,neutro,2,Koch-Grünberg 1908:976,only cross-referencing,neutro,2,Moreno 2000: 173,same form for both Nom-Acc
+978,Carijona,NomAlign,neutro,2,Koch-Grünberg 1908:976,erg-abs lost on the verbal marking,neutro,2,Moreno 2000: 173,only marked on verb
+979,Carijona,TA_marks,6,2,Koch-Grünberg 1908:973,"-he, -ta, -ka, -ne, -i, t...-se ",6,2,Moreno 2000: 177,no holistic list but additional cases (those of Koch-Grünberg) in appendix text
+980,Carijona,Evid,0,,no se habla de evidencialidad,,0,,no se habla de evidencialidad,
+981,Carijona,Questions,nan,,no se habla de interrogación,,nan,,no se habla de interrogación,
+982,Carijona,MorphCaus,0,,ningun comentario,,1,2,Moreno 2000: 174,existen dos
+983,Carijona,Tones,0,,ningun comentario,,0,,ningun comentario,
+984,Carijona,Consonants,20,1,Koch-Grünberg 1908:90,18 + 2 glides,14,2,Moreno 2000: 172,"/ d / desaparecida, para otros da reglas fonológicas, no son “distinctive features”"
+985,Carijona,Vowels,13,1,Koch-Grünberg 1908:89,counting nasal vowels,7,2,Moreno 2000: 172,Da reglas fonológicas que explican la diferencia and attests phonological stability of Carijona (expect for / d/)
+986,Carijona,NasVowels,5,2,Koch-Grünberg 1908:89,“las nasalizaciones son escasaz”,0,1,Moreno 2000: 172,no menciona nasalización
+987,Carijona,AdjN,Adj N ,2,Koch-Grünberg 1908:958,,nan,,,not discussed and no examples
+988,Carijona,GenN,GEN N ,2,Koch-Grünberg 1908:955,"Sin marca, pero es “Modificador – Head”",nan,,,ningun comentario
+989,Carijona,BasicWO,SOV ,2,Koch-Grünberg 1908:955,"SOV, sometimes OVS",SOV ,2,Moreno 2000: 174,"OV at the center of typology in this language, Subject can vary to some degree"
+990,Carijona,VP_Agr,1,2,Koch-Grünberg 1908:973,,1,2,Moreno 2000: 173,
+991,Carijona,NP_Agr,nan,,,no Adj-N constructions with plural,nan,,,no adjectives mentioned in text
+992,Domari,Pron1P,2,2,Macalister 1914:20,Phrasal form for incl/excl (p. 22),2,2,Matras 2012:214,
+993,Domari,Pron2P,2,2,Macalister 1914:20,,2,2,Matras 2012:214,
+994,Domari,Pron3P,2,2,Macalister 1914:20,,2,2,Matras 2012:214,
+995,Domari,Cases,8,2,Macalister 1914:15,"—Nominative, Voca­tive, Accusative, Dative, Locative+Instrum ental (one form), Associative, Directive, Ablative.",7,2,Matras 2012:214,"Benefactivo, Locativo, Dativo, Sociativo, Ablativo, Nom, Voc"
+996,Domari,Dem,6,2,Macalister 1914:23,,6,2,Matras 2012:219,"gender contrast in demonstratives, but not personal pronouns"
+997,Domari,NumClass,0,2,,Number system is borrowed from arabic,0,2,Matras 2012:188,Kurdish and arabic number system
+998,Domari,GenClass,0,2,,,0,2,,
+999,Domari,NounClass,1,2,Macalister 1914:9,,1,2,Matras 2012:128,
+1000,Domari,InstrCom,1,2,Macalister 1914:12,,0,2,Matras 2012:163,"Not productive anymore: “a marginal case marker in the Domari variety of Jerusalem, having been almost entirely replaced by the Arabic preposition PDযn‘with’ among the majority of speakers. It is used in a comitative function; all examples in the corpus are limited to its occurrence with the verb ߂ ‘to speak’:"
+1001,Domari,Poss,0,2,Macalister 1914:22,only pronominal suffixes,0,2,Matras 2012:166,
+1002,Domari,LocDir,1,2,Macalister 1914:12,“directive” and locative,0,2,Matras 2012:147,"Directional either by locative or dative (depends on the semantics), but directive has been lost"
+1003,Domari,TempLoc,0,2,Macalister 1914:12,,0,2,Matras 2012:155,Expressions of time are similarly treated by analogy to spatial containment:
+1004,Domari,DitransMarking,1,2,Macalister 1914:15,dativo,1,2,Matras 2012:316,dativo
+1005,Domari,CA_case,1,2,Macalister 1914: 21,,1,2,Matras 2012:214,"caso en los nombres, no en los pronombres"
+1006,Domari,CA_head,1,2,Macalister 1914: 21,,1,2,Matras 2012:214,subject and object affixes
+1007,Domari,CA_wordorder,0,2,Macalister 1914:15,,0,2,Matras 2012:214,
+1008,Domari,PronAlign,neutro,2,Macalister 1914: 20,"Properly speaking, they are indeclin­able, ",neutro,2,Matras 2012:214,“ personal pronouns do not inflect for nominal case”
+1009,Domari,NomAlign,nominativo-acusativo,2,Macalister 1914:12,,nominativo-acusativo,2,Matras 2012:128,
+1010,Domari,TA_marks,2,1,Macalister 1914: 26,"“ the original Aryan tense-system has utterly broken down under the influence of the Arabic verb, and that while such || Nuri personal endings as are necessary have been retained, their syntactic treatment is now purely Semitic.“ ------- “Macalister completely fails to identify the presence of the external tense markers L and D and hence the meaningful distinction between forms like” - comment by Matras",4,2,Matras 2012:239,"id-, s-, I, aStabilized system"
+1011,Domari,Evid,0,,,,0,2,Matras 2012:277,tense form used sometimes for evidentiality
+1012,Domari,Questions,nan,,Macalister 1914:24,only talking about pronouns,prosodia,2,Matras 2012:324,"the principal structural feature indicating the question illocution is the rising intonation, coupled with the use of subjunctive/imperative mood of the verb which indicates the suspended realisation of the action."
+1013,Domari,MorphCaus,1,2,Macalister 1914: 33,-naw,1,2,Matras 2012:236,-naw/aw-
+1014,Domari,Tones,0,,,,0,,,
+1015,Domari,Consonants,29,1,Macalister 1914:3,A lot of Arabic borrowings,34,2,Matras 2012:36,A lot of Arabic borrowings
+1016,Domari,Vowels,12,1,Macalister 1914:20,,14,2,Matras 2012:42,“vowel sounds tend to alternate with neighbouring variants without any meaningful contrast. Phoneme boundaries can therefore be formed around clusters of adjoining vowels )”
+1017,Domari,NasVowels,0,2,,,0,2,,
+1018,Domari,AdjN,Adj N ,2,Macalister 1914:17,,Adj N ,2,Matras 2012:202,
+1019,Domari,GenN,GEN N ,2,Macalister 1914:13,ongoing shift from genitive to ablative?,N GEN ,2,Matras 2012:161,ablative marks possessor
+1020,Domari,BasicWO,SVO ,2,Macalister 1914: 26,"no explicit statement, but analysis seems to hold for SVO",SVO ,2,Matras 2012:317,"The pre-verbal field contains both the temporal specification and the identification of thesubject-topic. The post-verbal field contains both the argument of the verb (averb of motion that takes an indirect object), as well as a purpose clause thatoffers a glimpse into the continuing unfolding of the story."
+1021,Domari,VP_Agr,1,2,Macalister 1914: 27,,1,2,Matras 2012:249,
+1022,Domari,NP_Agr,1,2,Macalister 1914: 17,Gender and Number,1,2,Matras 2012:202,Gender and Number
+1023,Even,Pron1P,3,2,Benzing 1955:75,"no gen, but incl/excl",3,2,Juwon 2011:63,
+1024,Even,Pron2P,2,2,Benzing 1955:75,,2,2,Juwon 2011:63,
+1025,Even,Pron3P,2,2,Benzing 1955:75,,2,2,Juwon 2011:63,
+1026,Even,Cases,16,2,Benzing 1955:55,"Nom, Voc, Acc, Part, Dat, Abl, Lok, Prol, Dir-Loc, Dir-Pro, Direktiv, Instr, Elativ, Adessiv, Komitativ, Äquativ",13,2,Juwon 2011:53,"Vocative lost, Adessiv also lostCombination of directional + prolativ is made explicit as single case in Benzing (through...until)"
+1027,Even,Dem,2,2,Benzing 1955:76,"lists three, but one seems to be the not spatial (“eben der”)",2,2,Juwon 2011:63,
+1028,Even,NumClass,0,2,Benzing 1955:71,,0,2,Juwon 2011:218,neither mentioned nor evidence
+1029,Even,GenClass,0,2,,,0,2,,
+1030,Even,NounClass,0,2,,,0,2,,
+1031,Even,InstrCom,1,2,Benzing 1955:55,,1,2,Juwon 2011:53,
+1032,Even,Poss,nan,,,not mentioned,nan,,,not mentioned
+1033,Even,LocDir,1,2,Benzing 1955:61,further distinguishing prolative and directional,1,2,Juwon 2011:53,further distinguishing prolative and directional
+1034,Even,TempLoc,0,2,Benzing 1955:60,,0,2,Juwon 2011:54,
+1035,Even,DitransMarking,1,2,Benzing 1955:55,rich case system,1,2,Juwon 2011:54,rich case system
+1036,Even,CA_case,1,2,Benzing 1955:55,,1,2,Juwon 2011:54,
+1037,Even,CA_head,1,2,Benzing 1955:87,,1,2,Juwon 2011:81,
+1038,Even,CA_wordorder,0,2,Benzing 1955:116,,0,2,Juwon 2011:81,
+1039,Even,PronAlign,nominativo-acusativo,2,Benzing 1955:76,,nominativo-acusativo,2,Juwon 2011:63,
+1040,Even,NomAlign,nominativo-acusativo,2,Benzing 1955:55,,nominativo-acusativo,2,Juwon 2011:63,
+1041,Even,TA_marks,13,2,Benzing 1955:43-45,"He has a very broad definition of aspect, ",13,2,Juwon 2011:77-94,extensive list in old questionnaire;
+1042,Even,Evid,0,,,,0,,,
+1043,Even,Questions,morfología,2,Benzing 1955:111,,morfología,2,Juwon 2011:111,
+1044,Even,MorphCaus,1,2,Benzing 1955:48,,1,2,Juwon 2011:76,
+1045,Even,Tones,0,,,,0,,,
+1046,Even,Consonants,23,1,Benzing 1955:10,"No minimal pairs are established; are we dealing with phonemes or qualities? (it seems like qualities, which makes the comparison more difficult)",27,2,Juwon 2011:23,phonemes: 18not counted: 4 which appear only in russian loanwords
+1047,Even,Vowels,13,2,Benzing 1955:6,"Cites “Levin” with 16, but shows how 3 values are lost because they match other qualities; 13 is his reliable analysis",13,2,Juwon 2011:11,
+1048,Even,NasVowels,0,,,,0,,,
+1049,Even,AdjN,Adj N ,2,Benzing 1955:116,some constructions with N-Adj,Adj N ,2,Juwon 2011:68,N-Adj if used predicatively
+1050,Even,GenN,GEN N ,2,Benzing 1955:83,"wird das Besitzverhältnis zweier Sub­stantive im allgemeinen durch eine Konstruktion mit Possessivsuffix aus­gedrückt, welche unseren Genitiv ersetzt: Marja 3 u .11 ‘Maria ihr-Haus’ >",GEN N ,2,Juwon 2011:219,
+1051,Even,BasicWO,no hay orden básico,2,Benzing 1955:116,“ das L a m u tisch e ein e S p ra ch e m it r e c h t fre ie r W o r t ­ste llu n g ist.“ - una lengua sin orden basico,no hay orden básico,2,Juwon 2011:114,Huge russian influence stated by author
+1052,Even,VP_Agr,1,2,Benzing 1955:87,,1,2,Juwon 2011:81,
+1053,Even,NP_Agr,1,2,Benzing 1955:66,,1,2,Juwon 2011:68,add morphological case and number affixes the same as nouns.
+1054,Forest_Enets,Pron1P,1,2,Castren 1854:351,dual and plural derived by different case affixes,1,2,Siegl 2013:186,dual and plural derived by different case affixes
+1055,Forest_Enets,Pron2P,1,2,Castren 1854:351,dual and plural derived by different case affixes,1,2,Siegl 2013:186,dual and plural derived by different case affixes
+1056,Forest_Enets,Pron3P,1,2,Castren 1854:351,,1,2,Siegl 2013:186,dual and plural derived by different case affixes
+1057,Forest_Enets,Cases,6,1,Castren 1854:316,Lack of detailed fieldwork shows (Castrén focussed on comparative perspective and especially Forest Enets lacks extensive fieldwork,9,2,Siegl 2013:161,rich oblique case system
+1058,Forest_Enets,Dem,3,2,Castren 1854:358,,3,2,Siegl 2013:203,
+1059,Forest_Enets,NumClass,0,2,Castren 1854:182,,0,2,,
+1060,Forest_Enets,GenClass,0,2,,,0,2,,
+1061,Forest_Enets,NounClass,0,2,,,0,2,,
+1062,Forest_Enets,InstrCom,0,2,Castren 1854:108,no comitative,0,2,Siegl 2013:161,locative expresses both meanings
+1063,Forest_Enets,Poss,0,2,,not mentioned when talking about possession,0,2,Siegl 2013:235,A formal distinction between alienable possession (‘my knife’) and inalienable possession (‘my nose’) does not exist
+1064,Forest_Enets,LocDir,1,2,Castren 1854:114,locative and prolative,0,2,Siegl 2013:402,"loc described as “loc-dir” case, prolative is now extinct"
+1065,Forest_Enets,TempLoc,0,2,Castren 1854:108,,0,2,Siegl 2013:164,explicitly stated that not
+1066,Forest_Enets,DitransMarking,1,2,Castren 1854:316,rich oblique case system,1,2,Siegl 2013:351,rich oblique case system
+1067,Forest_Enets,CA_case,0,2,Castren 1854:108,"Dual y plural identico al nominativo; en singular, hay dos formas que aún parecen al genitivo, pero ya están en full camino a perderse hacia el nominativo (y tal vez ya lao hicieron, es meramente un cambio de sonoridad que falta, de t a d)",0,2,Siegl 2013:121,“ the non-possessive accusative shows no overt case marking”
+1068,Forest_Enets,CA_head,1,2,Castren 1854:293,,1,2,Siegl 2013:145,
+1069,Forest_Enets,CA_wordorder,0,2,,,0,2,,
+1070,Forest_Enets,PronAlign,nominativo-acusativo,2,Castren 1854:351,,nominativo-acusativo,2,Siegl 2013:187,Different stem is used for Acc
+1071,Forest_Enets,NomAlign,neutro,2,Castren 1854:293,"Dual y plural identico al nominativo; en singular, hay dos formas que aún parecen al genitivo, pero ya están en full camino a perderse hacia el nominativo (y tal vez ya lao hicieron, es meramente un cambio de sonoridad que falta, de t a d)",neutro,2,Siegl 2013:122,inflection system is lost for Nom/Acc
+1072,Forest_Enets,TA_marks,4,1,Castren 1854:369,,12,2,Siegl 2013:261,
+1073,Forest_Enets,Evid,0,,,not mentioned,0,2,Siegl 2013:265,"tenses with evidential interpretation, but no explicit markers"
+1074,Forest_Enets,Questions,1,2,Castren 1854:518,,1,2,Siegl 2013:285,only for questions about the past
+1075,Forest_Enets,MorphCaus,nan,,,no se encuentra evidencia,0,2,Siegl 2013:350,"Synchronically, causativization in Forest Enets is no longer productive, but traces of the causative -đa/-da/-ta can be found"
+1076,Forest_Enets,Tones,0,,,,0,,,
+1077,Forest_Enets,Consonants,20,1,Castren 1854:3,,21,2,Siegl 2013:83,
+1078,Forest_Enets,Vowels,5,1,Castren 1854:3,,6,2,Siegl 2013:94,
+1079,Forest_Enets,NasVowels,0,,,,0,,,
+1080,Forest_Enets,AdjN,Adj N ,2,Castren 1854:187,,Adj N ,2,Siegl 2013:98,
+1081,Forest_Enets,GenN,N GEN ,2,Castren 1854:111,"aspirated, mostly phonological rest of former phoneme",N GEN ,2,Siegl 2013:234,
+1082,Forest_Enets,BasicWO,nan,,,not discussed and no clear examples given,SOV ,2,Siegl 2013:363,"“In simple unmarked transitive clauses, the dominant word order is SOV:”"
+1083,Forest_Enets,VP_Agr,1,2,Castren 1854:293,,1,2,Siegl 2013:145,
+1084,Forest_Enets,NP_Agr,0,2,Castren 1854:187,Not in Jennisay (only in Tawgy),0,2,Siegl 2013:230,neither for case nor number
+1085,Hawaiian,Pron1P,5,2,Andrews 1854:58,incl/excl in dual amd pl,5,2,Elbert 1975:107,
+1086,Hawaiian,Pron2P,3,2,Andrews 1854:58,,3,2,Elbert 1975:107,
+1087,Hawaiian,Pron3P,3,2,Andrews 1854:58,,3,2,Elbert 1975:107,
+1088,Hawaiian,Cases,10,2,Andrews 1854:42,,10,2,Elbert 1975:131,"not counted “agentive”, seems to be an antipassive marker"
+1089,Hawaiian,Dem,7,1,Andrews 1854:85,3 stems,11,2,Elbert 1975:110,"stems resemble the forms of Andrews, who probably misinterpreted a lot of the forms because his analysis was less fine-grained"
+1090,Hawaiian,NumClass,1,2,Andrews 1854:31,,1,2,Elbert 1975:158,only one
+1091,Hawaiian,GenClass,0,2,,,0,2,,
+1092,Hawaiian,NounClass,0,2,,,0,2,,
+1093,Hawaiian,InstrCom,0,2,Andrews 1854:46,labelled as dative,0,2,Elbert 1975:145,
+1094,Hawaiian,Poss,1,2,Andrews 1854:46,,1,2,Elbert 1975:108,
+1095,Hawaiian,LocDir,1,2,Andrews 1854:50,,1,2,Elbert 1975:136,
+1096,Hawaiian,TempLoc,0,2,Andrews 1854:48,acc case expresses both,0,2,Elbert 1975:135,
+1097,Hawaiian,DitransMarking,0,2,Andrews 1854:48,acc case expresses both,0,2,Elbert 1975:133,
+1098,Hawaiian,CA_case,1,2,Andrews 1854:101,,1,2,Elbert 1975:131,
+1099,Hawaiian,CA_head,0,2,Andrews 1854:101,,0,2,Elbert 1975:131,
+1100,Hawaiian,CA_wordorder,0,2,Andrews 1854:58,pronouns and case,0,2,Elbert 1975:131,
+1101,Hawaiian,PronAlign,nominativo-acusativo,2,Andrews 1854:42,"pronouns inflect for case, but are frequently omitted",nominativo-acusativo,2,Elbert 1975:107,"pronouns inflect for case, but are frequently omitted"
+1102,Hawaiian,NomAlign,nominativo-acusativo,2,Andrews 1854:58,,nominativo-acusativo,2,Elbert 1975:131,
+1103,Hawaiian,TA_marks,9,1,Andrews 1854:102,mistakes Aspect for tense system and miscategorizes a lot of categories,5,2,Elbert 1975:58,
+1104,Hawaiian,Evid,0,,,,0,,,
+1105,Hawaiian,Questions,nan,,,nothing mentioned apart from wh-pronouns,prosodia,2,Elbert 1975:22,wh in-situ
+1106,Hawaiian,MorphCaus,1,2,Andrews 1854:122,,1,2,Elbert 1975:87,
+1107,Hawaiian,Tones,0,,,,0,,,
+1108,Hawaiian,Consonants,7,1,Andrews 1854:11,did not recognize the glottal stop as consonant,8,2,Elbert 1975:13,glottal stop “second most frequent consonant in th elanguage”
+1109,Hawaiian,Vowels,5,2,Andrews 1854:11,,5,2,Elbert 1975:14,"stress/length adds extra five, but as Andrews did not count them (but did recognize them, I dont either)"
+1110,Hawaiian,NasVowels,0,,,,0,,,
+1111,Hawaiian,AdjN,ambos,2,Andrews 1854:53,different kinds of adjectives require different orders,ambos,2,Elbert 1975:127,flexible word classes
+1112,Hawaiian,GenN,GEN N ,2,Andrews 1854:46,,GEN N ,2,Elbert 1975:116,"unsure whether this is a genitive, but form and structure is identical to that of Andrews"
+1113,Hawaiian,BasicWO,VSO ,2,Andrews 1854:35,,VSO ,2,Elbert 1975:108,
+1114,Hawaiian,VP_Agr,0,2,Andrews 1854:101,,0,2,Elbert 1975:131,
+1115,Hawaiian,NP_Agr,0,1,no mentions of agreement and a generally inflection-light language,,0,1,no mentions of agreement and a generally inflection-light language,
+1116,Hokkaido_Ainu,Pron1P,2,2,Refsing 1979:92,,2,2,Bugaeva 2012:471,
+1117,Hokkaido_Ainu,Pron2P,2,2,Refsing 1979:92,,2,2,Bugaeva 2012:471,
+1118,Hokkaido_Ainu,Pron3P,2,2,Refsing 1979:92,,2,2,Bugaeva 2012:471,
+1119,Hokkaido_Ainu,Cases,0,2,Refsing 1979:164,postpositions,0,2,Bugaeva 2012:483,postpositions
+1120,Hokkaido_Ainu,Dem,3,2,Refsing 1979:97,form such as “tapan” from Bugaeva are proximated by examples,3,2,Bugaeva 2012:472,
+1121,Hokkaido_Ainu,NumClass,1,2,Refsing 1979:111,human/non-human classifier,1,2,Bugaeva 2012:471,human/non-human
+1122,Hokkaido_Ainu,GenClass,0,2,,,0,2,,
+1123,Hokkaido_Ainu,NounClass,0,2,,,0,2,,
+1124,Hokkaido_Ainu,InstrCom,1,2,Refsing 1979:170,,1,2,Bugaeva 2012:476,
+1125,Hokkaido_Ainu,Poss,1,2,Refsing 1979:81,,1,2,Bugaeva 2012:478,
+1126,Hokkaido_Ainu,LocDir,1,2,Refsing 1979:165,,1,2,Bugaeva 2012:476,
+1127,Hokkaido_Ainu,TempLoc,0,2,Refsing 1979:164,,0,2,Bugaeva 2012:476,example with “loc” + “day”
+1128,Hokkaido_Ainu,DitransMarking,1,2,Refsing 1979:164,"unmarked P or allative case, A/O marked on verb",1,2,Bugaeva 2012:476,
+1129,Hokkaido_Ainu,CA_case,0,2,Refsing 1979:212,,0,2,Bugaeva 2012:472,"There is no flagging (= case marking) on arguments (S/A/O), either on pronouns or onnouns. Obliques are marked by postpositions (15.4.2)."
+1130,Hokkaido_Ainu,CA_head,1,2,Refsing 1979:212,,1,2,Bugaeva 2012:472,
+1131,Hokkaido_Ainu,CA_wordorder,0,2,Refsing 1979:212,,0,2,Bugaeva 2012:472,
+1132,Hokkaido_Ainu,PronAlign,neutro,2,Refsing 1979:212,,neutro,2,Bugaeva 2012:472,Personal pronouns (Table 15.2) are uninflected (S/A/O)
+1133,Hokkaido_Ainu,NomAlign,neutro,2,Refsing 1979:212,,neutro,2,Bugaeva 2012:472,
+1134,Hokkaido_Ainu,TA_marks,4,2,Refsing 1979:193,,4,2,Bugaeva 2012:493,4 asp + 4 mood
+1135,Hokkaido_Ainu,Evid,4,2,Refsing 1979:230,The choice of nomtitaltzer in the sentence final form is thus determinedby the semantic content of die verb being nominalizcd. ,4,2,Bugaeva 2012:493,"The expressive nominalizers ruwe eEVD, hawe eSAID, siri eSEEN, and humi eFELT"
+1136,Hokkaido_Ainu,Questions,morfología y prosodia,2,Refsing 1979:229,,morfología y prosodia,2,Bugaeva 2012:497,
+1137,Hokkaido_Ainu,MorphCaus,1,2,Refsing 1979:142,,1,2,Bugaeva 2012:481,
+1138,Hokkaido_Ainu,Tones,0,,,,0,,,
+1139,Hokkaido_Ainu,Consonants,12,2,Refsing 1979:68,"“excluding the glottal plosive, there are 11 consonants” - well, lets not exclude it then because Bugaeva doesnt either",12,2,Bugaeva 2012:465,
+1140,Hokkaido_Ainu,Vowels,5,2,Refsing 1979:68,,5,2,Bugaeva 2012:466,
+1141,Hokkaido_Ainu,NasVowels,0,,,,0,,,
+1142,Hokkaido_Ainu,AdjN,nan,,Refsing 1979:27,inflected like intransitive verbs → no adjectives,nan,,Bugaeva 2012:470,There is no morphologically distinct class of adjectives.
+1143,Hokkaido_Ainu,GenN,GEN N ,2,Refsing 1979:40,,GEN N ,2,Bugaeva 2012:478,
+1144,Hokkaido_Ainu,BasicWO,SOV ,2,Refsing 1979:40,,SOV ,2,Bugaeva 2012:472,
+1145,Hokkaido_Ainu,VP_Agr,1,2,Refsing 1979:212,,1,2,Bugaeva 2012:472,
+1146,Hokkaido_Ainu,NP_Agr,nan,,Refsing 1979:27,inflected like intransitive verbs → no adjectives,nan,,Bugaeva 2012:470,There is no morphologically distinct class of adjectives.
+1147,Isinai,Pron1P,4,2,Scheerer 1918:59,dual and incl/excl,4,2,Perlawan 2015:26,does not give dual in table but in lexical appendix he does
+1148,Isinai,Pron2P,2,2,,,2,2,Perlawan 2015:26,
+1149,Isinai,Pron3P,2,2,,,2,2,Perlawan 2015:26,
+1150,Isinai,Cases,3,2,Scheerer 1918:33,"“three fundamental groups of construction” – erg, abs, oblique",3,2,Perlawan 2015:18,"erg, abs oblique with genitive taking erg and oblique forms"
+1151,Isinai,Dem,3,2,Scheerer 1918:60,"three different forms attested, but not differentiated for cases",3,2,Perlawan 2015:27,inflect for case
+1152,Isinai,NumClass,1,1,Scheerer 1918:21,,0,1,,
+1153,Isinai,GenClass,0,2,,,0,2,,
+1154,Isinai,NounClass,0,2,,,0,2,,
+1155,Isinai,InstrCom,nan,,,,nan,,,
+1156,Isinai,Poss,nan,,,,nan,,,
+1157,Isinai,LocDir,nan,,,,nan,,,
+1158,Isinai,TempLoc,nan,,,,nan,,,
+1159,Isinai,DitransMarking,1,2,Scheerer 1918:33,,1,2,Perlawan 2015:51,second object is oblique marked
+1160,Isinai,CA_case,1,2,Scheerer 1918:33,,1,2,Perlawan 2015:18,
+1161,Isinai,CA_head,0,2,Scheerer 1918:32,"“ If, in spite of this absence of inflection, !sinai word-forms and sentences have a distinctly assertiveenergy, they derive this in great part from the vigor of theparticles employed, which, as indicated above, show themselvesclearly as of emphatic or demonstrative origin.“",0,2,Perlawan 2015:30,"focus marker for persons, but no agreement"
+1162,Isinai,CA_wordorder,0,2,,,0,2,,
+1163,Isinai,PronAlign,ergativo-absolutivo,2,Scheerer 1918:40,,ergativo-absolutivo,2,Perlawan 2015:26,
+1164,Isinai,NomAlign,ergativo-absolutivo,2,Scheerer 1918:40,,ergativo-absolutivo,2,Perlawan 2015:18,
+1165,Isinai,TA_marks,nan,,,not discussed,5,2,Perlawan 2015:32,counting infinitive as Aspect as well
+1166,Isinai,Evid,0,,,,0,,Perlawan 2015:35,
+1167,Isinai,Questions,nan,,,not discussed,morfología,2,Perlawan 2015:53,question particle “kadi”
+1168,Isinai,MorphCaus,nan,,,not discussed,1,2,Perlawan 2015:35,sa-
+1169,Isinai,Tones,0,,,not discussed,0,,,
+1170,Isinai,Consonants,nan,,,not discussed,16,2,Perlawan 2015:10,
+1171,Isinai,Vowels,nan,,,not discussed,5,2,Perlawan 2015:10,
+1172,Isinai,NasVowels,0,,,not discussed,0,,,
+1173,Isinai,AdjN,Adj N ,2,Scheerer 1918:70,N Adj is a structure of Relative clause and has different means of subordination than Adj N,Adj N ,2,Perlawan 2015:10,
+1174,Isinai,GenN,N GEN ,2,Scheerer 1918:93,"“ the possessivepronoun anticipating the expression of the possessor,”",N GEN ,2,Perlawan 2015:53,
+1175,Isinai,BasicWO,VSO ,2,Scheerer 1918:50,taken from examples on eating venison,VSO ,2,Perlawan 2015:25,Various examples seem to indicate VSO; Only V-initial is sure however
+1176,Isinai,VP_Agr,0,2,Scheerer 1918:32,"“ If, in spite of this absence of inflection, !sinai word-forms and sentences have a distinctly assertiveenergy, they derive this in great part from the vigor of theparticles employed, which, as indicated above, show themselvesclearly as of emphatic or demonstrative origin.“",0,2,Perlawan 2015:30,"focus marker for persons, but no agreement"
+1177,Isinai,NP_Agr,0,1,Scheerer 1918:70,No explicit mention,0,1,Perlawan 2015:10,No explicit mention
+1178,Komi-Zyrian,Pron1P,2,2,Gabelentz 1841:15,,2,2,Hausenberg 1998:313,all pronominal forms are implicitly given throughout the text
+1179,Komi-Zyrian,Pron2P,2,2,Gabelentz 1841:15,,2,2,Hausenberg 1998:313,
+1180,Komi-Zyrian,Pron3P,2,2,Gabelentz 1841:15,,2,2,Hausenberg 1998:313,
+1181,Komi-Zyrian,Cases,13,2,Gabelentz 1841:6,"The missing cases seem to have grammaticalized from postpositions borrowed from Russian, see Gabelentz 1841:35, where various forms are given which resemble the missing cases, especially the comitative",17,2,Hausenberg 1998:312,"bound form, borrowed from Russian? See Gabelentz comment"
+1182,Komi-Zyrian,Dem,2,1,Gabelentz 1841:20,"does only talk about proximate demonstrative, the distal is missing (but likely not missing in the language?)",3,2,Hausenberg 1998:314,
+1183,Komi-Zyrian,NumClass,0,2,,,0,2,,
+1184,Komi-Zyrian,GenClass,0,2,,,0,2,,
+1185,Komi-Zyrian,NounClass,0,2,,,0,2,,
+1186,Komi-Zyrian,InstrCom,0,2,Gabelentz 1841:36,"missing comitative in his analysis; but he gives a free postposition which resembles the comitative case as analyzed by Hausenberg, borrowed from Russian which might have grammaticalized",1,2,Hausenberg 1998:312,Comitative grammaticalized from Russian
+1187,Komi-Zyrian,Poss,nan,,,,nan,,,
+1188,Komi-Zyrian,LocDir,1,2,Gabelentz 1841:58,"illative, terminativ/transitive etc",1,2,Hausenberg 1998:312,"illative, transitive"
+1189,Komi-Zyrian,TempLoc,0,2,Gabelentz 1841:56,inessive for both,0,2,Hausenberg 1998:312,"there’s an enassive case but without description, but most probably resembles the Gabelenth case"
+1190,Komi-Zyrian,DitransMarking,1,2,Gabelentz 1841:6,rich case system,1,2,Hausenberg 1998:312,rich case system
+1191,Komi-Zyrian,CA_case,1,2,Gabelentz 1841:6,,1,2,Hausenberg 1998:312,rich case system
+1192,Komi-Zyrian,CA_head,1,2,Gabelentz 1841:23,,1,2,Hausenberg 1998:316,person suffixes for subject
+1193,Komi-Zyrian,CA_wordorder,0,2,Gabelentz 1841:75,,0,2,Hausenberg 1998:321,
+1194,Komi-Zyrian,PronAlign,nominativo-acusativo,2,Gabelentz 1841:15,,nominativo-acusativo,2,Hausenberg 1998:313,
+1195,Komi-Zyrian,NomAlign,nominativo-acusativo,2,Gabelentz 1841:6,,nominativo-acusativo,2,Hausenberg 1998:312,
+1196,Komi-Zyrian,TA_marks,5,2,Gabelentz 1841:22,"3 tense, 2 aspect",5,2,Hausenberg 1998:315,
+1197,Komi-Zyrian,Evid,0,,,,0,,,
+1198,Komi-Zyrian,Questions,morfología,2,Gabelentz 1841:43,does not talk about intonation and phonology,morfología,2,Hausenberg 1998:321,"both morphological and intonation: a question can be impliedpurely by intonation, so that the stress falls on the focused word"
+1199,Komi-Zyrian,MorphCaus,nan,,,missing from analysis,1,2,Hausenberg 1998:317,
+1200,Komi-Zyrian,Tones,0,,,,0,,,
+1201,Komi-Zyrian,Consonants,22,1,Gabelentz 1841:3,taking the alphabet as base,26,1,Hausenberg 1998:309,9 palatal sounds seems werid
+1202,Komi-Zyrian,Vowels,7,2,Gabelentz 1841:3,"taking the alphabet as base, but this seems more reliable with vowels than with consonants",7,2,Hausenberg 1998:308,taking the literatre version as reference point because Gabelentz takes this as reference as well
+1203,Komi-Zyrian,NasVowels,0,,,,0,,,
+1204,Komi-Zyrian,AdjN,Adj N ,2,Gabelentz 1841:75,,Adj N ,2,Hausenberg 1998:318,
+1205,Komi-Zyrian,GenN,N GEN ,2,Gabelentz 1841:75,but orden of Possessor/possessum is flexible,N GEN ,2,Hausenberg 1998:319,
+1206,Komi-Zyrian,BasicWO,no hay orden básico,2,Gabelentz 1841:75,"tendencia de VO, pero siempre flexible y sin preferencia para S",no hay orden básico,2,Hausenberg 1998:321,"“ the usual order being Sfubject] P redicate] 0[bject] A[dverbialj.But any other order is possible, constraints applying only within the phrase.Only the position of lhe nominal predicate after the subject is fixed:”"
+1207,Komi-Zyrian,VP_Agr,1,2,Gabelentz 1841:23,,1,2,Hausenberg 1998:316,person suffixes for subject
+1208,Komi-Zyrian,NP_Agr,1,2,Gabelentz 1841:13,case and number,0,2,Hausenberg 1998:318,no agreement
+1209,Korana,Pron1P,6,1,Maingard 1962:17,"masc, fem, dual masc, pl indef + excl/incl in the last two",8,2,Meinhof 1930:43,"no excl/incl, but all forms attested as full forms, not clitics. Meinhof is very explicit about this; additional forms can be found in the vocabulary (incl/excl)"
+1210,Korana,Pron2P,2,1,Maingard 1962:17,"full form only for sg mas/femData based on texts and vocabulary, may not be complete",8,2,Meinhof 1930:43,
+1211,Korana,Pron3P,2,1,Maingard 1962:17,"full form only for sg mas/fem, sg used for pl as well (implicit in text)",9,2,Meinhof 1930:43,
+1212,Korana,Cases,1,2,Maingard 1961:24,“subjektdeterminitiv” as ergative marker?,1,2,Meinhof 1930:40,there is an affix which is probably some kind of ergative predicative marker
+1213,Korana,Dem,3,2,Maingard 1962:22,,2,2,Meinhof 1930:28, I”m K. fand ich nur he (hi) „dieser“ und //na”
+1214,Korana,NumClass,0,2,,,0,2,,
+1215,Korana,GenClass,0,2,,,0,2,,
+1216,Korana,NounClass,1,2,Maingard 1962:12,,1,2,Meinhof 1930:34,
+1217,Korana,InstrCom,nan,,,,nan,,,
+1218,Korana,Poss,nan,,,,nan,,,
+1219,Korana,LocDir,nan,1,,,nan,,,
+1220,Korana,TempLoc,nan,,,,nan,,,
+1221,Korana,DitransMarking,0,2,Maingard 1962:18,,0,2,Meinhof 1930:44,
+1222,Korana,CA_case,1,2,Maingard 1962:18,subject affixes on N and V,1,2,Meinhof 1930:44,attaching to N and V
+1223,Korana,CA_head,1,2,Maingard 1962:18,subject affix,1,2,Meinhof 1930:44,subject affix?Both authors give the same incoherent analysis
+1224,Korana,CA_wordorder,0,2,Maingard 1962:18,,0,2,Meinhof 1930:44,
+1225,Korana,PronAlign,neutro,2,Maingard 1962:18,says they are only used as subjects but then gives various examples where they are used for objects as well,neutro,2,Meinhof 1930:44,"“Viele Formen bleiben im Objekt unverändert, “la mayoria de formas no cambia ara ser objeto"
+1226,Korana,NomAlign,neutro,2,Maingard 1962:16,,neutro,2,Meinhof 1930:44,
+1227,Korana,TA_marks,5,2,Maingard 1962:23,+ compound forms of these formatives,5,2,Meinhof 1930:51,"5 “tenses”, did not recognize aspect but gives the same forms; also compounding of forms"
+1228,Korana,Evid,2,2,Maingard 1962:23,necessity and possibility,2,2,Meinhof 1930:53,same moods
+1229,Korana,Questions,nan,,,not mentioned,morfología,2,Meinhof 1930:61,clause-final particle
+1230,Korana,MorphCaus,1,2,Maingard 1962:32,-si,1,2,Meinhof 1930:48,
+1231,Korana,Tones,5,2,Maingard 1962:7,low mid high + raising +  falling,3,1,Meinhof 1930:22,"low, mid, highmenciona “cambios”, pero dice que no están investigados todavia, probablemente se refiere a raising/falling"
+1232,Korana,Consonants,22,2,Maingard 1962:3,4  clicks,22,2,Meinhof 1930:22ff,4 clickshe Did not count h as phoneme but is clearly present and part of his description
+1233,Korana,Vowels,6,2,Maingard 1962:3-4,,5,2,Meinhof 1930:28,"only 5 are given, but the possibilities of distinguishing two “e” is discussed, but no distinctiveness is attested"
+1234,Korana,NasVowels,5,2,Maingard 1962:3,all vowels but schwa can be nasalized,5,2,Meinhof 1930:28,
+1235,Korana,AdjN,Adj N ,2,Maingard 1962:16,implicit from examples,Adj N ,2,Meinhof 1930:41,postnominal Adj are possible but seem to be predicative (or reverse dependency)
+1236,Korana,GenN,nan,,,no mention of possessive construction,GEN N ,2,Meinhof 1930:40,
+1237,Korana,BasicWO,SOV ,2,Maingard 1962:37,,nan,,"Meinhof 1930:44 (VOS)Meinhof 1930:60 (SV, TopV)","no coherent evidence, once VS is mentioned, at other place VOS"
+1238,Korana,VP_Agr,1,2,Maingard 1962:18,subject affix,1,2,Meinhof 1930:44,
+1239,Korana,NP_Agr,0,2,Maingard 1962:16,only case-agr in VERY special occasions but not on a general level: “In one or two instances the adjective has the same suffix 3 rd person personal pronoun as the noun it qualifies especially with terms o f family relationship.“,0,2,Meinhof 1930:41,
+1240,Lokono,Pron1P,2,2,Cervaux 1882:187,"Cervaux mixes all pronouns, but the forms can be analyzed reliably;",2,2,Pet 2011:12,
+1241,Lokono,Pron2P,2,2,Cervaux 1882:187,,2,2,Pet 2011:12,
+1242,Lokono,Pron3P,3,2,Cervaux 1882:187,Cervaux mistakes an article as 4th pronoun his non-male is the non-human pronoun,3,2,Pet 2011:12,
+1243,Lokono,Cases,0,2,Cervaux 1882:169,"no case, onlz postpositions for obliques: “Die Declination eines Wortes an sich verursacht im Arawakischen keine Veränderung desselben”",0,2,Pet 2011:12,“gramatical case roles are not distinguished morphologically”; some oblique postpositions
+1244,Lokono,Dem,15,1,,"No reliable seperation from possessive and demonstrative pronouns can be made, but the set seems equally complex than that of Pet",15,2,Pet 2011:15,3 animacy and 5 proximacy levels
+1245,Lokono,NumClass,0,2,Cervaux 1882:180,no classifiers;,0,2,,
+1246,Lokono,GenClass,0,2,,,0,2,,
+1247,Lokono,NounClass,1,2,Cervaux 1882:169,“only 2” - does not talk about animacy,1,2,Pet 2011:18,"m/f, animacy also plays a role"
+1248,Lokono,InstrCom,0,1,,not mentioned,0,2,Pet 2011:21,"""abo” as instrumentral and comitative"
+1249,Lokono,Poss,nan,,,not mentioned,1,2,Pet 2011:16,
+1250,Lokono,LocDir,nan,,,not mentioned,1,2,Pet 2011:46,rich postposition inventory
+1251,Lokono,TempLoc,nan,,,not mentioned,1,2,Pet 2011:46,rich postposition inventory
+1252,Lokono,DitransMarking,1,2,Crevaux 1882:169,dative postp,1,2,Pet 2011:46,rich postposition inventory (indirect object with benefactive)
+1253,Lokono,CA_case,0,2,Crevaux 1882:197,,0,2,Pet 2011:12,“gramatical case roles are not distinguished morphologically”
+1254,Lokono,CA_head,1,2,Crevaux 1882:197,enclitics,1,2,Pet 2011:13,"primarily marked on the V; some forms are bound, others are not"
+1255,Lokono,CA_wordorder,0,2,Crevaux 1882:197,,0,2,Pet 2011:13,"primarily marked on the V; some forms are bound, others are not"
+1256,Lokono,PronAlign,neutro,2,Crevaux 1882:169,,neutro,2,Pet 2011:13,"some forms seem to show Nom-Acc, but distinction is difficult because some forms are bound and others are not (free forms do not seem to vary)"
+1257,Lokono,NomAlign,neutro,2,Crevaux 1882:169,,neutro,2,Pet 2011:12,“gramatical case roles are not distinguished morphologically”
+1258,Lokono,TA_marks,2,1,Cervaux 1882:197,really bad analysis of TAM,5,2,Pet 2011:31,
+1259,Lokono,Evid,0,,Cervaux 1882:197,,0,,Pet 2011:31,
+1260,Lokono,Questions,nan,,,not mentioned,prosodia,2,Pet 2011:60,Speaking them with a sentence-final rising intonation can change any sentence into a yes-no question.”
+1261,Lokono,MorphCaus,1,2,Cervaux 1882:195,“?Hiphil ratione significatus” - form and meaning corresponds to that of Pet,1,2,Pet 2011:37,
+1262,Lokono,Tones,0,,,,0,,,
+1263,Lokono,Consonants,14,1,Cervaux 1882:167,"he gives 19 “letters”, not phonemes; count is definetly not reliable",22,2,Pet 2011:8,
+1264,Lokono,Vowels,5,1,,"“ Die Arawaken haben in ihrer Sprache aus den ordinairen Alphabet, folgende 19 Buchstaben: a, b, d, e, g, A, i, A, /, m, n, 0, p, q, r, s, f, ii, »>. “",10,2,Pet 2011:8,
+1265,Lokono,NasVowels,0,,,,0,2,Pet 2011:8,"only phonological, not phonemic nasalization"
+1266,Lokono,AdjN,nan,,Cervaux 1882:175,"stative verbs: “Ihre Adjectiva kommen von den Verbis her, und sind eigentlich Participia von denselbigen”",nan,,Pet 2011:115,“There appear to be no descriptive adjectives in Arawak; almost all concepts which would be expressed by adjectives in English are expressed by means of stative verbs in Arawak.”
+1267,Lokono,GenN,GEN N ,2,Cervaux 1882:188,no genitive,GEN N ,2,Pet 2011:52,no morphological genitive
+1268,Lokono,BasicWO,SVO ,2,Cervaux 1882:219,,SVO ,2,Pet 2011:26,"S is mostly expressed on the V, however"
+1269,Lokono,VP_Agr,1,2,Crevaux 1882:197,enclitics,1,2,Pet 2011:13,
+1270,Lokono,NP_Agr,nan,,,no real adjectives,nan,,,no real adjectives
+1271,Ngalkbun,Pron1P,5,2,Capell 1962:102,,5,2,Cutfield 2011:394,
+1272,Ngalkbun,Pron2P,3,2,Capell 1962:102,,3,2,Cutfield 2011:394,
+1273,Ngalkbun,Pron3P,3,2,Capell 1962:102,,3,2,Cutfield 2011:394,
+1274,Ngalkbun,Cases,10,2,Capell 1962:110,,nan,,,no reliable analisis of role marking apart frm nuclear cases is given
+1275,Ngalkbun,Dem,8,1,Capell 1962:105,"one form (“gunuldi”) which is not attested all with Cutfield. However, no examples are given to start comparisons and it seems to be more of a predicative marker than a spatial demonstrative",7,2,Cutfield 2011:183,"its what the whole PHD is about, so its a very complex topic; argues that the missing marker is a predicative marker “this is the...that”"
+1276,Ngalkbun,NumClass,0,2,,,0,2,,
+1277,Ngalkbun,GenClass,0,2,Capell 1962:73,,0,2,Cutfield 2011:28,"does even misgloss genitive as dative...but is reconstructable from text, no classifier there"
+1278,Ngalkbun,NounClass,0,2,Capell 1962:92,without noun classes,0,2,Cutfield 2011:30,"the loss of the proto Gunwinyguan gender system, is well attested"
+1279,Ngalkbun,InstrCom,1,2,Capell 1962:111,,1,2,Cutfield 2011:35,both as applicatives and on nouns
+1280,Ngalkbun,Poss,nan,,,not mentioned,nan,,,not mentioned
+1281,Ngalkbun,LocDir,1,2,Capell 1962:110,,1,2,Cutfield 2011:127,
+1282,Ngalkbun,TempLoc,0,2,Capell 1962:110,,0,2,Cutfield 2011:128,
+1283,Ngalkbun,DitransMarking,1,2,Capell 1962:110,dative and other cases,1,2,Cutfield 2011:31,"Optional affixes for goals, sources etc"
+1284,Ngalkbun,CA_case,1,2,Capell 1962:110,,1,2,Cutfield 2011:31,“Core grammatical functions are indexed as pronominal proclitics on the verb”
+1285,Ngalkbun,CA_head,1,2,Capell 1962:102,,1,2,Cutfield 2011:31,“Core grammatical functions are indexed as pronominal proclitics on the verb”
+1286,Ngalkbun,CA_wordorder,0,2,Capell 1962:102,,0,2,Cutfield 2011:31,“Core grammatical functions are indexed as pronominal proclitics on the verb”
+1287,Ngalkbun,PronAlign,ergativo-absolutivo,2,Capell 1962:102,,ergativo-absolutivo,2,Cutfield 2011:395,"analysis only implicit from appendix, how can you mention something like this not in the main part of the thesis? wtf"
+1288,Ngalkbun,NomAlign,ergativo-absolutivo,2,Capell 1962:110,ergative/instrumental marker,ergativo-absolutivo,2,Cutfield 2011:84,Cutfield presents -yah as ergative/instrumental marker
+1289,Ngalkbun,TA_marks,5,2,Capell 1962:115,,5,2,Cutfield 2011:37,Speaks about TAM categories but only gives tense categories
+1290,Ngalkbun,Evid,0,,,,0,,,
+1291,Ngalkbun,Questions,morfología,2,Capell 1962:108,,nan,,,not mentioned
+1292,Ngalkbun,MorphCaus,0,2,Capell 1962:112,"there is a detransitivizer discussed,but probably no causative morphology",nan,,,not mentioned
+1293,Ngalkbun,Tones,0,,,,0,,,
+1294,Ngalkbun,Consonants,19,2,Capell 1962:93,interdental  nasal which is not present with Cutfield,18,2,Cutfield 2011:xiii,
+1295,Ngalkbun,Vowels,6,2,Capell 1962:94,,6,2,Cutfield 2011:xiii,"some speakers use a 6th vowel, but seems to merge with / u /"
+1296,Ngalkbun,NasVowels,0,,,,0,,,
+1297,Ngalkbun,AdjN,N Adj ,2,Capell 1962:104,Are adjectives really an own PoS class?,N Adj ,2,Cutfield 2011:91,Unclear whether adjectives exist as different from Nouns
+1298,Ngalkbun,GenN,N GEN ,2,Capell 1962:110,,N GEN ,2,Cutfield 2011:28,"talking about genitive on the dependent and GEN given in glosses, but no single example including a genitive modifier exists"
+1299,Ngalkbun,BasicWO,no hay orden básico,2,Capell 1962:124,,no hay orden básico,2,Cutfield 2011:113,“few if any constraints on word order”
+1300,Ngalkbun,VP_Agr,1,2,Capell 1962:102,,1,2,Cutfield 2011:31,“Core grammatical functions are indexed as pronominal proclitics on the verb”
+1301,Ngalkbun,NP_Agr,nan,,,no plural discussed with adjectives,nan,,,"not discussed, maybe not even adjectives in this language"
+1302,Nganasan,Pron1P,3,2,Castren 1854:349,,3,2,Wagner 2018:106,
+1303,Nganasan,Pron2P,3,2,Castren 1854:349,,3,2,Wagner 2018:106,
+1304,Nganasan,Pron3P,3,2,Castren 1854:349,,3,2,Wagner 2018:106,
+1305,Nganasan,Cases,7,2,Castren 1854:108,"“Casus: den Nominativ, Genitiv, Accusaliv, Dativ, Locntiv, Ablativ und Prosecutiv”",8,2,Wagner 2018:189,"“nominative, accusative, genitive, lative-dative, locative-instrumental, ablative-elative and prolative” + recently grammaticalized comitative"
+1306,Nganasan,Dem,3,2,Castren 1854:358,also three stems,3,2,Wagner 2018:127,three stems
+1307,Nganasan,NumClass,0,2,,,0,2,,
+1308,Nganasan,GenClass,0,2,,,0,2,,
+1309,Nganasan,NounClass,0,2,,,0,2,Wagner 2018:176,"“There is no grammatical gender, and the animate/inanimate contrast also does not have grammatical correlates.”"
+1310,Nganasan,InstrCom,0,2,Castren 1854:108,locative used,1,2,Wagner 2018:189,recently grammaticalized comitative case; instrumental expressed via locative
+1311,Nganasan,Poss,nan,,,not mentioned,0,2,Wagner 2018:317,“There is no structural difference between alienable and inalienable possessive construction.”
+1312,Nganasan,LocDir,1,2,Castren 1854:108,locative and prolative,1,2,Wagner 2018:2000,prolative case
+1313,Nganasan,TempLoc,0,2,Castren 1854:113,"not explicit, but no special form for temporal is attested",0,2,Wagner 2018:198,
+1314,Nganasan,DitransMarking,1,2,Castren 1854:108,dative constructions,1,2,Wagner 2018:197,“the Recipient-argument and the beneficiary of a ditransitive construction is marked by the lative.“
+1315,Nganasan,CA_case,1,2,Castren 1854:108,,1,2,Wagner 2018:195,"Acc is being lost, but especially dual/plural forms still show"
+1316,Nganasan,CA_head,1,2,Castren 1854:264,,1,2,Wagner 2018:19,
+1317,Nganasan,CA_wordorder,0,2,Castren 1854:264,,0,2,,
+1318,Nganasan,PronAlign,neutro,2,Castren 1854:349,,neutro,2,Wagner 2018:106,"“Personal pronouns most often function as the subject of a sentence” - “ Presently, the accusative and the genitive forms are identical to the nominative form.”"
+1319,Nganasan,NomAlign,nominativo-acusativo,2,Castren 1854:108,,nominativo-acusativo,2,Wagner 2018:19,
+1320,Nganasan,TA_marks,2,1,Castren 1854:374,"only gives analysis of tense, not of aspect",4,2,Wagner 2018:19,"2 tenses, two aspects"
+1321,Nganasan,Evid,0,,Castren 1854:374,does not analyze evidentials,4,2,Wagner 2018:19," inferential, reportative, dubitative, speculative"
+1322,Nganasan,Questions,morfología,2,Castren 1854:494,,morfología,2,Wagner 2018:241,
+1323,Nganasan,MorphCaus,nan,,,not mentioned,1,2,Wagner 2018:304,
+1324,Nganasan,Tones,0,,,,0,,,
+1325,Nganasan,Consonants,18,1,Castren 1854:2,,19,2,Wagner 2018:35,"probably even up to two more, depending of / p / is assigned phonetic value"
+1326,Nganasan,Vowels,6,1,Castren 1854:2,,8,2,Wagner 2018:48,
+1327,Nganasan,NasVowels,0,,,,0,,,
+1328,Nganasan,AdjN,Adj N ,2,Castren 1854:187,,Adj N ,2,Wagner 2018:308,
+1329,Nganasan,GenN,nan,,,"Only possessive affixes used for examples,no nominal possessors or independent pronouns",GEN N ,2,Wagner 2018:194,"“. Historically, the reflex of the genitive case is a PS *ŋ which has been lost, but has left its trace in the coda, that is, the syllable behaves like a closed syllable”"
+1330,Nganasan,BasicWO,nan,,,not discussed,SOV ,2,Wagner 2018:19,“Nganasan is a head-final language and has a non-rigid SOV word order.”
+1331,Nganasan,VP_Agr,1,2,Castren 1854:264,,1,2,Wagner 2018:19,
+1332,Nganasan,NP_Agr,1,2,Castren 1854:187,declinable (exception in this language family),1,2,Wagner 2018:310,
+1333,NIIng,Pron1P,3,2,Maingard 1937:244,incl/excl,3,2,Collins 2011:26,
+1334,NIIng,Pron2P,2,2,Maingard 1937:244,,2,2,Collins 2011:26,
+1335,NIIng,Pron3P,2,1,Maingard 1937:244,non-human form not analyzed by Maingard,3,2,Collins 2011:26,Extra non-human form
+1336,NIIng,Cases,1,1,Maingard 1937:263,there is one example which includes the dative pronoun form given by Collins for a ditransitive sentence,1,2,Collins 2011:33,Sooooo there are obliques but Maingard does not analyze them; there is at least a dative and various postpositions
+1337,NIIng,Dem,2,2,Maingard 1937:242,,2,2,Collins 2011:36,kai and a
+1338,NIIng,NumClass,0,2,,,0,2,Collins 2011:41,
+1339,NIIng,GenClass,0,2,,,0,2,,
+1340,NIIng,NounClass,0,2,Maingard 1937:239,,0,2,Collins 2011:26,"“There are no gender distinctions in Nluuki, “"
+1341,NIIng,InstrCom,0,2,,,0,2,Collins 2011:25,same preposition is used for both
+1342,NIIng,Poss,nan,,,,nan,,,
+1343,NIIng,LocDir,nan,,,,0,2,Collins 2011:53,"direction is encoded by serial verbs, not in satellites"
+1344,NIIng,TempLoc,nan,,,not discussed,nan,,,not discussed
+1345,NIIng,DitransMarking,1,1,Maingard 1937:263,there is one example which includes the dative pronoun form given by Collins for a ditransitive sentence,1,2,Collins 2011:48,"dative marker, but core cases are not marked"
+1346,NIIng,CA_case,0,2,Maingard 1937:255,no morphological marking of S/O,0,2,Collins 2011:9,no morphological marking of S/O
+1347,NIIng,CA_head,0,2,Maingard 1937:255,no morphological marking of S/O,0,2,Collins 2011:9,no morphological marking of S/O
+1348,NIIng,CA_wordorder,1,2,Maingard 1937:255,no morphological marking of S/O,1,2,Collins 2011:9,no morphological marking of S/O
+1349,NIIng,PronAlign,neutro,2,Maingard 1937:244,"“T h e s e are the subject forms. T h e y are also used for the object,”",neutro,2,Collins 2011:29,“Object pronouns are the same morphologically as subject pronouns. “
+1350,NIIng,NomAlign,neutro,2,,,neutro,2,Collins 2011:9,
+1351,NIIng,TA_marks,2,1,Maingard 1937:248,"two tense auxiliaries (present + fut), aspect rhough verb compounds?",3,2,Collins 2011:10,"Tense analyzed in a similar fashion, but Past is analyzed whereas absent with Maingard"
+1352,NIIng,Evid,0,,,,0,,,
+1353,NIIng,Questions,nan,,,only pronouns?,nan,,Collins 2011:62,“We have not yet investigated whether there are intonational differences between declarative clauses and yes-no questions “
+1354,NIIng,MorphCaus,0,1,,"verb compounding language, so probably not",0,2,Collins 2011:53,"“ Serial verbs are used to express a wide variety of semantic relations, including locatives, causatives and benefactives”"
+1355,NIIng,Tones,nan,,,not commented,4,2,Collins 2011:26,at least 4
+1356,NIIng,Consonants,nan,,,not commented,nan,,,not commented
+1357,NIIng,Vowels,nan,,,not commented,nan,,,not commented
+1358,NIIng,NasVowels,nan,,,not commented,nan,,,not commented
+1359,NIIng,AdjN,nan,2,Maingard 1937:255,"head-initial N, some property concepts before the head (Gueldemann, p.c., explaining Maingards analysis); probably no real adjectives as own PoS class",nan,2,Collins 2011:41,Are there real adjectives? PoS status unclear; head-modifier structure but no adjectives
+1360,NIIng,GenN,GEN N ,2,Maingard 1937:255,old poss particle,GEN N ,2,Collins 2011:38,
+1361,NIIng,BasicWO,SVO ,2,Maingard 1937:255,a fixed order of the words in t hesentence is of the utmost importance.,SVO ,2,Collins 2011:9,
+1362,NIIng,VP_Agr,0,2,Maingard 1937:255,no morphological marking of S/O,0,2,Collins 2011:9,no morphological marking of S/O
+1363,NIIng,NP_Agr,0,2,Maingard 1937:255,no real adjectives,0,2,Collins 2011:40,no real adjectives
+1364,Nyangi,Pron1P,3,2,Heine 1975:284,,1,2,Beer 2017:146,lost excl./incl.
+1365,Nyangi,Pron2P,2,2,Heine 1975:284,,1,2,Beer 2017:146,
+1366,Nyangi,Pron3P,2,2,Heine 1975:284,,2,2,Beer 2017:147,known/unknown
+1367,Nyangi,Cases,0,2,Heine 1975:285,"the two cases given (venitive, andative) are actually verbal",0,2,Beer 2017:213,“The most obvious loss in noun morphology in Nyang’i is in the complete (or nearly complete) disappearance of the case marking system.”
+1368,Nyangi,Dem,2,2,Heine 1975:283,,2,2,Beer 2017:248,
+1369,Nyangi,NumClass,0,2,,,0,2,,
+1370,Nyangi,GenClass,0,2,,,0,2,,
+1371,Nyangi,NounClass,0,2,Heine 1975:282,“kein nominales Klassensystem”,0,2,Beer 2017:48,"“gender, is not operational in the grammar of Nyang’i, “"
+1372,Nyangi,InstrCom,0,2,Heine 1975:284,,0,2,Beer 2017:56,"“ /ka/, which can be comitative or instrumental.”"
+1373,Nyangi,Poss,nan,,,,0,2,Beer 2017:169,"“For alienably possessed nouns, neither the head nor the dependent is consistently mark”"
+1374,Nyangi,LocDir,0,2,Heine 1975:284,,0,2,Beer 2017:213,“The most obvious loss in noun morphology in Nyang’i is in the complete (or nearlycomplete) disappearance of the case marking system.”
+1375,Nyangi,TempLoc,0,2,Heine 1975:284,,0,2,Beer 2017:213,
+1376,Nyangi,DitransMarking,0,2,Heine 1975:285,,0,2,Beer 2017:213,
+1377,Nyangi,CA_case,0,2,Heine 1975:285,,0,2,Beer 2017:174,"“core clause arguments are not overtly marked, word order is VAO/VS, and subjects are frequently omitted, grammatical/semantic role ambiguities often occur.”"
+1378,Nyangi,CA_head,1,2,Heine 1975:285,,0,2,Beer 2017:174,"“Although Nyang’i has lost pronominal inflection on the verb for the person and number of the subject, it retains a set of free personal pronouns and a set of personal possessive pronouns.”"
+1379,Nyangi,CA_wordorder,1,2,Heine 1975:285,,1,2,Beer 2017:174,
+1380,Nyangi,PronAlign,neutro,2,Heine 1975:285,same forms for subject and object,neutro,2,Beer 2017:147,
+1381,Nyangi,NomAlign,neutro,2,Heine 1975:285,,neutro,2,Beer 2017:213,no case
+1382,Nyangi,TA_marks,3,2,Heine 1975:285,"past tense and future auxiliary, also an habitual aspect",2,2,Beer 2017:5,one past tense and future auxiliary
+1383,Nyangi,Evid,0,,Heine 1975:285,two directives,0,2,Beer 2017:113,"“If the etymological directional extensions are presumed to still enconde directional information, then certain attested forms suggest that the speaker was confused about which directional extension to use, perhaps suggesting that the directional sense of the extensions is no longer easily accessible to the speaker”"
+1384,Nyangi,Questions,nan,,,not mentioned,nan,,,not mentioned
+1385,Nyangi,MorphCaus,0,2,Heine 1975:285,,0,2,Beer 2017:215,"“The entire Proto-Kuliak system of valency-changing derivation has been lost. This includes causative constructions,”"
+1386,Nyangi,Tones,4,2,Heine 1975:282,,0,2,Beer 2017:212,“ The decline of tone in Nyang’i is a case of internally-motivated contraction”
+1387,Nyangi,Consonants,18,1,Heine 1975:282,,19,2,Beer 2017:20,
+1388,Nyangi,Vowels,7,1,Heine 1975:282,,9,2,Beer 2017:27,seems to break down into 5 vowels
+1389,Nyangi,NasVowels,0,,,,0,,,
+1390,Nyangi,AdjN,N Adj ,2,Heine 1975:284,,N Adj ,2,Beer 2017:5,“nouns are followed by their dependents”
+1391,Nyangi,GenN,N GEN ,2,Heine 1975:283,juxtaposicion,N GEN ,2,Beer 2017:167,"no genitive,Possessum – Possessor"
+1392,Nyangi,BasicWO,VSO ,2,Heine 1975:282,,VSO ,2,Beer 2017:174,
+1393,Nyangi,VP_Agr,1,2,Heine 1975:285,,0,2,Beer 2017:174,"“Although Nyang’i has lost pronominal inflection on the verb for the person and number of the subject, it retains a set of free personal pronouns and a set of personal possessive pronouns.”"
+1394,Nyangi,NP_Agr,0,2,Heine 1975:284,no evidence of nominal morphology on Adj,0,2,Beer 2017:58,no plural marker possible on adjectives
+1395,Pacific_Gulf_Yupik,Pron1P,3,2,Barnum 1901:69,,3,2,Leer 1990:23,
+1396,Pacific_Gulf_Yupik,Pron2P,3,2,Barnum 1901:69,,3,2,Leer 1990:23,
+1397,Pacific_Gulf_Yupik,Pron3P,3,2,Barnum 1901:69,,3,2,Leer 1990:23,
+1398,Pacific_Gulf_Yupik,Cases,7,2,Barnum 1901:68,,7,2,Leer 1990:35,"“seven cases: absolutive, relative, locative, allative, ablative, perlative, and similaris. “"
+1399,Pacific_Gulf_Yupik,Dem,5,2,Barnum 1901:75,5 proximative levels,5,2,Leer 1990:62,"5 proximative levels, different forms for abs/erg/pl"
+1400,Pacific_Gulf_Yupik,NumClass,0,2,,,0,2,,
+1401,Pacific_Gulf_Yupik,GenClass,0,2,,,0,2,,
+1402,Pacific_Gulf_Yupik,NounClass,0,2,Barnum 1901:52,,0,2,,
+1403,Pacific_Gulf_Yupik,InstrCom,0,1,Barnum 1901:37,-sum instrumentalno comitative mention/example,0,1,Leer 1990:255,"-suun instrumental, but no example of comitative"
+1404,Pacific_Gulf_Yupik,Poss,nan,,,,nan,,,
+1405,Pacific_Gulf_Yupik,LocDir,1,2,Barnum 1901:15,,1,2,Leer 1990:60,
+1406,Pacific_Gulf_Yupik,TempLoc,0,2,Barnum 1901:14,“Time when is always expressed by the localis.”,0,2,Leer 1990:61,“refer to space or time”
+1407,Pacific_Gulf_Yupik,DitransMarking,nan,,Barnum 1901:205,imposible de sacar esa informacion con la manera de anotación de Barnum,nan,,,sin informacion sobre eso; dativo?
+1408,Pacific_Gulf_Yupik,CA_case,1,2,Barnum 1901:9,,1,2,Leer 1990:116,“The subject of the transitive VP occurs in the relative case. “
+1409,Pacific_Gulf_Yupik,CA_head,1,2,Barnum 1901:119,,1,2,Leer 1990:192,
+1410,Pacific_Gulf_Yupik,CA_wordorder,0,2,Barnum 1901:119,,0,2,,
+1411,Pacific_Gulf_Yupik,PronAlign,ergativo-absolutivo,2,Barnum 1901:68,"some few forms have special ergative forms left, but not all of them",neutro,2,Leer 1990:179,"“With personal pronouns there is no distinction between the absolutive and relative (read: ergative) case. The oblique cases, on the other hand, are formed by adding to the pronominal stem the same forms of the case endings that are added to possessed nouns.“"
+1412,Pacific_Gulf_Yupik,NomAlign,ergativo-absolutivo,2,Barnum 1901:12,,ergativo-absolutivo,2,Leer 1990:122,
+1413,Pacific_Gulf_Yupik,TA_marks,3,2,Barnum 1901:18,"pres, past+fut+habitual",3,2,"Leer 1990:71, 73",past + habitual + future (p. 83)
+1414,Pacific_Gulf_Yupik,Evid,0,,,,0,,,
+1415,Pacific_Gulf_Yupik,Questions,morfología,2,Barnum 1901:199,kâ,morfología,2,Leer 1990:17, enclitic -qaa
+1416,Pacific_Gulf_Yupik,MorphCaus,1,2,Barnum 1901:187,,1,2,Leer 1990:193,“postbase” - verb compound?
+1417,Pacific_Gulf_Yupik,Tones,0,,,,0,,,
+1418,Pacific_Gulf_Yupik,Consonants,71,1,Barnum 1901:4,"without comment, totally unrealiable analysis",18,2,Leer 1990:1,
+1419,Pacific_Gulf_Yupik,Vowels,15,1,Barnum 1901:1,,4,2,Leer 1990:2,
+1420,Pacific_Gulf_Yupik,NasVowels,0,,,,0,,,
+1421,Pacific_Gulf_Yupik,AdjN,nan,2,Barnum 1901:249,"As the adjective does not appear as a distinct part of speech in Innuit, its place is supplied by various forms of the verb. - Adj N for this construction",nan,2,Leer 1990:41,"no real adjectives, but participes built from verbs; maybe stative predicates?"
+1422,Pacific_Gulf_Yupik,GenN,GEN N ,2,Barnum 1901:12,“Of god his message”,GEN N ,2,Leer 1990:253,Possessor-Rel Possessum
+1423,Pacific_Gulf_Yupik,BasicWO,nan,,Barnum 1901:205,"no da frases analizables como ejemplos, solo verbos con formas pronominales",SOV ,2,Leer 1990:91,"“subject first, then the other NPs in the predicate, then the verb. “"
+1424,Pacific_Gulf_Yupik,VP_Agr,1,2,Barnum 1901:119,,1,2,Leer 1990:192,
+1425,Pacific_Gulf_Yupik,NP_Agr,nan,,,no PoS class Adjectives,nan,,,no PoS class adjectives
+1426,Soo,Pron1P,3,2,Heine 1975:274,,2,2,Beer 2009:31,"excl/incl lost, both markers exist but are varied freely without distinction in meaning"
+1427,Soo,Pron2P,2,2,Heine 1975:274,,2,2,Beer 2009:31,
+1428,Soo,Pron3P,2,2,Heine 1975:274,,2,2,Beer 2009:31,
+1429,Soo,Cases,2,1,Heine 1975:270,leftovers of a tonal system on nounsvenitive and andative locative cases probably didnt manage to distinguish -Vk due to lacking fieldwork,3,2,Beer 2009:29,"“, the /-uk/ locative marker, the /-ok/ instrumentive marker, and the /-a/ goal marker.”"
+1430,Soo,Dem,3,2,Heine 1975:272,"3 spatial, one of referencenin, nan, nansn",nan,,,not discussed
+1431,Soo,NumClass,0,2,,,0,2,,
+1432,Soo,GenClass,0,2,,,0,2,,
+1433,Soo,NounClass,0,2,Heine 1975:270,,0,2,,
+1434,Soo,InstrCom,nan,,,not discussed,0,1,Beer 2009:29,"only instrumental analyzed, no mention or example with comitative functions"
+1435,Soo,Poss,nan,,,not discussed,nan,,,not discussed
+1436,Soo,LocDir,1,2,Heine 1975:270,"venitive with locative sense, andative with directional",1,2,Beer 2009:29,
+1437,Soo,TempLoc,nan,,,not discussed,nan,,,“Our data is insufficient to determine the exact nature of this spatial relationship.“
+1438,Soo,DitransMarking,1,2,"Heine 1975:269, 278",Indirect Object marked with prefix kun-,1,2,Beer 2009:33,dative pronouns with kun-
+1439,Soo,CA_case,1,2,Heine 1975:269,leftovers of a tonal system on nouns which is disappearing in favor of rigid word order,0,2,,no leftovers
+1440,Soo,CA_head,1,2,Heine 1975:274,"No marking for 3rd person, here, word order takes over",1,2,Beer 2009:11,only 1st and 2nd person
+1441,Soo,CA_wordorder,1,2,Heine 1975:269,at least for 3rd person;rigid word order takes over for the tonal distinction of case,1,2,Beer 2009:49,at least for 3rd person
+1442,Soo,PronAlign,nominativo-acusativo,2,Heine 1975:274,tonal distinction for Subject/object still active,neutro,2,Beer 2009:31,“Sɔ pronouns do not distinguish between nominative and accusative case.”
+1443,Soo,NomAlign,nominativo-acusativo,2,Heine 1975:269,leftovers of a tonal system on nouns,neutro,2,Beer 2009:49,
+1444,Soo,TA_marks,7,2,Heine 1975:276,"futur: ko- past: i- past perfect: ka-; prog: mu-; perfect: mut-asp: frecuentiv und habitual (-’at, -’i)",3,2,Beer 2009:14,"past: ka-, future: ko-, inchoative -tez"
+1445,Soo,Evid,0,,,no mention,0,,,no mention
+1446,Soo,Questions,prosodia,2,Heine 1975:279,rising tone,prosodia,2,Beer 2009:56,rising
+1447,Soo,MorphCaus,0,2,Heine 1975:278,de-transitivizing suffix,0,1,,not discussed in this quite extensive grammar sketch
+1448,Soo,Tones,4,2,Heine 1975:268,Both grammatical and lexical means of tonal system: “Die Unterscheidung Tiefton/Hochton hat sowohl im grammatischen als auch im lexikalischen Bereich distinktive Punk­tion”,0,2,Beer 2009:49,tone is gone
+1449,Soo,Consonants,22,1,Heine 1975:265,,23,2,Beer 2009:3,"a lot of stops; low frequency, but minimal pairs can be established"
+1450,Soo,Vowels,8,2,Heine 1975:267,,8,2,Beer 2009:3,
+1451,Soo,NasVowels,0,,,,0,,,
+1452,Soo,AdjN,nan,,Heine 1975:273,"no adjectives but stative verbs; lists some adjectives which do not seem to be statives, but then no examles",ambos,2,Beer 2009:50,"“While the literature claims that So has no true adjectives (Carlin 1993), our data indicates that this is not the case”"
+1453,Soo,GenN,N GEN ,2,Heine 1975:271,juxtaposición Possessum-Possessor,N GEN ,2,Beer 2009:59,
+1454,Soo,BasicWO,VSO ,2,Heine 1975:269,,VSO ,2,Beer 2009:49,
+1455,Soo,VP_Agr,1,2,Heine 1975:274,"No marking for 3rd person, here, word order takes over",1,2,Beer 2009:11,only 1st and 2nd person
+1456,Soo,NP_Agr,1,,Heine 1975:273,"no adjectives but stative verbs; lists some adjectives which do not seem to be statives, but then no examles",1,2,Beer 2009:50,"one adjectives does take plural morphology, others are stative verbs, others don’t have any morphology"
+1457,Southern_Coastal_Tsimshian,Pron1P,4,2,Boas 1911:391,,4,2,Dunn 1979:66,
+1458,Southern_Coastal_Tsimshian,Pron2P,4,2,Boas 1911:391,,4,2,Dunn 1979:66,
+1459,Southern_Coastal_Tsimshian,Pron3P,2,2,Boas 1911:391,,2,2,Dunn 1979:66,
+1460,Southern_Coastal_Tsimshian,Cases,nan,,,no discussion of case apart from locative particles (rich prepositional system) but probably presence of an ergative system,2,2,Dunn 1979:66,at least -a (ergative) and -da as “connective” and other weird stuff on page 50 which is argued to be case but does not really show as “canonical” case
+1461,Southern_Coastal_Tsimshian,Dem,3,1,Boas 1911:393,“I have not succeeded in the forms of theanalyzing satisfactorily demonstrative pronoun. “,5,2,Dunn 1979:56,"labelled determiners, but clear spatial reference"
+1462,Southern_Coastal_Tsimshian,NumClass,1,2,Boas 1911:363,"human beings, on canous, long objects",1,2,Dunn 1979:38,"same system, humans, humans on caous, long objects"
+1463,Southern_Coastal_Tsimshian,GenClass,0,2,,,0,2,,
+1464,Southern_Coastal_Tsimshian,NounClass,0,2,,,0,2,,
+1465,Southern_Coastal_Tsimshian,InstrCom,0,1,,instrumental: p. 334no examples of a special comitative form are given,0,1,,no comitative mentioned
+1466,Southern_Coastal_Tsimshian,Poss,1,2,Boas 1911:392,less marking than for other possession,1,2,Dunn 1979:57,"“ Some kinship terms do not have the na- prefix when they are possessed. This fact implies that some kinsmen are considered, in some way, part of one another.“"
+1467,Southern_Coastal_Tsimshian,LocDir,1,2,Boas 1911:300,rich prepositional system,1,2,Dunn 1979:43,actually analyzing the clitics as statives
+1468,Southern_Coastal_Tsimshian,TempLoc,1,2,Boas 1911:310,,nan,,,
+1469,Southern_Coastal_Tsimshian,DitransMarking,0,,,no discussion of case apart from locative particles (rich prepositional system),1,2,Dunn 1979:61,“n indirect object follows the absolutive in the sentence word order. A -da enclitic attaches to the absolutive.”
+1470,Southern_Coastal_Tsimshian,CA_case,nan,,,no discussion of case apart from locative particles (rich prepositional system),1,2,Dunn 1979:61,
+1471,Southern_Coastal_Tsimshian,CA_head,1,2,Boas 1911:384,,1,2,Dunn 1979:62,ergative alignment
+1472,Southern_Coastal_Tsimshian,CA_wordorder,0,2,Boas 1911:384,,0,2,Dunn 1979:62,
+1473,Southern_Coastal_Tsimshian,PronAlign,ergativo-absolutivo,2,Boas 1911:391,,ergativo-absolutivo,2,Dunn 1979:66,
+1474,Southern_Coastal_Tsimshian,NomAlign,nan,,,no discussion of nominal case apart from locative particles (rich prepositional system),ergativo-absolutivo,2,Dunn 1979:61,
+1475,Southern_Coastal_Tsimshian,TA_marks,5,1,Boas 1911: 401,extensive analysis in old questionnaire,9,2,Dunn 1979:59,a lot of aspectual affixes which Boas did not recognize
+1476,Southern_Coastal_Tsimshian,Evid,0,,,,0,,,
+1477,Southern_Coastal_Tsimshian,Questions,morfología,2,Boas 1911: 405,,morfología,2,Dunn 1979:70,"same affix -i is used in examples as with Boas, but Dunn does not mention it"
+1478,Southern_Coastal_Tsimshian,MorphCaus,1,2,Boas 1911: 344,,1,2,Dunn 1979:34,
+1479,Southern_Coastal_Tsimshian,Tones,0,,,,0,,,
+1480,Southern_Coastal_Tsimshian,Consonants,24,1,Boas 1911: 289,,17,1,Dunn 1979:1,40 alphabetical symbols
+1481,Southern_Coastal_Tsimshian,Vowels,20,1,Boas 1911: 289,also 20 vowel qualities…,24,1,Dunn 1979:1,"5 letters, all vary to:short, falling, interrupts, long; 24 vowels? nop"
+1482,Southern_Coastal_Tsimshian,NasVowels,0,,,,0,,,
+1483,Southern_Coastal_Tsimshian,AdjN,Adj N ,2,Boas 1911: 350,"“the adjective always precedes the noun, “",Adj N ,2,Dunn 1979:57,"“Adjectives, like numbers, come before the noun they modify.”"
+1484,Southern_Coastal_Tsimshian,GenN,N GEN ,2,Boas 1911: 353,,N GEN ,2,Dunn 1979:57,“Possession is shown by placing the possessor noun after the noun that is owned.”
+1485,Southern_Coastal_Tsimshian,BasicWO,VSO ,1,Boas 1911: 352,"difficult, because few examples are given (mostly only forms with enclitis), but seems to be VSO from examples on this page",VSO ,2,Dunn 1979:59,
+1486,Southern_Coastal_Tsimshian,VP_Agr,1,2,Boas 1911:384,,1,2,Dunn 1979:62,ergative alignment
+1487,Southern_Coastal_Tsimshian,NP_Agr,1,1,Boas 1911: 377-385,"not explicitly discussed, but various adjectives in the list of plural morphology (not comparative/superlatives but real plural)",1,2,Dunn 1979:57,“must agree in number with the noun they modify”
+1488,Southern_Yukaghir,Pron1P,2,2,Jochelson 1905:116,Kolyma dialect is southern,2,2,Maslova 1999:301,
+1489,Southern_Yukaghir,Pron2P,2,2,Jochelson 1905:116,,2,2,Maslova 1999:301,
+1490,Southern_Yukaghir,Pron3P,2,2,Jochelson 1905:116,,2,2,Maslova 1999:301,
+1491,Southern_Yukaghir,Cases,9,2,Jochelson 1905:105,not counted “temporal” because it does not seem to work as a case; no examples given as well; neither comparatives as they seem to be phrasal; added “predicative” because its form is there (-lek) even though Jochelson did not analyze it ,9,2,Maslova 1999:5,"“Nominative, Predicative, Accusative, Instrumental, Dative, Locative, Ablative, Prolative, and Comitative”"
+1492,Southern_Yukaghir,Dem,2,1,Jochelson 1905:116,"tin, tan",3,2,Maslova 1999:306,"ti,ta, ada"
+1493,Southern_Yukaghir,NumClass,0,2,,,0,2,,
+1494,Southern_Yukaghir,GenClass,0,2,,,0,2,,
+1495,Southern_Yukaghir,NounClass,0,2,Jochelson 1905:112,“The Yukaghir language has no grammatical distinc­tion of gender. “,0,2,,
+1496,Southern_Yukaghir,InstrCom,1,2,Jochelson 1905:105,two comitatives actually; one instrumental,1,2,Maslova  1999:5,
+1497,Southern_Yukaghir,Poss,nan,,,,nan,,,
+1498,Southern_Yukaghir,LocDir,1,2,Jochelson 1905:106,"“In some cases the locative answers also the question Whither? and expresses motion into an object, while the dative mostly indicates motion toward an object.”",1,2,Maslova 1999:140,"locative can express both motion towards and location, but the dative also expresses direction"
+1499,Southern_Yukaghir,TempLoc,1,2,Jochelson 1905:110,,1,2,Maslova  1999:143,"“In its temporal meaning, the Locative case can express either a particular period of time or a quantity of time (“"
+1500,Southern_Yukaghir,DitransMarking,1,2,Jochelson 1905:108,here are some examples of ditransitive “give”; pronoun bears dative affix,1,2,Maslova  1999:140,dative
+1501,Southern_Yukaghir,CA_case,1,2,Jochelson 1905:107,,1,2,Maslova 1999:5,
+1502,Southern_Yukaghir,CA_head,1,2,Jochelson 1905:123,,1,2,Maslova 1999:184,
+1503,Southern_Yukaghir,CA_wordorder,0,2,Jochelson 1905:103,,0,2,Maslova 1999:184,
+1504,Southern_Yukaghir,PronAlign,nominativo-acusativo,2,Jochelson 1905:117,"“With the exception of a few phonetic peculiarities, thecase-suffixes of pronouns are the same as those of nouns.“",nominativo-acusativo,2,Maslova 1999:302,
+1505,Southern_Yukaghir,NomAlign,nominativo-acusativo,2,Jochelson 1905:107,some neutral person constellations are found,nominativo-acusativo,2,Maslova 1999:5,
+1506,Southern_Yukaghir,TA_marks,3,1,Jochelson 1905:119,Aspect is really not the old men’s strength,8,2,Maslova 1999:221,"at least 2 tense and 6 aspect markers, probably more, especially if we count compounded times"
+1507,Southern_Yukaghir,Evid,2,2,Jochelson 1905:128,evidential hearsay“perfective” for an action that certainly will take place: first hand,2,2,Maslova 1999:227,"non-future (“perfective”), and inferential (“evidential”); direct citation of Jochelson as well"
+1508,Southern_Yukaghir,Questions,morfología,2,Jochelson 1905:120," The indefinite has three forms in the indicative mode, apositive, a negative, and an interrogative.”",morfología,2,Maslova 1999:606,stem alternation for questions with wh-pronouns
+1509,Southern_Yukaghir,MorphCaus,1,2,Jochelson 1905:131,,1,2,Maslova 1999:182,
+1510,Southern_Yukaghir,Tones,0,,,,0,,,
+1511,Southern_Yukaghir,Consonants,28,1,Jochelson 1905:101,,20,2,Maslova 1999:2,
+1512,Southern_Yukaghir,Vowels,5,1,Jochelson 1905:100,+ short/long contrast,6,2,Maslova 1999:2,
+1513,Southern_Yukaghir,NasVowels,0,,,,0,,,
+1514,Southern_Yukaghir,AdjN,nan,,Jochelson 1905:112,"The adjective has no special form. Instead of it, par­ticiples and other verbal forms (see §§ 80, 84) are used.",nan,,Maslova 1999:12,“The most typologically striking feature of the Yukaghir parts-of-speech system is absence of adjectives “
+1515,Southern_Yukaghir,GenN,GEN N ,2,Jochelson 1905:104,,GEN N ,2,Maslova 1999:12,
+1516,Southern_Yukaghir,BasicWO,SOV ,2,Jochelson 1905:107,"“ If used as a direct object, it is put between the subject and the transitive verb,”",SOV ,2,Maslova 1999:12,
+1517,Southern_Yukaghir,VP_Agr,1,2,Jochelson 1905:123,,1,2,Maslova 1999:184,
+1518,Southern_Yukaghir,NP_Agr,nan,,Jochelson 1905:112,"The adjective has no special form. Instead of it, par­ticiples and other verbal forms (see §§ 80, 84) are used.",nan,,Maslova 1999:12,“The most typologically striking feature of the Yukaghir parts-of-speech system is absence of adjectives “
+1519,Tlingit,Pron1P,2,2,Boas 1917:42,,2,1,Naish 1979:71,no da formas independientes
+1520,Tlingit,Pron2P,2,2,Boas 1917:42,,2,1,Naish 1979:71,no da formas independientes
+1521,Tlingit,Pron3P,2,2,Boas 1917:44,,2,1,Naish 1979:71,"no da formas independientes, solo ligadas"
+1522,Tlingit,Cases,0,1,,case is not discussed,0,1,Naish 1979:67,only spatial (“situational”) cases discussed
+1523,Tlingit,Dem,4,1,Boas 1917:113,four productive dem. pronouns; there are lexicalized traces of a fith element which cannot be reconstructed,4,2,Naish 1979:76,
+1524,Tlingit,NumClass,1,2,Boas 1917:93,“-nax  is used with numerals referring to human beings”- slaves without this affix,1,2,Naish 1979:104,"same form for humans, but not for other nouns so proably not num.cl?"
+1525,Tlingit,GenClass,0,1,Boas 1917:54,"“The possessive -'a is used most frequently to express possession by animals or inanimate objects.“ - the different possessive correspond to different properties of the possessor, but the form is used for other accounts as well",0,1,Naish 1979:109,"no such classification seems to be established and the corresponding forms “a”, “ac” disappeared from the inventory, only “du” left"
+1526,Tlingit,NounClass,1,2,Boas 1917:23,"“— Immediately preceding the verbal stem are found a number of elements whose original function seems to  have been to indicate the form of the subject or object of the verb. According to mode and other incidents, their forms show certain variations. In most cases the use of these elements is purely formal. “",1,2,Naish 1979:89,Marked on the verb: “verb themes”
+1527,Tlingit,InstrCom,1,2,"Boas 1917:99, 101",-tc (instr)-n/tin (com),0,1,Naish 1979:122,"instrumental jcomitative is argued to be a full word, but the same form also occurs with Boas and it is unclear whether this is indeed the case"
+1528,Tlingit,Poss,1,2,Boas 1917:89,marking without suffix -i for inalienable nouns,1,2,Naish 1979:109,"not explicit, but derivable from examples that inalienable possessed nouns also dont take the suffix"
+1529,Tlingit,LocDir,nan,,,not discussed,nan,,,not discussed
+1530,Tlingit,TempLoc,nan,,,not discussed,nan,,,not discussed
+1531,Tlingit,DitransMarking,1,2,Boas 1917:111,affix -i,1,1,Naish 1979:68,"a lexical benefactive marker, but its mixed with nominalization and clausal markers"
+1532,Tlingit,CA_case,1,2,Boas 1917:99,What boas describes as passive is actually ergative;1) only transitive subjects marked2) no passive reading3) explains pronoun splits on the verb,1,2,Naish 1979:68,“instrumental”/ergative marker -j; not made explicit however
+1533,Tlingit,CA_head,1,2,Boas 1917:42,,1,2,Naish 1979:71,
+1534,Tlingit,CA_wordorder,0,2,Boas 1917:42,,0,2,Naish 1979:71,
+1535,Tlingit,PronAlign,ergativo-absolutivo,2,Boas 1917:99,What boas describes as passive is actually ergative;1) only transitive subjects marked2) no passive reading,ergativo-absolutivo,2,Naish 1979:68,“instrumental”/ergative marker -j; not made explicit however
+1536,Tlingit,NomAlign,ergativo-absolutivo,2,Boas 1917:99,What boas describes as passive is actually ergative;1) only transitive subjects marked2) no passive reading,ergativo-absolutivo,2,Naish 1979:68,“instrumental”/ergative marker -j; not made explicit however
+1537,Tlingit,TA_marks,7,1,Boas 1917:26,Boas 1917:83,7,1,Naish 1979:91,"El hecho que los dos tienen el mismo monto de T/A-markers no debe esconder que analizan las mismas formas de manera muy distinta, y los dos no analizan algunas que el otro si analiza – ninguna parece confiable"
+1538,Tlingit,Evid,0,,,,0,,,
+1539,Tlingit,Questions,morfología,2,Boas 1917:120,interrogative particle,morfología,2,Naish 1979:48,question particle
+1540,Tlingit,MorphCaus,1,2,Boas 1917:29,si-,1,2,Naish 1979:88,"not explicit, but derivable from examples;SIL terminology is weird, the Tlingit verb has 16 “extensors”, one of them is s- with clear causative meaning"
+1541,Tlingit,Tones,2,2,Boas 1917:11,high and low,2,2,Naish 1979:7,"“There are two phonemic tones, high and low”"
+1542,Tlingit,Consonants,41,1,Boas 1917:9,,42,1,Naish 1979:4,
+1543,Tlingit,Vowels,8,2,Boas 1917:10,,8,2,Naish 1979:4,
+1544,Tlingit,NasVowels,0,,,,0,,,
+1545,Tlingit,AdjN,nan,,,no adjectives mentioned nor analzyble in his examples; maybe there are not even adjectives as POS class,nan,,Naish 1979:80,two classes of adjectives? Naish does not mention “adjective” even once but gives “modifiers”
+1546,Tlingit,GenN,GEN N ,2,Boas 1917:89,,GEN N ,2,Naish 1979:103,
+1547,Tlingit,BasicWO,SOV ,2,Boas 1917:23,,SOV ,2,Naish 1979:43,
+1548,Tlingit,VP_Agr,1,2,Boas 1917:42,,1,2,Naish 1979:71,
+1549,Tlingit,NP_Agr,nan,,,no adjectives mentioned nor analzyble in his examples; maybe there are not even adjectives as POS class,nan,,Naish 1979:80,two classes of adjectives? Naish does not mention “adjective” even once but gives “modifiers”
+1550,Unserdeutsch,Pron1P,3,2,Volker 1983:31,incl/excl,3,2,Lindenfelser 2017:109,"""The description of Volker (1989a: 31–32) concerning this matter suggests a systematically distinct use of both forms. The analysis of the recent data, however, indicates a rather unsystematic and inconsistent use of both forms, which might be attributable to an erosion of the system. A relatively consistent use of the inclusive pronoun uns seems to be restricted to the use in dual contexts,"""
+1551,Unserdeutsch,Pron2P,2,2,Volker 1983:31,,2,2,Lindenfelser 2017:109,all forms given in examples
+1552,Unserdeutsch,Pron3P,3,2,Volker 1983:32,Gender distinction,3,2,Lindenfelser 2017:113,all three forms given in examples
+1553,Unserdeutsch,Cases,0,2,Volker 1983:59,absence of ccase classes does not allow the relatively free word order that is possible in Standard German,0,2,Lindenfelser 2017:104,no case system
+1554,Unserdeutsch,Dem,2,2,Volker 1983:35,das. Diese,2,2,Lindenfelser 2017:108,"“das, diese” attested in examples"
+1555,Unserdeutsch,NumClass,0,2,,,0,2,Lindenfelser 2017:110,
+1556,Unserdeutsch,GenClass,0,2,,,0,2,Lindenfelser 2017:110,
+1557,Unserdeutsch,NounClass,0,2,Volker 1983:34,no grammatical gender (unlike standard german),0,2,Lindenfelser 2017:110,
+1558,Unserdeutsch,InstrCom,0,2,Volker 1983:53,same preposition,0,2,Lindenfelser 2017:130,
+1559,Unserdeutsch,Poss,0,2,Volker 1983:42,,0,2,Lindenfelser 2017:130,
+1560,Unserdeutsch,LocDir,0,2,Volker 1983:53,same preposition,0,2,Lindenfelser 2017:130,
+1561,Unserdeutsch,TempLoc,0,2,Volker 1983:53,same preposition,0,2,Lindenfelser 2017:130,
+1562,Unserdeutsch,DitransMarking,0,2,Volker 1983:54,preposition used instead of case marking,0,2,Lindenfelser 2017:130,
+1563,Unserdeutsch,CA_case,0,2,Volker 1983:59,absence of ccase classes does not allow the relatively free word order that is possible in Standard German,0,2,Lindenfelser 2017:104,
+1564,Unserdeutsch,CA_head,1,2,Volker 1983:36,Only the copula is conjugated,1,2,Lindenfelser 2017:128,copula is conjugated
+1565,Unserdeutsch,CA_wordorder,1,2,Volker 1983:59,absence of ccase classes does not allow the relatively free word order that is possible in Standard German,1,2,Lindenfelser 2017:118,structural homogeneity
+1566,Unserdeutsch,PronAlign,nominativo-acusativo,2,Volker 1983:33,"only for the first person, otherwise neutro",nominativo-acusativo,2,Lindenfelser 2017:111,"in some cases, but not always"
+1567,Unserdeutsch,NomAlign,neutro,2,Volker 1983:33,no case system,neutro,2,Lindenfelser 2017:111,
+1568,Unserdeutsch,TA_marks,3,2,Volker 1983:42,"past, future, prog",3,2,Lindenfelser 2017:113,"past, future, prog"
+1569,Unserdeutsch,,0,,,,0,,,
+1570,Unserdeutsch,Questions,prosodia,1,Volker 1983:61,"He writes inflection, but the example indicates only intonation",prosodia,1,Lindenfelser 2017:120,"not discussed, probably also prosodic when no wh-pronoun is given to distinguish from declarative (no special form or word order)"
+1571,Unserdeutsch,MorphCaus,0,2,,"no causative affix in german either, so absence is telling; only passive mentioned for voice",0,2,Lindenfelser 2017:116,Only passive voice and even this is rare
+1572,Unserdeutsch,Tones,0,,,,0,,,
+1573,Unserdeutsch,Consonants,24,1,Volker 1983:22,explicitly debunked by Lindenfelser,19,2,Lindenfelser 2017:100,
+1574,Unserdeutsch,Vowels,12,1,Volker 1983:19,explicitly debunked by Lindenfelser,5,2,Lindenfelser 2017:100,"""The difference relates to Volker assuming two rows of short vowels with distinct degrees of opening, thus resulting in nine vocal phonemes. However, in the light of the data, his description seems to be untenable. Admittedly, vowels may be realised with a differing degree of opening, but this variation does not seem to be phonologically distinctive; the variants appear in the same distribution"""
+1575,Unserdeutsch,NasVowels,0,,,,0,,,
+1576,Unserdeutsch,AdjN,Adj N,2,Volker 1983:37,,Adj N,2,Lindenfelser 2017:103,
+1577,Unserdeutsch,GenN,ambos,2,Volker 1983:42,"both phrasal ""N of N"" and Possessor-Possessee""",GEN N,1,Lindenfelser 2017:108,"The other construction could be present as well and used in other contexts, only that there is no clear-cut example to attest both"
+1578,Unserdeutsch,BasicWO,SVO,2,Volker 1983:50,bot the same as standard german which is verb final,SVO,2,Lindenfelser 2017:103,
+1579,Unserdeutsch,VP_Agr,0,2,Volker 1983:36,Only the copula is conjugated,0,2,Lindenfelser 2017:128,copula is conjugated
+1580,Unserdeutsch,NP_Agr,0,2,Volker 1983:31,no nominal morphology (neither case nor number),0,2,Lindenfelser 2017:108,no nominal morphology (neither case nor number)
+1581,Creek,Pron1P,11,2,pp. 49-58 ,,nan,,,
+1582,Creek,Pron2P,6,2,pp. 49-58,,nan,,,
+1583,Creek,Pron3P,6,2,pp. 49-68,"También mencionan prefijos para marcar objeto Reflex., Recripr. e Indefinido. Serían 8 de éstos en total.",nan,,,
+1584,Creek,Cases,3,2,pp. 61,,nan,,,
+1585,Creek,Dem,3,2,pp. 57,,nan,,,
+1586,Creek,NumClass,0,,,,0,,,
+1587,Creek,GenClass,0,,,,0,,,
+1588,Creek,NounClass,1,2,pp. 59,,0,,,
+1589,Creek,InstrCom,0,2,pp. 105,,nan,,,
+1590,Creek,Poss,1,2,pp. 54-56,,1,1,pp. 84,
+1591,Creek,LocDir,1,2,pp. 77-86,,nan,,,
+1592,Creek,TempLoc,nan,,,,nan,,,
+1593,Creek,DitransMarking,nan,,,,nan,,,
+1594,Creek,,nan,,pp. 65,No hay adjetivos en creek,1,1,pp. 46-47,"De acuerdo con los ejemplos del 1-6, parece que sí hay agreement entre nombre y adj"
+1595,Creek,CA_case,1,1,pp. 61,,nan,,,
+1596,Creek,CA_head,1,2,pp. 93-104,,nan,,,
+1597,Creek,CA_wordorder,1,2,pp. 143-145,,1,2,pp. 32-33,
+1598,Creek,PronAlign,nan,,,,nan,,,
+1599,Creek,NomAlign,ergativo-absolutivo,1,pp. 61,,nan,,,
+1600,Creek,TA_marks,4,1,pp. 111,,6,2,pp. 119-135,
+1601,Creek,Evid,1,1,pp. 115,,nan,,,
+1602,Creek,Questions,1,2,pp. 115-116,Ambos tienen marcas morfológicas distintas,1,2,pp. 34 y pp. 179,Ambos tienen marcas morfológicas
+1603,Creek,MorphCaus,1,2,pp. 75,,nan,,,
+1604,Creek,,1,2,pp. 93,,1,2,pp. 74 y pp. 94,
+1605,Creek,Tones,3,2,pp. 19,,3,1,pp. 17-23,
+1606,Creek,Consonants,14,2,pp. 8,,nan,,,
+1607,Creek,Vowels,10,2,pp. 14-15,,nan,,,
+1608,Creek,NasVowels,3,2,pp. 14-15,,0,1,pp. 6-8,
+1609,Creek,AdjN,nan,2,pp. 65,There are no adjectives in Seminola lexicon',N Adj ,2,pp. 46,
+1610,Creek,GenN,N GEN ,2,pp. 136,,nan,,,
+1611,Creek,BasicWO,SOV ,2,pp. 145,,SOV ,2,pp. 32-33,
