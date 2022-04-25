@@ -85,7 +85,7 @@
                         "reference": {
                             "resource": "parameters.csv",
                             "columnReference": [
-                                "ID"
+                                "Shortname"
                             ]
                         }
                     },
@@ -112,13 +112,13 @@
             "tableSchema": {
                 "columns": [
                     {
+                        "name": "ID",                        
                         "datatype": {
                             "base": "string",
                             "format": "[a-zA-Z0-9_\\-]+"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "required": true,
-                        "name": "ID"
+                        "required": true
                     },
                     {
                         "datatype": "string",
