@@ -83,7 +83,7 @@
                             "Parameter"
                         ],
                         "reference": {
-                            "resource": "parameters.csv",
+                            "resource": "parameters.tsv",
                             "columnReference": [
                                 "Shortname"
                             ]
@@ -94,7 +94,7 @@
                             "Language"
                         ],
                         "reference": {
-                            "resource": "lang_with_aes.csv",
+                            "resource": "languages.tsv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -144,6 +144,18 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Shortname"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Category_Esp"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Description_esp"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "Variable_type"
                     }
                 ],
@@ -151,7 +163,7 @@
                     "ID"
                 ]
             },
-            "url": "parameters.csv"
+            "url": "parameters.tsv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
@@ -193,6 +205,11 @@
                         "name": "Longitude"
                     },
                     {
+                        "datatype": "string",
+                        "propertyUrl": "http://glottolog.org/meta/glossary#macroarea",
+                        "name": "Macro-Area"
+                    },
+                    {
                         "datatype": {
                             "base": "string",
                             "format": "[a-z0-9]{4}[1-9][0-9]{3}"
@@ -215,30 +232,7 @@
                     "ID"
                 ]
             },
-            "url": "lang_with_aes.csv"
-        },
-        {
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "GitHub user"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Description"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Role"
-                    }
-                ]
-            },
-            "url": "CONTRIBUTORS.md"
+            "url": "languages.tsv"
         }
     ]
 }

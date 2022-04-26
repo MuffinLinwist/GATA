@@ -1,0 +1,53 @@
+ID,Name,Family,Macro-Area,Latitude,Longitude,Glottocode,aes
+Arapaho,Arapaho,Algic,North America,43.39,-108.81,arap1274,moribund
+Bardi,Bardi,Nyulnyulan,Australia,-16.63,122.54,bard1255,nearly_extinct
+Baure,Baure,Arawakan,South America,-13.61,-63.68,baur1253,nearly_extinct
+Carijona,Carijona,Cariban,South America,1.22,-72.07,cari1279,nearly_extinct
+CentralOkinawa,Central Okinawa,Japonic,Eurasia,26.15,127.78,cent2126,moribund
+Chontal,Chontal,Tequistlatecan,North America,15.95,-95.69,lowl1260,moribund
+Comanche,Comanche,Uto-Aztecan,North America,34,101,coma1245,moribund
+Creek,Creek,Muskogean,North America,31,-87.5,cree1270,moribund
+Domari,Domari,Indo-Iranian,Eurasia,32,35,doma1258,moribund
+Even,Even,Tungusic,Eurasia,70.67,130.91,even1260,moribund
+ForestEnets,Forest Enets,Uralic,Eurasia,69.98,88.21,fore1265,moribund
+Garrwa,Garrwa,Garrwan,Australia,-17.45,137.72,gara1269,moribund
+GuuguYimidhirr,Guugu Yimidhirr,Pama-Nyungan,Australia,-14.94,144.83,gugu1255,moribund
+Hawaiian,Hawaiian,Austronesian,Multinesia,19.63,-155.43,hawa1245,moribund
+HokkaidoAinu,Hokkaido Ainu,Ainu,Eurasia,43.63,142.46,ainu1240,nearly_extinct
+Isinai,Isinai,Austronesian,Multinesia,16.33,121.12,isin1239,nearly_extinct
+Jaru,Jaru,Pama-Nyungan,Australia,-18.33,128.26,jaru1254,moribund
+Kalispel,Kalispel,Salishan,North America,47.58,-114.19,kali1308,moribund
+Kanakanavu,Kanakanavu,Austronesian,Multinesia,23.32,120.89,kana1286,nearly_extinct
+Karok,Karok,Isolated,North America,41.82,-123.31,karo1304,nearly_extinct
+Kokama,Kokama,Tupian,South America,-4.5,-74,coca1259,nearly_extinct
+KomiZyrian,Komi-Zyrian,Uralic,Eurasia,64.05,54.95,komi1268,not_endangered
+Korana,Korana,Khow-Kwadi,Africa,-30.42,19.77,kora1292,extinct
+Lepcha,Lepcha,Sino-Tibetan,Eurasia,27.09,88.57,lepc1244,moribund
+Lokono,Lokono,Arawakan,South America,5.64,-56.92,araw1276,moribund
+Ngalkbun,Ngalkbun,Gunwinyguan,Australia,-13.98,133.94,ngal1292,nearly_extinct
+Nganasan,Nganasan,Uralic,Eurasia,73.14,86.21,ngan1291,moribund
+Ngarinyin,Ngarinyin,Worrorran,Australia,-16.4,126.43,ngar1284,nearly_extinct
+Nimboran,Nimboran,Nimboranic,Multinesia,-2.58,140.18,nucl1633,moribund
+NIIng,N||ng,Tuu,Africa,-29.71,19.08,nngg1234,nearly_extinct
+NorthwestSahaptin,Northwest Sahaptin,Sahaptian,North America,46.27,-120.76,yaki1237,nearly_extinct
+Nyangi,Nyang'i,Kuliak,Africa,3.5,33.74,nyan1313,nearly_extinct
+Ofaye,Ofaye,Nuclear-Macro-Je,Africa,-22.28,-53.72,ofay1240,moribund
+Onondaga,Onondaga,Iroquian,North America,42.92,-76.12,onon1246,nearly_extinct
+PacificGulfYupik,Pacific Gulf Yupik,Eskimo-Aleut,North America,60.42,-148.04,paci1278,moribund
+Pawnee,Pawnee,Caddoan,North America,36.29,-96.89,pawn1254,nearly_extinct
+Rembarrnga,Rembarrnga,Gunwinyguan,Australia,-12.96,134.31,remb1249,moribund
+Saaroa,Saaroa,Austronesian,Multinesia,23.26,120.71,saar1237,nearly_extinct
+Seneca,Seneca,Iroquian,North America,42.56,-77.53,sene1264,nearly_extinct
+Siriono,Sirionó,Tupian,South America,-15.53,-63.97,siri1273,nearly_extinct
+Soo,Soo,Kuliak,Africa,2.58,34.76,sooo1256,moribund
+SouthWa,South Wa,Austroasiatic,Eurasia,22.87,99.38,para1301,not_endangered
+SouthernCoastalTsimshian,Southern Coastal Tsimshian,Tsimshian,North America,52.59,-128.54,nucl1649,nearly_extinct
+SouthernYukaghir,Southern Yukaghir,Yukaghir,Eurasia,64.22,154.38,sout2750,nearly_extinct
+Tarifiyt,Tarifiyt,Afro-Asiatic,Africa,34.92,-3.43,tari1263,moribund
+ThadoChin,Thado Chin,Sino-Tibetan,Eurasia,24.1,93.72,thad1238,moribund
+Tlingit,Tlingit,Athabaskan-Eyak-Tlingit,North America,59.44,-135.29,tlin1245,nearly_extinct
+Uighur,Uighur,Turkic,Eurasia,43.88,87.38,uigh1240,not_endangered
+Unserdeutsch,Unserdeutsch,Indo-European,Papunesia,-4.2,152.18,unse1236,moribund
+Washo,Washo,Isolated,North America,38.82,-119.64,wash1253,moribund
+Yami,Yami,Austronesian,Multinesia,22.05,121.54,yami1254,moribund
+YuwaalaraayGamilaraay,Yuwaalaraay Gamilaraay,Pama-Nyungan,Australia,-29.76,147.92,gami1243,nearly_extinct
