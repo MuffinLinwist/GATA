@@ -5,12 +5,16 @@ import pathlib
 import itertools
 import collections
 
+
+
 from csvw import dsv 
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec, Metadata
 from clldutils.misc import data_url
 from pycldf.sources import Source, Reference
 from pybtex.database import parse_string
+
+
 
 
 class Dataset(BaseDataset):
@@ -20,105 +24,147 @@ class Dataset(BaseDataset):
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(dir=self.cldf_dir, module='StructureDataset') 
 
-    def cmd_download(self, args):
-        pass
-
-
-    def read(self, core, extended=False, pkmap=None, key=None):
-        if not key:
-            key = lambda d: int(d['pk'])
-        res = collections.OrderedDict()
-        for row in sorted(self.read_csv('{0}.csv'.format(core), dicts=True), key=key):
-            res[row['pk']] = row
-            if pkmap is not None:
-                pkmap[core][row['pk']] = row['id']
-        if extended:
-            for row in self.read_csv('{0}.csv'.format(extended), dicts=True):
-                res[row['pk']].update(row)
-        return res    
-
 
     def cmd_makecldf(self, args):
-        self.create_schema(args.writer.cldf)
-        pk2id = collections.defaultdict(dict)
-
-        sources = parse_string(
-            self.raw.joinpath('sources.bib').read_text(encoding='utf8'), 'bibtext')
-        gbs_lg_refs = collections.defaultdict(set)
-        src_names = {}
+        args.writer.add_sources()
+        args.writer.cldf.add_component("ParameterTable")
+        args.writer.cldf.add_component("LanguageTable")
         
-
-        for row in self.read(
-            'parameters',
-            extended= 'feature',
-            pkmap=pk2id,
-            key=lambda d: d['id']).values():
-            args.writer.objects['ParameterTable'].append({
-                'ID': row['ID'],
-                'Category': row['Category'],
-                'Name': row['Name'],
-                'Shortname': row['Shortname'],
-                'Variable type': row['Variable_type'],
-                'Description': row['Description'],
-                'Comments': row['Comments']
-                })
-
-        families = self.read('lang_with_aes')
-        glang = {l.hid: (l.id, l.iso) for l in args.glottolog.api.languoids() if l.hid}
-        for row in self.read(
-                'lang_with_aes', pkmap=pk2id, key=lambda d: d['id']).values():
-            args.writer.objects['LanguageTable'].append({
-                'ID': row['ID'],
-                'Name': row['Name'],
-                'Glottocode': glang[row['id']][0],
-                'Family': families[row['family_pk']]['name'],
-                'Latitude': row['Latitude'],
-                'Longitude': row['Longitude'],
-                'AES': row['aes'],
-            })
-        args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID']) 
-
-
-
-        refs = {
-            vspk: sorted(pk2id['source'][r['source_pk']] for r in rows)
-            for vspk, rows in itertools.groupby(
-                self.read('valuesetreference', key=lambda d: d['valueset_pk']).values(),
-                lambda d: d['valueset_pk'],
-            )
-        }
-        vsdict = self.read('valueset', pkmap=pk2id)
-        for row in self.read('gata_raw').values():
-            vs = vsdict[row['valueset_pk']]
-            args.writer.objects['ValueTable'].append({
-                'ID': vs['ID'],
-                'Language_ID': pk2id['lang_with_aes'][vs['language_pk']],
-                'Parameter_ID': pk2id['parameters'][vs['parameter_pk']],
-                'State_1': pk2id['domainelement'][row['domainelement_pk']].split('-')[1],
-                'Certainty_1': row['Certainty_1'],
-                'Reference_1': vs['source'],
-                'Comments_1': row['Comments_1'],
-                'Source': refs.get(row['Reference_1'], []),
-            })
-
-        args.writer.objects['ValueTable'].sort(
-            key=lambda d: (d['Language_ID'], d['Parameter_ID']))
-
-    def create_schema(self, cldf):
-        cldf.add_component(
-            'ParameterTable',
-        )
-        cldf.add_component('LanguageTable')
-        cldf.add_table(
-            'CONTRIBUTORS.md',
-            'Name',
+        args.writer.cldf.add_table(
+            "parameters.tsv",
             {
-                'name': 'Contributor',
-                'propertyUrl': 'http://purl.org/dc/terms/creator',
+                "name": "ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            }, 
+            "Category",
+            {
+                "name": "Name",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+            },     
+            "Shortname",
+            "Variable_type",
+            "Category_Esp",
+            {
+                "name": "Description",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+            },    
+            "Description_esp",
+            {
+                "name": "Comments",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
             },
-            'GitHub user',
-            'Description',
-            'Role'
         )
-        cldf.add_columns('ValueTable', 'Contributor', 'Reference')
-        cldf.add_foreign_key('ParameterTable', 'CONTRIBUTORS.md', 'ID')    
+        args.writer.cldf.add_table(
+            "languages.tsv",
+            {
+                "name": "ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            },
+            {
+                "name": "Name",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+            },     
+            "Family",
+            {
+                "name": "Macroarea",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+            },   
+            {
+                "name": "Latitude",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+            },   
+            {
+                "name": "Longitude",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+            },   
+            {
+                "name": "Glottocode",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+            },     
+            "aes",
+        )
+        args.writer.cldf.add_table(
+            "gata_raw.csv",
+            {
+                "name": "ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            },
+            "Language",
+            "Parameter",
+            {
+                "name": "Value",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+            },
+            "Certainty",
+            "Reference",
+            {
+                "name": "Comments",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+            },
+            "Source",
+            "Year",
+        )
+        args.writer.cldf.add_foreign_key(
+            "gata_raw.csv", "Value", "ValueTable", "ID"
+        )
+        args.writer.cldf.add_foreign_key(
+            "gata_raw.csv", "Parameter", "parameters.tsv", "Shortname"
+        )
+        args.writer.cldf.add_foreign_key(
+            "gata_raw.csv", "Language", "languages.tsv", "ID" 
+        )
+
+
+        for row in self.raw_dir.read_csv(
+            'parameters.tsv',
+            dicts=True,
+            ):
+            args.writer.objects['ParameterTable'].append(
+                {
+                    'ID': row['ID'],
+                    'Category': row['Category'],
+                    'Category Spanish': row['Category_esp'],
+                    'Name': row['Name'],
+                    'Shortname': row['Shortname'],
+                    'Variable Type': row['Variable_type'],
+                    'Description': row['Description'],
+                    'Description Spanish': row['Description_esp'],
+                    'Comments': row['Comments'],
+                }
+            )   
+        
+        for row in self.raw_dir.read_csv(
+            'languages.tsv',
+            dicts=True,
+            ):
+            args.writer.objects['LanguageTable'].append(
+                {
+                    'ID': row['ID'],
+                    'Name': row['Name'],
+                    'Family': row['Family'],
+                    'Macro-Area': row['Macro-Area'],
+                    'Latitude': row['Latitude'],
+                    'Longitude': row['Longitude'],
+                    'Glottocode': row['Glottocode'],
+                    'AES': row['aes'],
+                }
+            )
+
+        
+        for row in self.raw_dir.read_csv(
+            'gata_raw.csv',
+            dicts=True,
+            ):
+                args.writer.objects['ValueTable'].append(
+                    {
+                        'ID': row['ID'],
+                        'Language': row['Language'],
+                        'Parameter': row['Parameter'],
+                        'Value': row['Value'],
+                        'Certainty': row['Certainty'],
+                        'Reference': row['Reference'],
+                        'Comments': row['Comments'],
+                        'Source': row['Source'],
+                        'Year': row['Year',]
+                    }
+                )
