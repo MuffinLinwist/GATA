@@ -26,7 +26,6 @@ class Dataset(BaseDataset):
 
 
     def cmd_makecldf(self, args):
-        args.writer.add_sources()
         args.writer.cldf.add_component("ParameterTable")
         args.writer.cldf.add_component("LanguageTable")
         
@@ -101,7 +100,10 @@ class Dataset(BaseDataset):
                 "name": "Comments",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
             },
-            "Source",
+            {
+                "name": "Source",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            },
             "Year",
         )
         args.writer.cldf.add_foreign_key(
@@ -123,7 +125,7 @@ class Dataset(BaseDataset):
                 {
                     'ID': row['ID'],
                     'Category': row['Category'],
-                    'Category Spanish': row['Category_esp'],
+                    'Category Spanish': row['Category_Esp'],
                     'Name': row['Name'],
                     'Shortname': row['Shortname'],
                     'Variable Type': row['Variable_type'],
@@ -165,6 +167,6 @@ class Dataset(BaseDataset):
                         'Reference': row['Reference'],
                         'Comments': row['Comments'],
                         'Source': row['Source'],
-                        'Year': row['Year',]
+                        'Year': row['Year'],
                     }
                 )

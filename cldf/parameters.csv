@@ -1,0 +1,32 @@
+ID,Name,Description
+1,1P pronoun distinctions,"Number of formal distinctions (lexical/morphological) for the first person (gender, number, inclusive/exclusive, etc)"
+2,2P pronoun distinctions,"Number of formal distinctions (lexical/morphological) for the second person (gender, number, inclusive/exclusive, etc)"
+3,3P pronoun distinctions,"Number of formal distinctions (lexical/morphological) for the third person (gender, number, inclusive/exclusive, etc)"
+4,Cases,Total number of grammatical cases
+5,Spatial demonstratives,Total number of spatial demonstratives
+6,Numeral classifiers,Is there evidence for numeral classifiers?
+7,Genitive classifiers,Is there evidence for genitive classifiers?
+8,Grammatical gender,Is there evidence for nominal classes/gender?
+9,Instrumental vs comitative,The language distinguishes morphologically the instrumental from commitative
+10,Alienable and inalienable,The language distinguishes morphologically alienable possession from inalienable possession
+11,Locative vs directional,The language distinguishes morphologically locative from directional
+12,Temporal locative vs spatial locative,The language distinguishes morphologically spatial locative from temporal locative
+13,Ditransitive argument marking,The language distinguishes morphologically both objects of a ditransitive construction
+14,Core arguments via case,"The language marks the functions of the nominal phrase (S, A, P) with case"
+15,Core arguments via head marking,"The language marks the functions of the nominal phrase (S, A, P) with verbal marking"
+16,Core arguments via word order,"The language marks the functions of the nominal phrase (S, A, P) with word order"
+17,Pronominal alignment,The pronominal system has alignment type..
+18,Nominal alignment,Nouns have alignment type...
+19,Tense and aspect markers,Number of Tense and Aspect morphemes
+20,Evidential markers,Number of morphological evidential markers
+21,Interrogatives,The interrogative is distinguished from the declarative by
+22,Causative,Morphological causatives exist
+23,Tones,Number of tones in the language
+24,Consonants,Number of consonants
+25,Vowels,Number of vowels
+26,Nasal vowels,Number of nasal vowels
+27,Adj-N order,Relative order of adjective and noun in nominal phrase
+28,Gen-N order,Relative order of genitive modification and noun in nominal phrase
+29,Basic word order,Basic word order
+30,Agreement between verb and arguments,Is there evidence of agreement between the verb and on of its arguments?
+31,Agreement between noun and adjectives,Is there evidence of agreement between noun and its modifying adjective?
