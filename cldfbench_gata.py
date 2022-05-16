@@ -26,7 +26,6 @@ class Dataset(BaseDataset):
 
 
     def cmd_makecldf(self, args):
-        # args.writer.add_sources() : Which is the function of cldfbench for sources?
         sources = parse_string(
             self.raw_dir.joinpath('sources.bib').read_text(encoding='utf8'), 'bibtex')
         args.writer.cldf.add_component("ParameterTable")
@@ -44,13 +43,13 @@ class Dataset(BaseDataset):
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
             },     
             "Shortname",
-            "Variable_type",
-            "Category_Esp",
+            "Variable Type",
+            "Category Spanish",
             {
                 "name": "Description",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
             },    
-            "Description_esp",
+            "Description Spanish",
             {
                 "name": "Comments",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
@@ -83,7 +82,7 @@ class Dataset(BaseDataset):
                 "name": "Glottocode",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
             },     
-            "aes",
+            "AES",
         )
         args.writer.cldf.add_table(
             "values.csv",
@@ -91,8 +90,8 @@ class Dataset(BaseDataset):
                 "name": "ID",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
             },
-            "Language",
-            "Parameter",
+            "Language_ID",
+            "Parameter_ID",
             {
                 "name": "Value",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
