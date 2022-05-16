@@ -26,11 +26,12 @@ class Dataset(BaseDataset):
 
 
     def cmd_makecldf(self, args):
+        args.writer.add_sources()
         args.writer.cldf.add_component("ParameterTable")
         args.writer.cldf.add_component("LanguageTable")
         
         args.writer.cldf.add_table(
-            "parameters.tsv",
+            "parameters.csv",
             {
                 "name": "ID",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
@@ -54,7 +55,7 @@ class Dataset(BaseDataset):
             },
         )
         args.writer.cldf.add_table(
-            "languages.tsv",
+            "languages.csv",
             {
                 "name": "ID",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
@@ -117,8 +118,8 @@ class Dataset(BaseDataset):
         )
 
 
-        for row in self.raw_dir.read_csv(
-            'parameters.tsv',
+        for row in self.etc_dir.read_csv(
+            'parameters.csv',
             dicts=True,
             ):
             args.writer.objects['ParameterTable'].append(
@@ -135,8 +136,8 @@ class Dataset(BaseDataset):
                 }
             )   
         
-        for row in self.raw_dir.read_csv(
-            'languages.tsv',
+        for row in self.etc_dir.read_csv(
+            'languages.csv',
             dicts=True,
             ):
             args.writer.objects['LanguageTable'].append(
