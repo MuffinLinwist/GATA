@@ -6,6 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:source": "sources.bib",
     "dc:license": "CC-BY",
     "dc:title": "Grammars Across Time Analyzed ",
     "dcat:accessURL": "https://github.com/MuffinLinwist/GATA",
