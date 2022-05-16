@@ -86,7 +86,7 @@ class Dataset(BaseDataset):
             "aes",
         )
         args.writer.cldf.add_table(
-            "gata_raw.csv",
+            "values.csv",
             {
                 "name": "ID",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
@@ -110,13 +110,13 @@ class Dataset(BaseDataset):
             "Year",
         )
         args.writer.cldf.add_foreign_key(
-            "gata_raw.csv", "Value", "ValueTable", "ID"
+            "values.csv", "Value", "ValueTable", "ID"
         )
         args.writer.cldf.add_foreign_key(
-            "gata_raw.csv", "Parameter", "parameters.csv", "Shortname"
+            "values.csv", "Parameter_ID", "parameters.csv", "Shortname"
         )
         args.writer.cldf.add_foreign_key(
-            "gata_raw.csv", "Language", "languages.csv", "ID" 
+            "values.csv", "Language_ID", "languages.csv", "ID"
         )
 
 
@@ -163,8 +163,8 @@ class Dataset(BaseDataset):
                 args.writer.objects['ValueTable'].append(
                     {
                         'ID': row['ID'],
-                        'Language': row['Language'],
-                        'Parameter': row['Parameter'],
+                        'Language_ID': row['Language'],
+                        'Parameter_ID': row['Parameter'],
                         'Value': row['Value'],
                         'Certainty': row['Certainty'],
                         'Reference': row['Reference'],
