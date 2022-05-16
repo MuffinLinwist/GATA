@@ -80,6 +80,14 @@
                         "name": "Value"
                     },
                     {
+                        "datatype": "string",
+                        "name": "Certainty"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Reference"
+                    },
+                    {
                         "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
@@ -98,6 +106,10 @@
                         "required": false,
                         "separator": ";",
                         "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Year"
                     }
                 ],
                 "foreignKeys": [
@@ -108,7 +120,7 @@
                         "reference": {
                             "resource": "parameters.csv",
                             "columnReference": [
-                                "ID"
+                                "Shortname"
                             ]
                         }
                     },
@@ -146,15 +158,39 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Category"
+                    },
+                    {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "required": false,
                         "name": "Name"
                     },
                     {
                         "datatype": "string",
+                        "name": "Shortname"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Variable_type"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Category_Esp"
+                    },
+                    {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Description_esp"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comments"
                     }
                 ],
                 "primaryKey": [
@@ -182,6 +218,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "required": false,
                         "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Family"
                     },
                     {
                         "datatype": "string",
@@ -227,90 +267,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "languages.csv"
-        },
-        {
-            "tableSchema": {
-                "columns": [
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Category"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Shortname"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Variable_type"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Category_Esp"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "name": "Description"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Description_esp"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "name": "Comments"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "parameters.tsv"
-        },
-        {
-            "tableSchema": {
-                "columns": [
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Family"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "name": "Macroarea"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
-                        "name": "Latitude"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
-                        "name": "Longitude"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "name": "Glottocode"
                     },
                     {
                         "datatype": "string",
@@ -321,88 +277,7 @@
                     "ID"
                 ]
             },
-            "url": "languages.tsv"
-        },
-        {
-            "tableSchema": {
-                "columns": [
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Language"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Parameter"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
-                        "name": "Value"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Certainty"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Reference"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "name": "Comments"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Year"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Value"
-                        ],
-                        "reference": {
-                            "resource": "values.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Parameter"
-                        ],
-                        "reference": {
-                            "resource": "parameters.tsv",
-                            "columnReference": [
-                                "Shortname"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Language"
-                        ],
-                        "reference": {
-                            "resource": "languages.tsv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "gata_raw.csv"
+            "url": "languages.csv"
         }
     ]
 }
