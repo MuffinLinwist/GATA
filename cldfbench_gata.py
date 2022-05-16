@@ -113,10 +113,10 @@ class Dataset(BaseDataset):
             "gata_raw.csv", "Value", "ValueTable", "ID"
         )
         args.writer.cldf.add_foreign_key(
-            "gata_raw.csv", "Parameter", "parameters.tsv", "Shortname"
+            "gata_raw.csv", "Parameter", "parameters.csv", "Shortname"
         )
         args.writer.cldf.add_foreign_key(
-            "gata_raw.csv", "Language", "languages.tsv", "ID" 
+            "gata_raw.csv", "Language", "languages.csv", "ID" 
         )
 
 
