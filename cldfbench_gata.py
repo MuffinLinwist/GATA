@@ -26,7 +26,9 @@ class Dataset(BaseDataset):
 
 
     def cmd_makecldf(self, args):
-        args.writer.add_sources()
+        # args.writer.add_sources() : Which is the function of cldfbench for sources?
+        sources = parse_string(
+            self.raw_dir.joinpath('sources.bib').read_text(encoding='utf8'), 'bibtex')
         args.writer.cldf.add_component("ParameterTable")
         args.writer.cldf.add_component("LanguageTable")
         
