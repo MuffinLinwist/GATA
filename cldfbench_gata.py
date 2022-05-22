@@ -22,153 +22,53 @@ class Dataset(BaseDataset):
     id = "gata"
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
-        return CLDFSpec(dir=self.cldf_dir, module='StructureDataset') 
+        return CLDFSpec(
+                dir=self.cldf_dir, 
+                module='StructureDataset',
+                data_fnames={"ParameterTable": "features.csv"}
+                ) 
 
 
     def cmd_makecldf(self, args):
         sources = parse_string(
             self.raw_dir.joinpath('sources.bib').read_text(encoding='utf8'), 'bibtex')
-        args.writer.cldf.add_component("ParameterTable")
-        args.writer.cldf.add_component("LanguageTable")
-        
-        args.writer.cldf.add_table(
-            "parameters.csv",
-            {
-                "name": "ID",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-            }, 
-            "Category",
-            {
-                "name": "Name",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-            },     
-            "Shortname",
-            "Variable Type",
-            "Category Spanish",
-            {
-                "name": "Description",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-            },    
-            "Description Spanish",
-            {
-                "name": "Comments",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-            },
-        )
-        args.writer.cldf.add_table(
-            "languages.csv",
-            {
-                "name": "ID",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-            },
-            {
-                "name": "Name",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-            },     
-            "Family",
-            {
-                "name": "Macroarea",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-            },   
-            {
-                "name": "Latitude",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
-            },   
-            {
-                "name": "Longitude",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
-            },   
-            {
-                "name": "Glottocode",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-            },     
-            "AES",
-        )
-        args.writer.cldf.add_table(
-            "values.csv",
-            {
-                "name": "ID",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-            },
-            "Language_ID",
-            "Parameter_ID",
-            {
-                "name": "Value",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
-            },
+        args.log.info("added sources")
+        args.writer.cldf.add_columns(
+                "ParameterTable",
+                "Category",
+                "Shortname",
+                "Variable_type",
+                "Category_Esp",  
+                "Description_esp",
+                "Comments")
+        args.writer.cldf.add_component(
+                "LanguageTable",
+                "AES")
+        args.writer.cldf.add_columns(
+            "ValueTable",
             "Certainty",
             "Reference",
-            {
-                "name": "Comments",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-            },
-            {
-                "name": "Source",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-            },
-            "Year",
-        )
-        args.writer.cldf.add_foreign_key(
-            "values.csv", "Value", "ValueTable", "ID"
-        )
-        args.writer.cldf.add_foreign_key(
-            "values.csv", "Parameter_ID", "parameters.csv", "Shortname"
-        )
-        args.writer.cldf.add_foreign_key(
-            "values.csv", "Language_ID", "languages.csv", "ID"
-        )
+            "Comments",
+            "Year")
 
 
         for row in self.etc_dir.read_csv(
             'parameters.csv',
             dicts=True,
             ):
-            args.writer.objects['ParameterTable'].append(
-                {
-                    'ID': row['ID'],
-                    'Category': row['Category'],
-                    'Category Spanish': row['Category_Esp'],
-                    'Name': row['Name'],
-                    'Shortname': row['Shortname'],
-                    'Variable Type': row['Variable_type'],
-                    'Description': row['Description'],
-                    'Description Spanish': row['Description_esp'],
-                    'Comments': row['Comments'],
-                }
-            )   
+            args.writer.objects['ParameterTable'].append(row)
+        args.log.info("added parameters")
         
         for row in self.etc_dir.read_csv(
             'languages.csv',
             dicts=True,
             ):
-            args.writer.objects['LanguageTable'].append(
-                {
-                    'ID': row['ID'],
-                    'Name': row['Name'],
-                    'Family': row['Family'],
-                    'Macro-Area': row['Macro-Area'],
-                    'Latitude': row['Latitude'],
-                    'Longitude': row['Longitude'],
-                    'Glottocode': row['Glottocode'],
-                    'AES': row['aes'],
-                }
-            )
-
+            args.writer.objects['LanguageTable'].append(row)
+        args.log.info("added languages")
         
         for row in self.raw_dir.read_csv(
             'gata_raw.csv',
             dicts=True,
             ):
-                args.writer.objects['ValueTable'].append(
-                    {
-                        'ID': row['ID'],
-                        'Language_ID': row['Language'],
-                        'Parameter_ID': row['Parameter'],
-                        'Value': row['Value'],
-                        'Certainty': row['Certainty'],
-                        'Reference': row['Reference'],
-                        'Comments': row['Comments'],
-                        'Source': row['Source'],
-                        'Year': row['Year'],
-                    }
-                )
+                args.writer.objects['ValueTable'].append(row)
+        args.log.info("added values")
