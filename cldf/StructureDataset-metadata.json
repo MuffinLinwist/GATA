@@ -6,28 +6,27 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:source": "sources.bib",
     "dc:license": "CC-BY",
     "dc:title": "Grammars Across Time Analyzed ",
-    "dcat:accessURL": "https://github.com/MuffinLinwist/GATA",
+    "dcat:accessURL": "https://github.com/cldf-datasets/gata",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/MuffinLinwist/GATA",
+            "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "1250feb",
+            "dc:created": "f727dbe",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.3-treedb-fixes-295-g07a99daf85",
+            "dc:created": "v4.5-20-g9bdfb86608",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.8"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -80,14 +79,6 @@
                         "name": "Value"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Certainty"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Reference"
-                    },
-                    {
                         "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
@@ -109,6 +100,18 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Certainty"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Reference"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Comments"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "Year"
                     }
                 ],
@@ -118,9 +121,9 @@
                             "Parameter_ID"
                         ],
                         "reference": {
-                            "resource": "parameters.csv",
+                            "resource": "features.csv",
                             "columnReference": [
-                                "Shortname"
+                                "ID"
                             ]
                         }
                     },
@@ -158,13 +161,19 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Category"
-                    },
-                    {
-                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "required": false,
                         "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Category"
                     },
                     {
                         "datatype": "string",
@@ -180,16 +189,10 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "required": false,
-                        "name": "Description"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Description_esp"
                     },
                     {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "datatype": "string",
                         "name": "Comments"
                     }
                 ],
@@ -197,7 +200,7 @@
                     "ID"
                 ]
             },
-            "url": "parameters.csv"
+            "url": "features.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
@@ -221,10 +224,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
                         "required": false,
                         "name": "Macroarea"
@@ -232,8 +231,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -242,8 +241,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -270,7 +269,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "aes"
+                        "name": "AES"
                     }
                 ],
                 "primaryKey": [
