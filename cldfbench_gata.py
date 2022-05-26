@@ -70,5 +70,6 @@ class Dataset(BaseDataset):
             'gata_raw.csv',
             dicts=True,
             ):
-                args.writer.objects['ValueTable'].append(row)
+            row["Source"] = [row["Source"]]
+            args.writer.objects['ValueTable'].append(row)
         args.log.info("added values")
