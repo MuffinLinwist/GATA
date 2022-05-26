@@ -25,7 +25,7 @@ class Dataset(BaseDataset):
         return CLDFSpec(
                 dir=self.cldf_dir, 
                 module='StructureDataset',
-                data_fnames={"ParameterTable": "features.csv"}
+                data_fnames={"ParameterTable": "parameters.csv"}
                 ) 
 
 
@@ -38,7 +38,7 @@ class Dataset(BaseDataset):
                 "Category",
                 "Shortname",
                 "Variable_type",
-                "Category_Esp",  
+                "Category_esp",  
                 "Description_esp",
                 "Comments")
         args.writer.cldf.add_component(
