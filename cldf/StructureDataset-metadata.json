@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "236caec",
+            "dc:created": "4484a2a",
             "dc:title": "Repository"
         },
         {
@@ -105,10 +105,6 @@
                     {
                         "datatype": "string",
                         "name": "Reference"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Comments"
                     },
                     {
                         "datatype": "string",

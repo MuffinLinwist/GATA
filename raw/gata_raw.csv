@@ -1,4 +1,4 @@
-ID,Language_ID,Parameter_ID,Value,Certainty,Reference,Comments,Source,Year
+ID,Language_ID,Parameter_ID,Value,Certainty,Reference,Comment,Source,Year
 1,Arapaho,AdjN,Adj N,1,,Injferencia a partir de ejemplos,arapaho1963,1963
 2,Arapaho,AdjN,Adj N,2,Cowell (2008:324),,arapaho2008,2008
 3,Arapaho,BasicWO,no basic word order,1,,Inferencia a partir de ejemplos.,arapaho1963,1963

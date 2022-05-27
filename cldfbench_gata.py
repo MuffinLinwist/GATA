@@ -48,7 +48,6 @@ class Dataset(BaseDataset):
             "ValueTable",
             "Certainty",
             "Reference",
-            "Comments",
             "Year")
 
 
