@@ -1,5 +1,5 @@
 ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Year
-1,Arapaho,AdjN,Adj N,,Injferencia a partir de ejemplos,arapaho1963,1,,1963
+1,Arapaho,AdjN,Adj N,,Inferencia a partir de ejemplos,arapaho1963,1,,1963
 2,Arapaho,AdjN,Adj N,,,arapaho2008,2,Cowell (2008:324),2008
 3,Arapaho,BasicWO,no basic word order,,Inferencia a partir de ejemplos.,arapaho1963,1,,1963
 4,Arapaho,BasicWO,no basic word order,,El orden parece estar en función a la saliencia pragmática de cada uno de los constituyentes.,arapaho2008,2,Cowell (2008:408),2008
@@ -37,7 +37,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 36,Arapaho,NP_Agr,1,,La lengua no presenta adjetivos.,arapaho2008,1,,2008
 37,Arapaho,NasVowels,0,,,arapaho1963,NA,,1963
 38,Arapaho,NasVowels,0,,,arapaho2008,NA,,2008
-39,Arapaho,NomAlign,hierarchic,,Las relaciones gramaticales se marcan en el nombre,arapaho2008,1,Este alineamiento jerárquico se da únicamente para los nombres transitivos animados. Los Transitivos inanimados solo marcan los argumentos con sufijos de trancisión que no presentan correspondencia con las formas intransitivas.,2008
+39,Arapaho,NomAlign,hierarchic,,Este alineamiento jerárquico se da únicamente para los nombres transitivos animados. Los Transitivos inanimados solo marcan los argumentos con sufijos de trancisión que no presentan correspondencia con las formas intransitivas. Las relaciones gramaticales se marcan en el nombre,arapaho2008,1,,2008
 40,Arapaho,NomAlign,ergative-absolutive,,"La lengua codifica las funciones s¿de S, A y P en el verbo. En ese sentido no sería muy  preciso decir que los nombres presentan un alineamiento de tipo ergativo: lo que ocurre es que las marcas de concordancia en el verbo para S y P son idénticas en oposición a la marca de A solo para el caso de los nombres inanimados. En el caso de los animados se encuentra un alineamiento neutro: todas las formas son idénticas.",arapaho1963,1,Salzmann (1963:92),1963
 41,Arapaho,Poss,0,,,arapaho2008,NA,,2008
 42,Arapaho,Poss,NA,,,arapaho1963,NA,,1963
@@ -87,7 +87,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 86,Bardi,DitransMarking,NA,,,bardi1975,NA,,1975
 87,Bardi,Evid,NA,,No se menciona la categoría de evidencialidad.,bardi1975,NA,,1975
 88,Bardi,Evid,NA,,,bardi2012,NA,,2012
-89,Bardi,GenN,both,,,bardi2012,2,Inferencia a partir de ejemplos.,2012
+89,Bardi,GenN,both,,Inferencia a partir de ejemplos.,bardi2012,2,,2012
 90,Bardi,GenN,NA,,Datos insuficientes,bardi1975,NA,,1975
 91,Bardi,InstrCom,1,,,bardi1975,2,Metcalfe (1975:18),1975
 92,Bardi,InstrCom,1,,,bardi2012,2,Bowern (2012:211/242),2012
@@ -206,18 +206,18 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 205,Carijona,Consonants,14,,"/ d / desaparecida, para otros da reglas fonológicas, no son “distinctive features”",carijona2000,2,Moreno 2000: 172,2000
 206,Carijona,Consonants,20,,18 + 2 glides,carijona1908,1,Koch-Grünberg 1908:90,1908
 207,Carijona,Dem,2,,,carijona1908,2,Koch-Grünberg 1908:972,1908
-208,Carijona,Dem,NA,,,carijona2000,NA,no se comenta,2000
+208,Carijona,Dem,NA,,no se comenta,carijona2000,NA,,2000
 209,Carijona,DitransMarking,1,,postpositions for beneficiary,carijona1908,2,Koch-Grünberg 1908:960,1908
 210,Carijona,DitransMarking,1,,dative (-dza),carijona2000,2,Moreno 2000: 175,2000
-211,Carijona,Evid,0,,,carijona1908,NA,no se habla de evidencialidad,1908
-212,Carijona,Evid,0,,,carijona2000,NA,no se habla de evidencialidad,2000
+211,Carijona,Evid,0,,no se habla de evidencialidad,carijona1908,NA,,1908
+212,Carijona,Evid,0,,no se habla de evidencialidad,carijona2000,NA,,2000
 213,Carijona,GenN,Gen N,,"Sin marca, pero es “Modificador – Head”",carijona1908,2,Koch-Grünberg 1908:955,1908
 214,Carijona,GenN,NA,,ningun comentario,carijona2000,NA,,2000
 215,Carijona,InstrCom,1,,Comitativo: -mateInstrumental: -ke,carijona1908,2,Koch-Grünberg 1908:961,1908
 216,Carijona,InstrCom,1,,,carijona2000,2,Moreno 2000: 175,2000
 217,Carijona,LocDir,1,,,carijona1908,2,Koch-Grünberg 1908:959,1908
 218,Carijona,LocDir,1,,,carijona2000,2,Moreno 2000: 175,2000
-219,Carijona,MorphCaus,0,,,carijona1908,NA,ningun comentario,1908
+219,Carijona,MorphCaus,0,,ningun comentario,carijona1908,NA,,1908
 220,Carijona,MorphCaus,1,,existen dos,carijona2000,2,Moreno 2000: 174,2000
 221,Carijona,NP_Agr,NA,,no Adj-N constructions with plural,carijona1908,NA,,1908
 222,Carijona,NP_Agr,NA,,no adjectives mentioned in text,carijona2000,NA,,2000
@@ -235,14 +235,14 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 234,Carijona,Pron3P,2,,,carijona2000,2,Moreno 2000: 174,2000
 235,Carijona,PronAlign,neuter,,only cross-referencing,carijona1908,2,Koch-Grünberg 1908:976,1908
 236,Carijona,PronAlign,neuter,,same form for both Nom-Acc,carijona2000,2,Moreno 2000: 173,2000
-237,Carijona,Questions,NA,,,carijona1908,NA,no se habla de interrogación,1908
-238,Carijona,Questions,NA,,,carijona2000,NA,no se habla de interrogación,2000
+237,Carijona,Questions,NA,,no se habla de interrogación,carijona1908,NA,,1908
+238,Carijona,Questions,NA,,no se habla de interrogación,carijona2000,NA,,2000
 239,Carijona,TA_marks,6,,"-he, -ta, -ka, -ne, -i, t...-se",carijona1908,2,Koch-Grünberg 1908:973,1908
 240,Carijona,TA_marks,6,,no holistic list but additional cases (those of Koch-Grünberg) in appendix text,carijona2000,2,Moreno 2000: 177,2000
 241,Carijona,TempLoc,NA,,no se menciona locativo temporal,carijona1908,NA,,1908
-242,Carijona,TempLoc,NA,,,carijona2000,NA,no se comenta,2000
-243,Carijona,Tones,0,,,carijona1908,NA,ningun comentario,1908
-244,Carijona,Tones,0,,,carijona2000,NA,ningun comentario,2000
+242,Carijona,TempLoc,NA,,no se comenta,carijona2000,NA,,2000
+243,Carijona,Tones,0,,ningun comentario,carijona1908,NA,,1908
+244,Carijona,Tones,0,,ningun comentario,carijona2000,NA,,2000
 245,Carijona,VP_Agr,1,,,carijona1908,2,Koch-Grünberg 1908:973,1908
 246,Carijona,VP_Agr,1,,,carijona2000,2,Moreno 2000: 173,2000
 247,Carijona,Vowels,7,,Da reglas fonológicas que explican la diferencia and attests phonological stability of Carijona (expect for / d/),carijona2000,2,Moreno 2000: 172,2000
@@ -295,7 +295,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 294,CentralOkinawa,Pron2P,4,,,okinawa2015,2,pp. 387,2015
 295,CentralOkinawa,Pron3P,2,,,okinawa2015,2,pp. 387,2015
 296,CentralOkinawa,Pron3P,12,,,okinawa1963,2,pp. 105,1963
-297,CentralOkinawa,PronAlign,neuter,,,okinawa1963,1,Parece que no marca RG en los pronombres,1963
+297,CentralOkinawa,PronAlign,neuter,,Parece que no marca RG en los pronombres,okinawa1963,1,,1963
 298,CentralOkinawa,PronAlign,neuter,,Parece que no marca RG en los pronombres,okinawa2015,1,,2015
 299,CentralOkinawa,Questions,1,,,okinawa2015,2,pp. 395-396,2015
 300,CentralOkinawa,Questions,NA,,,okinawa1963,NA,,1963
@@ -839,8 +839,8 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 838,Hawaiian,LocDir,1,,,hawaiian1979,2,Elbert 1975:136,1979
 839,Hawaiian,MorphCaus,1,,,hawaiian1854,2,Andrews 1854:122,1854
 840,Hawaiian,MorphCaus,1,,,hawaiian1979,2,Elbert 1975:87,1979
-841,Hawaiian,NP_Agr,0,,,hawaiian1854,1,no mentions of agreement and a generally inflection-light language,1854
-842,Hawaiian,NP_Agr,0,,,hawaiian1979,1,no mentions of agreement and a generally inflection-light language,1979
+841,Hawaiian,NP_Agr,0,,no mentions of agreement and a generally inflection-light language,hawaiian1854,1,,1854
+842,Hawaiian,NP_Agr,0,,no mentions of agreement and a generally inflection-light language,hawaiian1979,1,,1979
 843,Hawaiian,NasVowels,0,,,hawaiian1854,NA,,1854
 844,Hawaiian,NasVowels,0,,,hawaiian1979,NA,,1979
 845,Hawaiian,NomAlign,nominative-accusative,,,hawaiian1854,2,Andrews 1854:58,1854
@@ -1053,8 +1053,8 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 1052,Jaru,VP_Agr,0,,,jaru2015,2,pp. 401,2015
 1053,Jaru,Vowels,4,,,jaru1981,2,pp. 23 y pp. 26,1981
 1054,Jaru,Vowels,4,,,jaru2015,2,pp. 63,2015
-1055,Kalispel,AdjN,Adj N,,,kalispel1940,1,No concluyente.,1940
-1056,Kalispel,AdjN,both,,,kalispel1977,1,Inferencia a partir de ejemplos.,1977
+1055,Kalispel,AdjN,Adj N,,No concluyente.,kalispel1940,1,,1940
+1056,Kalispel,AdjN,both,,Inferencia a partir de ejemplos.,kalispel1977,1,,1977
 1057,Kalispel,BasicWO,VSO,,,kalispel1940,1,Vogt (1940:78),1940
 1058,Kalispel,BasicWO,no basic word order,,,kalispel1977,1,Inferencia a partir de ejemplos,1977
 1059,Kalispel,CA_case,NA,,,kalispel1940,NA,,1940
@@ -1080,15 +1080,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 1079,Kalispel,Evid,NA,,,kalispel1940,NA,,1940
 1080,Kalispel,Evid,NA,,,kalispel1977,NA,,1977
 1081,Kalispel,GenN,Gen N,,,kalispel1940,2,Vogt (1940:78),1940
-1082,Kalispel,GenN,Gen N,,,kalispel1977,1,Inferencia a partir de ejemplos,1977
+1082,Kalispel,GenN,Gen N,,Inferencia a partir de ejemplos,kalispel1977,1,,1977
 1083,Kalispel,InstrCom,1,,,kalispel1940,1,Vogt (1940:50),1940
 1084,Kalispel,InstrCom,1,,,kalispel1977,NA,,1977
 1085,Kalispel,LocDir,1,,,kalispel1940,2,Vogt (1940:66),1940
 1086,Kalispel,LocDir,1,,,kalispel1977,2,Speck (1977:66),1977
 1087,Kalispel,MorphCaus,1,,,kalispel1940,2,Vogt (1940:59),1940
 1088,Kalispel,MorphCaus,NA,,,kalispel1977,NA,,1977
-1089,Kalispel,NP_Agr,0,,,kalispel1940,1,La información no es clara.,1940
-1090,Kalispel,NP_Agr,0,,,kalispel1977,1,No se mencionan aspectos sobre la concordancia nombre-adjetivo.,1977
+1089,Kalispel,NP_Agr,0,,La información no es clara.,kalispel1940,1,,1940
+1090,Kalispel,NP_Agr,0,,No se mencionan aspectos sobre la concordancia nombre-adjetivo.,kalispel1977,1,,1977
 1091,Kalispel,NasVowels,0,,,kalispel1940,NA,,1940
 1092,Kalispel,NasVowels,0,,,kalispel1977,NA,,1977
 1093,Kalispel,NomAlign,nominative-accusative,,Inferencia a partir de paradigmas verbales de marcación de caso. Datos de ninguna manera concluyentes.,kalispel1940,1,Vogt (1940:36),1940
@@ -1184,7 +1184,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 1183,Karok,CA_case,NA,,,karok1957,NA,,1957
 1184,Karok,CA_case,NA,,,karok1997,NA,,1997
 1185,Karok,CA_head,1,,Inferencia a partir de los ejemplos.,karok1957,1,Bright (1957),1957
-1186,Karok,CA_head,1,,,karok1997,NA,Inferencia a partir de los ejemplos.,1997
+1186,Karok,CA_head,1,,Inferencia a partir de los ejemplos.,karok1997,NA,,1997
 1187,Karok,CA_wordorder,1,,,karok1997,NA,,1997
 1188,Karok,CA_wordorder,NA,,,karok1957,NA,,1957
 1189,Karok,Cases,5,,Las traducciones no son tan precisas.,karok1997,1,Halpern (1997:26),1997
@@ -2079,7 +2079,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 2078,Onondaga,LocDir,NA,,,onodaga1970,NA,,1970
 2079,Onondaga,MorphCaus,1,,,onodaga1970,1,Chafe (1970:39-40),1970
 2080,Onondaga,MorphCaus,NA,,,onondaga1888,NA,,1888
-2081,Onondaga,NP_Agr,0,,,onodaga1970,NA,Información insuficiente,1970
+2081,Onondaga,NP_Agr,0,,Información insuficiente,onodaga1970,NA,,1970
 2082,Onondaga,NP_Agr,1,,Concordancia en género y número.,onondaga1888,1,Zeisberger (1888:6),1888
 2083,Onondaga,NasVowels,0,,No es claro que no existan vocales nasales. La descripción no permite aseverarlo totalmente.,onondaga1888,1,Zeisberger (1888:2),1888
 2084,Onondaga,NasVowels,NA,,,onodaga1970,NA,,1970
@@ -2103,7 +2103,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 2102,Onondaga,TempLoc,NA,,,onodaga1970,NA,,1970
 2103,Onondaga,Tones,0,,No es claro que no existan vocales nasales. La descripción no permite aseverarlo totalmente.,onondaga1888,1,Zeisberger (1888:2),1888
 2104,Onondaga,Tones,NA,,,onodaga1970,NA,,1970
-2105,Onondaga,VP_Agr,0,,,onodaga1970,NA,Información insuficiente,1970
+2105,Onondaga,VP_Agr,0,,Información insuficiente,onodaga1970,NA,,1970
 2106,Onondaga,VP_Agr,1,,Concordancia de número,onondaga1888,1,Zeisberger (1888:18),1888
 2107,Onondaga,Vowels,5,,Se consignan solo las cinco vocales del alfabeto latino.,onondaga1888,1,Zeisberger (1888:2),1888
 2108,Onondaga,Vowels,NA,,,onodaga1970,NA,,1970
@@ -2419,7 +2419,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 2418,Seneca,Vowels,8,,,seneca2015,2,Chafe (2015:8),2015
 2419,Siriono,AdjN,N Adj,,,siriono1949,2,Schermair (1949: 43),1949
 2420,Siriono,AdjN,N Adj,,Ejemplos.,siriono2014,2,,2014
-2421,Siriono,BasicWO,SOV,,,siriono1949,1,Revisión de ejemplos.,1949
+2421,Siriono,BasicWO,SOV,,Revisión de ejemplos.,siriono1949,1,,1949
 2422,Siriono,BasicWO,no basic word order,,Se pueden presentar construcciones SOV y OSV.,siriono2014,2,Dahl (2014:116),2014
 2423,Siriono,CA_case,0,,Se marcan con elementos libres.,siriono1949,NA,,1949
 2424,Siriono,CA_case,NA,,,siriono2014,NA,,2014
@@ -3133,7 +3133,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 3132,Yami,LocDir,NA,,no hay evidencia,yami1936,NA,,1936
 3133,Yami,MorphCaus,1,,*-pa,yami1936,2,Asai (1936:76),1936
 3134,Yami,MorphCaus,1,,,yami2006,2,Rau-dong (2006:84),2006
-3135,Yami,NP_Agr,0,,,yami1936,NA,Información insuficiente,1936
+3135,Yami,NP_Agr,0,,Información insuficiente,yami1936,NA,,1936
 3136,Yami,NP_Agr,0,,La lengua no tiene adjetivos. Las frases adjetivales no presentan concordancia con el nombre.,yami2006,2,Rau-dong (2006:125),2006
 3137,Yami,NasVowels,0,,,yami1936,1,Asai (1936:12),1936
 3138,Yami,NasVowels,0,,,yami2006,NA,,2006
@@ -3157,7 +3157,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Reference,Yea
 3156,Yami,TempLoc,NA,,"En todas las meciones al locativo, no se hace referencia al matiz temporal.",yami2006,NA,,2006
 3157,Yami,Tones,0,,,yami1936,NA,,1936
 3158,Yami,Tones,0,,,yami2006,NA,,2006
-3159,Yami,VP_Agr,0,,,yami1936,NA,Información insuficiente,1936
+3159,Yami,VP_Agr,0,,Información insuficiente,yami1936,NA,,1936
 3160,Yami,VP_Agr,1,,,yami2006,2,Rau-dong (2006:94),2006
 3161,Yami,Vowels,4,,,yami2006,2,Rau-dong (2006:79),2006
 3162,Yami,Vowels,7,,,yami1936,2,Asai (1936:12),1936
