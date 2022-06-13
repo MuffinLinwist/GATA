@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "ff13cee",
+            "dc:created": "0c602da",
             "dc:title": "Repository"
         },
         {
@@ -227,8 +227,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": "-90",
-                            "maximum": "90"
+                            "minimum": -90,
+                            "maximum": 90
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -237,8 +237,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": "-180",
-                            "maximum": "180"
+                            "minimum": -180,
+                            "maximum": 180
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
