@@ -7,13 +7,14 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:license": "CC-BY",
+    "dc:source": "sources.bib",
     "dc:title": "Grammars Across Time Analyzed ",
     "dcat:accessURL": "https://github.com/cldf-datasets/gata",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "0c602da",
+            "dc:created": "5e53fc6",
             "dc:title": "Repository"
         },
         {
@@ -26,7 +27,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.9.13"
         },
         {
             "dc:title": "python-packages",
@@ -35,9 +36,6 @@
     ],
     "rdf:ID": "gata",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
@@ -227,8 +225,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -237,8 +235,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -251,7 +249,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
