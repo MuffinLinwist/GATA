@@ -1,20 +1,7 @@
-import io 
-import re 
-import json 
 import pathlib
-import itertools
-import collections
-
-
-
-from csvw import dsv 
 from cldfbench import Dataset as BaseDataset
-from cldfbench import CLDFSpec, Metadata
-from clldutils.misc import data_url
-from pycldf.sources import Source, Reference
+from cldfbench import CLDFSpec
 from pybtex.database import parse_string
-
-
 
 
 class Dataset(BaseDataset):
@@ -26,12 +13,13 @@ class Dataset(BaseDataset):
                 dir=self.cldf_dir, 
                 module='StructureDataset',
                 data_fnames={"ParameterTable": "parameters.csv"}
-                ) 
-
+                )
 
     def cmd_makecldf(self, args):
         sources = parse_string(
             self.raw_dir.joinpath('sources.bib').read_text(encoding='utf8'), 'bibtex')
+        args.writer.cldf.add_sources(sources)
+
         args.log.info("added sources")
         args.writer.cldf.add_columns(
                 "ParameterTable",
@@ -49,7 +37,6 @@ class Dataset(BaseDataset):
             "Certainty",
             "Reference",
             "Year")
-
 
         for row in self.etc_dir.read_csv(
             'parameters.csv',
