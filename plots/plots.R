@@ -1,29 +1,21 @@
-#' Title: Plots GATA
-#' Author: D E Blasi (12.12.2021)
-#' Updated by: Frederic Blum (087.06.2022)
+#' Plots GATA
+#' D E Blasi
 
 #' Load libraries
 require(tidyverse)
 require(ggrepel)
 
-#' Load data
-gata_cldf <- read_csv("../gata_raw.csv")
+#' Load data ("languages" is actually a csv...)
+gata<-read_csv("../raw/gata_raw.csv")
+lgs<-read_csv("../cldf/languages.csv")
+parameters<-read_csv("../cldf/parameters.csv")
 
-# st <- c(1,2)
-# states <- gata_cldf %>% group_by(Language_ID, Year) %>% count()
-# states_new <- tibble(states, state = rep(st, 52)) %>% select(-n)
-# rm(st, states)
-# gata_cldf <- gata_cldf %>% left_join(states_new)
-
-langs <- read_csv("../../etc/languages.csv")
-parameters<-read_csv("../../etc/parameters.csv")
-
-gata <- left_join(gata_cldf, parameters, by=c("Parameter_ID" = "Shortname"))
+gata<-left_join(gata,parameters,by=c("Parameter_ID"="Shortname"))
 
 #' Map
 
 #' Shift coordinates to accommodate a Pacific-centered view
-langs$Longitude<-sapply(langs$Longitude,function(x) ifelse(x<(-25),x + 360,x))
+lgs$Longitude<-sapply(lgs$Longitude,function(x) ifelse(x<(-25),x + 360,x))
 
 #' Produce maps
 world <- map_data('world', interior=F, wrap=c(-25,335), ylim=c(-54,79))
@@ -51,19 +43,22 @@ ggplot()+
   geom_polygon(data=world,
                aes(x=long,y=lat,group=group),
                colour="#F2DDC1",size=0.2, fill="#F2DDC1")+
-  geom_point(data=langs, 
-                  aes(x=Longitude,y=Latitude),
+  geom_point(data=lgs, 
+                  aes(x=Longitude, 
+                      y=Latitude),
                   color="black",
                   size=1,
                   alpha=0.8)+
-  geom_text_repel(data=langs, 
-             aes(x=Longitude, y=Latitude,
+  geom_text_repel(data=lgs, 
+             aes(x=Longitude, 
+                 y=Latitude,
                  label=Name),
              color="black",
              size=4,
+             max.overlaps=99,
              alpha=0.8)
 
-ggsave("plot_gata_map.png",width = 9, height=4)
+ggsave("plot_gata_map.png",width=9,height=4)
 
 #' Time interval density
 plyr::ddply(gata,"Language_ID",function(x) abs(diff(unique(x$Year)))) %>%
@@ -86,7 +81,7 @@ plyr::ddply(gata,"Language_ID",function(x) abs(diff(unique(x$Year)))) %>%
 ggsave("plot_gata_intervals.png",width = 6,height=2.5)
 
 #' Data coverage
-gata %>% plyr::ddply("Category",function(x) data.frame(Value=c(1-sum(is.na(x$Value)/nrow(x)), sum(is.na(x$Value))/nrow(x)),
+gata %>% plyr::ddply("Category",function(x) data.frame(Value=c(1-sum(is.na(x$Value)/nrow(x)),sum(is.na(x$Value))/nrow(x)),
                                                        Type=c("Attested","Not attested"))) %>%
   ggplot(aes(x="",y=Value,fill=Type))+
     geom_col()+
@@ -104,7 +99,6 @@ gata %>% plyr::ddply("Category",function(x) data.frame(Value=c(1-sum(is.na(x$Val
   labs(x="",y="")
 
 ggsave("plot_gata_coverage.png",width = 6)
-
 
 #' Show change
 gata_change<-gata %>% 
@@ -130,4 +124,4 @@ gata_change %>%
   labs(x="Years between grammars",
        y="Change")
 
-ggsave("plot_gata_change.png",width = 9,height=6)
+ggsave("plot_gata_change.png",width=9,height=6)
