@@ -58,7 +58,7 @@ ggplot()+
              max.overlaps=99,
              alpha=0.8)
 
-ggsave("plot_gata_map.png",width=9,height=4)
+ggsave("plot_gata_map.png",width=10,height=7)
 
 #' Time interval density
 plyr::ddply(gata,"Language_ID",function(x) abs(diff(unique(x$Year)))) %>%
@@ -98,7 +98,7 @@ gata %>% plyr::ddply("Category",function(x) data.frame(Value=c(1-sum(is.na(x$Val
   scale_fill_manual(values=c("#09015F","#AF0069"))+
   labs(x="",y="")
 
-ggsave("plot_gata_coverage.png",width = 6)
+ggsave("plot_gata_coverage.png",width=9,height=6)
 
 #' Show change
 gata_change<-gata %>% 
