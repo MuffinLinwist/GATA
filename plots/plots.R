@@ -47,14 +47,14 @@ ggplot()+
                   aes(x=Longitude, 
                       y=Latitude),
                   color="black",
-                  size=1,
+                  size=2,
                   alpha=0.8)+
   geom_text_repel(data=lgs, 
              aes(x=Longitude, 
                  y=Latitude,
                  label=Name),
              color="black",
-             size=4,
+             size=5,
              max.overlaps=99,
              alpha=0.8)
 
