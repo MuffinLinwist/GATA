@@ -54,11 +54,11 @@ ggplot()+
                  y=Latitude,
                  label=Name),
              color="black",
-             size=5,
+             size=8,
              max.overlaps=99,
              alpha=0.8)
 
-ggsave("plot_gata_map.png",width=10,height=7)
+ggsave("plot_gata_map.png")
 
 #' Time interval density
 plyr::ddply(gata,"Language_ID",function(x) abs(diff(unique(x$Year)))) %>%
