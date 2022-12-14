@@ -20,7 +20,7 @@ lgs$Longitude<-sapply(lgs$Longitude,function(x) ifelse(x<(-25),x + 360,x))
 #' Produce maps
 world <- map_data('world', interior=F, wrap=c(-25,335), ylim=c(-54,79))
 
-ggplot()+
+gata_map <- ggplot()+
   theme_bw()+ 
   scale_y_continuous(expand = c(0,0),limits = c(-57,78)) + 
   scale_x_continuous(expand = c(0,0)) + 
@@ -47,18 +47,19 @@ ggplot()+
                   aes(x=Longitude, 
                       y=Latitude),
                   color="black",
-                  size=2,
+                  size=2.5,
                   alpha=0.8)+
   geom_text_repel(data=lgs, 
              aes(x=Longitude, 
                  y=Latitude,
                  label=Name),
              color="black",
-             size=8,
+             size=5,
+             box.padding=0.5,
              max.overlaps=99,
              alpha=0.8)
-
-ggsave("plot_gata_map.png")
+gata_map
+ggsave("plot_gata_map.png", gata_map)
 
 #' Time interval density
 plyr::ddply(gata,"Language_ID",function(x) abs(diff(unique(x$Year)))) %>%
