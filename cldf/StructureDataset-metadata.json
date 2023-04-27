@@ -6,7 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:license": "CC-BY",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Grammars Across Time Analyzed ",
     "dcat:accessURL": "https://github.com/cldf-datasets/gata",
@@ -14,20 +14,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "5e53fc6",
+            "dc:created": "v0.1-4-gcf4262c",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6-3-gb0ce72b220",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.13"
+            "dc:description": "3.11.3"
         },
         {
             "dc:title": "python-packages",
@@ -164,6 +164,12 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
                     },
                     {
                         "datatype": "string",
