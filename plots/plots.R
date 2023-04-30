@@ -5,6 +5,10 @@
 require(tidyverse)
 require(ggrepel)
 
+# Map needs ggplot-version previous to 3.4
+# install.packages("https://cran.r-project.org/src/contrib/Archive/ggplot2/ggplot2_3.3.6.tar.gz", type="source")
+
+
 #' Load data ("languages" is actually a csv...)
 gata<-read_csv("../raw/gata_raw.csv")
 lgs<-read_csv("../cldf/languages.csv")
@@ -47,19 +51,19 @@ gata_map <- ggplot()+
                   aes(x=Longitude, 
                       y=Latitude),
                   color="black",
-                  size=2.5,
+                  size=2,
                   alpha=0.8)+
   geom_text_repel(data=lgs, 
              aes(x=Longitude, 
                  y=Latitude,
                  label=Name),
              color="black",
-             size=5,
+             size=3.5,
              box.padding=0.5,
              max.overlaps=99,
              alpha=0.8)
 gata_map
-ggsave("plot_gata_map.png", gata_map)
+ggsave("plot_gata_map.pdf", gata_map)
 
 #' Time interval density
 plyr::ddply(gata,"Language_ID",function(x) abs(diff(unique(x$Year)))) %>%
@@ -79,7 +83,7 @@ plyr::ddply(gata,"Language_ID",function(x) abs(diff(unique(x$Year)))) %>%
   scale_x_continuous(expand = c(0,0))+
   scale_y_continuous(expand=c(0,0))
 
-ggsave("plot_gata_intervals.png",width = 6,height=2.5)
+ggsave("plot_gata_intervals.pdf",width = 6,height=2.5)
 
 #' Data coverage
 gata %>% plyr::ddply("Category",function(x) data.frame(Value=c(1-sum(is.na(x$Value)/nrow(x)),sum(is.na(x$Value))/nrow(x)),
@@ -99,7 +103,7 @@ gata %>% plyr::ddply("Category",function(x) data.frame(Value=c(1-sum(is.na(x$Val
   scale_fill_manual(values=c("#09015F","#AF0069"))+
   labs(x="",y="")
 
-ggsave("plot_gata_coverage.png",width=9,height=6)
+ggsave("plot_gata_coverage.pdf",width=9,height=6)
 
 #' Show change
 gata_change<-gata %>% 
@@ -125,4 +129,4 @@ gata_change %>%
   labs(x="Years between grammars",
        y="Change")
 
-ggsave("plot_gata_change.png",width=9,height=6)
+ggsave("plot_gata_change.pdf",width=9,height=6)

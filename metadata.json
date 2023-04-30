@@ -1,8 +1,6 @@
 {
     "id": "gata",
-    "title": "Grammars Across Time Analyzed ",
-    "description": null,
+    "title": "Grammars Across Time Analyzed (GATA)",
     "license": "CC-BY-4.0",
-    "url": null,
-    "citation": null
+    "citation": "Blum, Frederic, Carlos Barrientos, Adriano Ingunza, Damian E. Blasi and Roberto Zariquiey (2023): Grammars Across Time Analyzed (GATA): a balanced and diverse dataset of 52 languages."
 }
