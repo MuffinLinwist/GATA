@@ -10,7 +10,7 @@ class Dataset(BaseDataset):
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(
-                dir=self.cldf_dir, 
+                dir=self.cldf_dir,
                 module='StructureDataset',
                 data_fnames={"ParameterTable": "parameters.csv"}
                 )
@@ -26,7 +26,7 @@ class Dataset(BaseDataset):
                 "Category",
                 "Shortname",
                 "Variable_type",
-                "Category_esp",  
+                "Category_esp",
                 "Description_esp",
                 "Comments")
         args.writer.cldf.add_component(
@@ -44,14 +44,14 @@ class Dataset(BaseDataset):
             ):
             args.writer.objects['ParameterTable'].append(row)
         args.log.info("added parameters")
-        
+
         for row in self.etc_dir.read_csv(
             'languages.csv',
             dicts=True,
             ):
             args.writer.objects['LanguageTable'].append(row)
         args.log.info("added languages")
-        
+
         for row in self.raw_dir.read_csv(
             'gata_raw.csv',
             dicts=True,
