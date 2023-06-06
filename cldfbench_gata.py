@@ -35,7 +35,6 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_columns(
             "ValueTable",
             "Certainty",
-            "Reference",
             "Year")
 
         for row in self.etc_dir.read_csv(

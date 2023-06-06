@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1.2-9-gb43c613",
+            "dc:created": "v0.1.2-12-g3f95692",
             "dc:title": "Repository"
         },
         {
@@ -100,10 +100,6 @@
                     {
                         "datatype": "string",
                         "name": "Certainty"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Reference"
                     },
                     {
                         "datatype": "string",
