@@ -64,6 +64,7 @@ gata_map <- ggplot()+
              alpha=0.8)
 gata_map
 ggsave("plot_gata_map.pdf", gata_map)
+ggsave("plot_gata_map.png", gata_map)
 
 #' Time interval density
 plyr::ddply(gata,"Language_ID",function(x) abs(diff(unique(x$Year)))) %>%
