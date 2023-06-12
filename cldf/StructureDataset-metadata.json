@@ -28,7 +28,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.11.3"
+            "dc:description": "3.8.8"
         },
         {
             "dc:title": "python-packages",
@@ -37,6 +37,9 @@
     ],
     "rdf:ID": "gata",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "dialect": {
+        "commentPrefix": null
+    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
@@ -163,12 +166,6 @@
                         "name": "Description"
                     },
                     {
-                        "datatype": "json",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
-                        "required": false,
-                        "name": "ColumnSpec"
-                    },
-                    {
                         "datatype": "string",
                         "name": "Category"
                     },
@@ -228,8 +225,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": "-90",
-                            "maximum": "90"
+                            "minimum": -90,
+                            "maximum": 90
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -238,8 +235,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": "-180",
-                            "maximum": "180"
+                            "minimum": -180,
+                            "maximum": 180
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -252,7 +249,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
                         "name": "Glottocode"
                     },
                     {
