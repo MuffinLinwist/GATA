@@ -24,5 +24,6 @@
 		"language obsolescence"
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the dataset as:</p>\n\n<blockquote>\n<p>Frederic Blum, Carlos Barrientos, Adriano Ingunza, Damian E. Blasi & Roberto Zariquiey. (2023). CLDF dataset for `Grammars Analyzed Across Time` (GATA) (v0.2).</p>\n</blockquote>"
+	"license": {"id": "CC-BY-4.0"},
+    "description": "<p>Cite the dataset as:</p>\n\n<blockquote>\n<p>Frederic Blum, Carlos Barrientos, Adriano Ingunza, Damian E. Blasi & Roberto Zariquiey. (2023). CLDF dataset for `Grammars Analyzed Across Time` (GATA).</p>\n</blockquote>"
 }
