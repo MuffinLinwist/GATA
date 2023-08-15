@@ -18,4 +18,4 @@ This dataset is licensed under a CC-BY license
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
+- CLDF [StructureDataset](https://github.com/cldf/cldf/tree/master/modules/StructureDataset) at [cldf/StructureDataset-metadata.json](cldf/StructureDataset-metadata.json)
