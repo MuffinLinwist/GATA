@@ -2,4 +2,4 @@ Grammars Across Time Analyzed (GATA) is a resource that contributes to the under
 
 We selected 31 grammatical features divided into six typological domains: grammatical relations, nominal categories, phonology, pronominal system, verbal categories and word order.
 
-This is a first version of GATA which includes 52 languages, mostly currently obsolescing, coded in two time periods. GATA will continue growing in the next years.
+This is a first version of GATA includes 52 languages, mostly currently obsolescing, coded in two time periods. GATA will continue growing in the next years.

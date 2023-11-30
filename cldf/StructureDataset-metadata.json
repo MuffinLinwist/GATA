@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Blum, Frederic, Carlos Barrientos, Adriano Ingunza, Damian E. Blasi and Roberto Zariquiey (2023): Grammars Across Time Analyzed (GATA): a balanced and diverse dataset of 52 languages.",
+    "dc:bibliographicCitation": "Blum, Frederic, Carlos Barrientos, Adriano Ingunza, Damian E. Blasi and Roberto Zariquiey (2023): Grammars Across Time Analyzed (GATA): a dataset of 52 languages. Scientific Data 10, 835 (2023). https://doi.org/10.1038/s41597-023-02659-1",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1.2-23-gc1255a6",
+            "dc:created": "v1.0.0",
             "dc:title": "Repository"
         },
         {
@@ -28,7 +28,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.11.4"
+            "dc:description": "3.11.6"
         },
         {
             "dc:title": "python-packages",
