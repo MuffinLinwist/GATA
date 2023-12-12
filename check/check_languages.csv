@@ -1,0 +1,54 @@
+ID,Name,Family,Glottocode,Explicitely mentioned,Time lapse,Note
+Arapaho,Arapaho,Algic,arap1274,yes,,
+Bardi,Bardi,Nyulnyulan,bard1255,yes,37,The date we have for the first source is false: must be 1975
+Baure,Baure,Arawakan,baur1253,yes,,
+Carijona,Carijona,Cariban,cari1279,yes,,
+CentralOkinawa,Central Okinawa,Japonic,cent2126,Glottolog,,"No explicit mention of name confusion. Undoubtedly, both of the sources are referring to the same language (language of the former Okinawan kingdom)."
+Chontal,Chontal,Tequistlatecan,lowl1260,yes,,
+Comanche,Comanche,Uto-Aztecan,coma1245,Glottolog,,No explicit mention of name confusion. Both sources seem to refer to the same language.
+Creek,Creek,Muskogean,cree1270,yes,,
+Domari,Domari,Indo-Iranian,doma1258,yes,,
+Even,Even,Tungusic,even1260,Glottolog,,No explicit mention of name confusion. Both sources seem to refer to the same language.
+ForestEnets,Forest Enets,Uralic,fore1265,yes,,
+Garrwa,Garrwa,Garrwan,gara1269,yes,,Triple ‘rrr’ for the name in the table
+GuuguYimidhirr,Guugu Yimidhirr,Pama-Nyungan,gugu1255,yes,,
+Hawaiian,Hawaiian,Austronesian,hawa1245,yes,,
+HokkaidoAinu,Hokkaido Ainu,Ainu,ainu1240,yes,,
+Isinai,Isinai,Austronesian,isin1239,yes,,
+Jaru,Jaru,Pama-Nyungan,jaru1254,yes,,"It is undoubtedly the same language. But the language in fact is Wanyjirra, misnamed Djaru on the earliest source (but then corrected on works after 1996 by the same author). Both sources are referring to the same language, according to the latest source. "
+Kalispel,Kalispel,Salishan,kali1308,yes,,
+Kanakanavu,Kanakanavu,Austronesian,kana1286,yes,,The latest source reference to the earliest source (just an edition a year later)
+Karok,Karok,Isolated,karo1304,,,
+Kokama,Kokama,Tupian,coca1259,yes,,
+KomiZyrian,Komi-Zyrian,Uralic,komi1268,Glottolog,,"There is an explicit note on the name confusion on the latest source. In this case, it seems that we are correct and both grammars are referring to the same language."
+Korana,Korana,Khow-Kwadi,kora1292,yes,,
+Lepcha,Lepcha,Sino-Tibetan,lepc1244,yes,,
+Lokono,Lokono,Arawakan,araw1276,yes,,
+Ngalkbun,Ngalkbun,Gunwinyguan,ngal1292,yes,,"Our reference for the earliest source (only on the paper, the bibtex on the dataset is alright) is false. We got the title and the journal wrong, but all the rest is correct."
+Nganasan,Nganasan,Uralic,ngan1291,yes,,Reference of the earliest source with wrong year on the paper
+Ngarinyin,Ngarinyin,Worrorran,ngar1284,yes,,
+Nimboran,Nimboran,Nimboranic,nucl1633,yes,,
+NIIng,N||ng,Tuu,nngg1234,yes,,
+NorthwestSahaptin,Northwest Sahaptin,Sahaptian,yaki1237,yes,,
+Nyangi,Nyang'i,Kuliak,nyan1313,yes,,Year of the first source missing on the table and on the reference is false (must be 2017). In the dataset is correct.
+Ofaye,Ofaye,Nuclear-Macro-Je,ofay1240,Glottolog,,It is undoubtedly the same language. The latest source makes reference to a source written three years later than the earliest by the same author on the same language.
+Onondaga,Onondaga,Iroquian,onon1246,yes,,
+PacificGulfYupik,Pacific Gulf Yupik,Eskimo-Aleut,paci1278,Glottolog,,This is not listed as part of the language sample. It’s missing on the paper but present in all the dataset. Nothing about name confusions.
+Pawnee,Pawnee,Caddoan,pawn1254,yes,,
+Rembarrnga,Rembarrnga,Gunwinyguan,remb1249,yes,,"Also, same author."
+Saaroa,Saaroa,Austronesian,saar1237,yes,,
+Seneca,Seneca,Iroquian,sene1264,yes,,
+Siriono,Sirionó,Tupian,siri1273,yes,,
+Soo,Soo,Kuliak,sooo1256,Glottolog,,The latest source cites another source by the same author from the earliest source but written a year after. Missing on the table in the paper but present in all the dataset.
+SouthWa,South Wa,Austroasiatic,para1301,yes,,
+SouthernCoastalTsimshian,Southern Coastal Tsimshian,Tsimshian,nucl1649,Glottolog,,
+SouthernYukaghir,Southern Yukaghir,Yukaghir,sout2750,yes,,
+Tarifiyt,Tarifiyt,Afro-Asiatic,tari1263,yes,,The latest source cites another edition of the same reference.
+ThadoChin,Thado Chin,Sino-Tibetan,thad1238,yes,,
+Tlingit,Tlingit,Athabaskan-Eyak-Tlingit,tlin1245,yes,,
+Uighur,Uighur,Turkic,uigh1240,yes,,
+Unserdeutsch,Unserdeutsch,Indo-European,unse1236,yes,,
+Washo,Washo,Isolated,wash1253,yes,,
+Yami,Yami,Austronesian,yami1254,yes,,
+YuwaalaraayGamilaraay,Yuwaalaraay Gamilaraay,Pama-Nyungan,gami1243,yes,,
+Hidatsa,Hidatsa,Siouan,hida1246,yes,,
