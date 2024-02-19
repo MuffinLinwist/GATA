@@ -61,67 +61,67 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 60,Arapaho,VP_Agr,1,,,arapaho2008[59],2,2008
 61,Arapaho,Vowels,4,,,arapaho1963[12],2,1963
 62,Arapaho,Vowels,4,,Short and long realizations – Hay realizaciones breves y largas.,arapaho2008[14],2,2008
-63,Bardi,AdjN,Adj N,,"Not conclusive, based on examples",bardi1975[117],1,1975
+63,Bardi,AdjN,Adj N,,"Not conclusive, based on examples",bardi1972[117],1,1975
 64,Bardi,AdjN,both,,Sometimes N ADJ is judged ungrammatical,bardi2012[335],2,2012
-65,Bardi,BasicWO,VSO,,,bardi1975,2,1975
+65,Bardi,BasicWO,VSO,,,bardi1972,2,1972
 66,Bardi,BasicWO,no basic word order,,,bardi2012[165],2,2012
-67,Bardi,CA_case,1,,,bardi1975[82],2,1975
+67,Bardi,CA_case,1,,,bardi1972[82],2,1975
 68,Bardi,CA_case,1,,,bardi2012[195-196],2,2012
 69,Bardi,CA_head,0,,,bardi2012[195-196],2,2012
-70,Bardi,CA_head,NA,,,bardi1975,NA,1975
+70,Bardi,CA_head,NA,,,bardi1972,NA,1972
 71,Bardi,CA_wordorder,0,,,bardi2012[195-196],2,2012
-72,Bardi,CA_wordorder,1,,,bardi1975,NA,1975
-73,Bardi,Cases,4,,,bardi1975[72],1,1975
+72,Bardi,CA_wordorder,1,,,bardi1972,NA,1972
+73,Bardi,Cases,4,,,bardi1972[72],1,1975
 74,Bardi,Cases,14,,,bardi2012[195-230],2,2012
-75,Bardi,ClassGen,0,,,bardi1975,NA,1975
+75,Bardi,ClassGen,0,,,bardi1972,NA,1972
 76,Bardi,ClassGen,0,,,bardi2012,NA,2012
-77,Bardi,ClassNoun,1,,,bardi1975[123],2,1975
+77,Bardi,ClassNoun,1,,,bardi1972[123],2,1975
 78,Bardi,ClassNoun,1,,,bardi2012[754],2,2012
-79,Bardi,ClassNum,1,,,bardi1975[186],2,1975
+79,Bardi,ClassNum,1,,,bardi1972[186],2,1975
 80,Bardi,ClassNum,1,,,bardi2012,NA,2012
-81,Bardi,Consonants,17,,,bardi1975[17],2,1975
+81,Bardi,Consonants,17,,,bardi1972[17],2,1975
 82,Bardi,Consonants,17,,,bardi2012[71],2,2012
 83,Bardi,Dem,13,,,bardi2012[195-322],2,2012
-84,Bardi,Dem,NA,,,bardi1975,NA,1975
+84,Bardi,Dem,NA,,,bardi1972,NA,1972
 85,Bardi,DitransMarking,0,,No ditransitive verbs – No hay verbos propiamente ditransitivos. Los verbos como 'dar' y 'mostrar' solo marcan un argumento.,bardi2012[211/370],2,2012
-86,Bardi,DitransMarking,NA,,,bardi1975,NA,1975
-87,Bardi,Evid,NA,,not discussed,bardi1975,NA,1975
+86,Bardi,DitransMarking,NA,,,bardi1972,NA,1972
+87,Bardi,Evid,NA,,not discussed,bardi1972,NA,1972
 88,Bardi,Evid,NA,,,bardi2012,NA,2012
 89,Bardi,GenN,both,,Inference based on examples – Inferencia a partir de ejemplos,bardi2012,2,2012
-90,Bardi,GenN,NA,,Unconclusive data,bardi1975,NA,1975
-91,Bardi,InstrCom,1,,,bardi1975[18],2,1975
+90,Bardi,GenN,NA,,Unconclusive data,bardi1972,NA,1972
+91,Bardi,InstrCom,1,,,bardi1972[18],2,1975
 92,Bardi,InstrCom,1,,,bardi2012[211/242],2,2012
-93,Bardi,LocDir,1,,,bardi1975[189],2,1975
+93,Bardi,LocDir,1,,,bardi1972[189],2,1975
 94,Bardi,LocDir,1,,,bardi2012[211/237],2,2012
-95,Bardi,MorphCaus,1,,,bardi1975[70],2,1975
+95,Bardi,MorphCaus,1,,,bardi1972[70],2,1975
 96,Bardi,MorphCaus,1,,,bardi2012[204],2,2012
-97,Bardi,NP_Agr,0,,Unconclusive data,bardi1975,1,1975
+97,Bardi,NP_Agr,0,,Unconclusive data,bardi1972,1,1972
 98,Bardi,NP_Agr,0,,,bardi2012[158],2,2012
-99,Bardi,NasVowels,0,,,bardi1975,NA,1975
+99,Bardi,NasVowels,0,,,bardi1972,NA,1972
 100,Bardi,NasVowels,0,,,bardi2012,NA,2012
-101,Bardi,NomAlign,ergative-absolutive,,,bardi1975[82],2,1975
+101,Bardi,NomAlign,ergative-absolutive,,,bardi1972[82],2,1975
 102,Bardi,NomAlign,ergative-absolutive,,Ergative -nim - Absolutive not marked.,bardi2012[195-196],2,2012
 103,Bardi,Poss,1,,,bardi2012[153],2,2012
-104,Bardi,Poss,NA,,,bardi1975,NA,1975
-105,Bardi,Pron1P,7,,Free and bound forms – Formas libres y ligadas,bardi1975[72/123],1,1975
+104,Bardi,Poss,NA,,,bardi1972,NA,1972
+105,Bardi,Pron1P,7,,Free and bound forms – Formas libres y ligadas,bardi1972[72/123],1,1975
 106,Bardi,Pron1P,7,,Free and bound forms; the latter have number distinctions – Se incluyen las formas libres y ligadas. Para las últimas se considera la diferencia entre aumentativo (tipo de plural) y mínimo.,bardi2012[396],2,2012
-107,Bardi,Pron2P,4,,free and bound forms – Formas libres  y ligadas,bardi1975[72],1,1975
+107,Bardi,Pron2P,4,,free and bound forms – Formas libres  y ligadas,bardi1972[72],1,1975
 108,Bardi,Pron2P,7,,,bardi2012[396],2,2012
-109,Bardi,Pron3P,4,,free and bound forms – Formas libres  y ligadas,bardi1975[72],1,1975
+109,Bardi,Pron3P,4,,free and bound forms – Formas libres  y ligadas,bardi1972[72],1,1975
 110,Bardi,Pron3P,6,,,bardi2012[396],2,2012
-111,Bardi,PronAlign,ergative-absolutive,,Author stats that pronouns are not marked. The examples clearly show ergative markers on them,bardi1975[82],2,1975
+111,Bardi,PronAlign,ergative-absolutive,,Author stats that pronouns are not marked. The examples clearly show ergative markers on them,bardi1972[82],2,1975
 112,Bardi,PronAlign,ergative-absolutive,,Ergative -nim – Absolutive not marked.,bardi2012[195-196],2,2012
-113,Bardi,Questions,1,,,bardi1975[184],2,1975
+113,Bardi,Questions,1,,,bardi1972[184],2,1975
 114,Bardi,Questions,1,,,bardi2012[617],NA,2012
-115,Bardi,TA_marks,6,,Only suffixes listed in affix-list are considered - not all are discussed in the grammar – Se consideran los sufijos listados en el afijario. No necesariamente todos presentan un tratamiento en la gramática.,bardi1975[82],2,1975
+115,Bardi,TA_marks,6,,Only suffixes listed in affix-list are considered - not all are discussed in the grammar – Se consideran los sufijos listados en el afijario. No necesariamente todos presentan un tratamiento en la gramática.,bardi1972[82],2,1975
 116,Bardi,TA_marks,6,,,bardi2012[195-436],2,2012
-117,Bardi,TempLoc,NA,,,bardi1975,NA,1975
+117,Bardi,TempLoc,NA,,,bardi1972,NA,1972
 118,Bardi,TempLoc,NA,,,bardi2012,NA,2012
-119,Bardi,Tones,0,,,bardi1975,NA,1975
+119,Bardi,Tones,0,,,bardi1972,NA,1972
 120,Bardi,Tones,0,,,bardi2012,NA,2012
-121,Bardi,VP_Agr,0,,Inference based on examples – Inferencia a partir de ejemplos.,bardi1975,1,1975
+121,Bardi,VP_Agr,0,,Inference based on examples – Inferencia a partir de ejemplos.,bardi1972,1,1972
 122,Bardi,VP_Agr,1,,,bardi2012[370],2,2012
-123,Bardi,Vowels,7,,Long vowels are included – Se incluyen las vocales largas.,bardi1975[17],2,1975
+123,Bardi,Vowels,7,,Long vowels are included – Se incluyen las vocales largas.,bardi1972[17],2,1975
 124,Bardi,Vowels,7,,,bardi2012[71],2,2012
 125,Baure,AdjN,both,,,baure2007[104],2,2007
 126,Baure,AdjN,NA,,,baure1880,NA,1880
@@ -1041,7 +1041,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 1040,Jaru,Pron3P,3,,,jaru2015[214],2,2015
 1041,Jaru,PronAlign,ergative-absolutive,,Free pronouns have erg-abs - pronominal have nom-acc – Las pronombres libres son erg-abs; las marcas pronominales son nom-acc,jaru1981[91],1,1981
 1042,Jaru,PronAlign,neuter,,,jaru2015[214],1,2015
-1043,Jaru,Questions,0,, pp. 67, pp. 75[63],2,via lexicon
+1043,Jaru,Questions,0,,via lexicon,jaru1981[63-75],2,1981
 1044,Jaru,Questions,0,,via lexicon,jaru2015,2,2015
 1045,Jaru,TA_marks,NA,,,jaru1981,NA,1981
 1046,Jaru,TA_marks,NA,,,jaru2015,NA,2015
@@ -1188,17 +1188,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 1187,Karok,CA_wordorder,1,,,karok1997,NA,1997
 1188,Karok,CA_wordorder,NA,,,karok1957,NA,1957
 1189,Karok,Cases,5,,Imprecise translations,karok1997[26],1,1997
-1190,Karok,Cases,6,,,karok1957[ 150-53],1,1957
-1191,Karok,ClassGen,1,,,karok1957[ 45],1,1957
+1190,Karok,Cases,6,,,Karok1957[150-53],1,1957
+1191,Karok,ClassGen,1,,,Karok1957[45],1,1957
 1192,Karok,ClassGen,1,,,karok1997[25],1,1997
 1193,Karok,ClassNoun,0,,,karok1997[34],1,1997
-1194,Karok,ClassNoun,1,,,karok1957[ 70],1,1957
-1195,Karok,ClassNum,1,,Singular - plural and dual,karok1957[ 150],2,1957
+1194,Karok,ClassNoun,1,,,Karok1957[70],1,1957
+1195,Karok,ClassNum,1,,Singular - plural and dual,Karok1957[150],2,1957
 1196,Karok,ClassNum,1,,Dual forms seems to be lost – Parece haberse perdido la forma dual.,karok1997[25],1,1997
 1197,Karok,Consonants,16,,,karok1957[7],2,1957
 1198,Karok,Consonants,24,,,karok1997[24],2,1997
 1199,Karok,Dem,3,,"""Their use ins not fully understood""",karok1997[25],2,1997
-1200,Karok,Dem,30,,,karok1957[ 95],1,1957
+1200,Karok,Dem,30,,,Karok1957[95],1,1957
 1201,Karok,DitransMarking,NA,,,karok1957,NA,1957
 1202,Karok,DitransMarking,NA,,,karok1997,NA,1997
 1203,Karok,Evid,0,,,karok1957,NA,1957
@@ -1366,7 +1366,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 1365,Korana,AdjN,Adj N,,implicit from examples,korana1879[16],2,1879
 1366,Korana,AdjN,Adj N,,postnominal Adj are possible but seem to be predicative (or reverse dependency),korana1930[41],2,1930
 1367,Korana,BasicWO,SOV,,,korana1879[37],2,1879
-1368,Korana,BasicWO,NA,,no coherent evidence - once VS is mentioned - at other place VOS,korana1930[44 (VOSMeinhof ],NA,1930
+1368,Korana,BasicWO,NA,,no coherent evidence - once VS is mentioned - at other place VOS (Meinhof),korana1930[44],NA,1930
 1369,Korana,CA_case,1,,subject affixes on N and V,korana1879[18],2,1879
 1370,Korana,CA_case,1,,attaching to N and V,korana1930[44],2,1930
 1371,Korana,CA_head,1,,subject affix,korana1879[18],2,1879
@@ -1755,7 +1755,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 1754,Ngarinyin,ClassNum,1,,,ngarinyin2015[40],2,2015
 1755,Ngarinyin,Consonants,17,,,ngarinyin1970[4],2,1970
 1756,Ngarinyin,Consonants,18,,No phonological inventory given - number is inferred from grape -es – La gramática no presenta un inventario fonológico. El número consignado aquí responde a una inferencia a partir de la presentación del alfabeto de la lengua.,ngarinyin2015[428],1,2015
-1757,Ngarinyin,Dem,7,,43),[32],1,ngarinyin1970
+1757,Ngarinyin,Dem,7,,,Ngarinyin1970[32-43],1,1970
 1758,Ngarinyin,Dem,15,,Five demonstratives for each of the three categories “near - distant - far away” – Cinco demostrativos por cada una de las tres categorías: próximo - distante - remoto.,ngarinyin2015[20],2,2015
 1759,Ngarinyin,DitransMarking,0,,Inference based on examples – Inferencia a partir de ejemplos,ngarinyin1970[71],1,1970
 1760,Ngarinyin,DitransMarking,NA,,,ngarinyin2015,NA,2015
@@ -2160,7 +2160,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 2159,PacificGulfYupik,Questions,morphology,,kâ,yupik1901[199],2,1901
 2160,PacificGulfYupik,Questions,morphology,,enclitic -qaa,yupik1990[17],2,1990
 2161,PacificGulfYupik,TA_marks,3,,pres - past+fut+habitual,yupik1901[18],2,1901
-2162,PacificGulfYupik,TA_marks,3,,73,past + habitual + future (p. 83)[71],2,yupik1990
+2162,PacificGulfYupik,TA_marks,3,,past + habitual + future,yupik1990[71-83],2,1990
 2163,PacificGulfYupik,TempLoc,0,,“Time when is always expressed by the localis.”,yupik1901[14],2,1901
 2164,PacificGulfYupik,TempLoc,0,,“refer to space or time”,yupik1990[61],2,1990
 2165,PacificGulfYupik,Tones,0,,,yupik1901,NA,1901
@@ -2242,10 +2242,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 2241,Rembarrnga,CA_wordorder,0,,Pragmatics decides on constituent order –La pragmática motiva el orden de constituyentes,rembarrnga2000[155],2,2000
 2242,Rembarrnga,CA_wordorder,1,,,rembarrnga1975[256],2,1975
 2243,Rembarrnga,Cases,2,,,rembarrnga2000[191],2,2000
-2244,Rembarrnga,Cases,15,, pp. 80, pp. 86 y pp. 88-89[78],2,
+2244,Rembarrnga,Cases,15,,,rembarrnga1975[78-89],2,1975
 2245,Rembarrnga,ClassGen,0,,,rembarrnga1975,NA,1975
 2246,Rembarrnga,ClassGen,0,,,rembarrnga2000,NA,2000
-2247,Rembarrnga,ClassNoun,1,, pp. 77,[73-74],2,rembarrnga1975
+2247,Rembarrnga,ClassNoun,1,,,Rembarrnga1975[73-77],2,1975
 2248,Rembarrnga,ClassNoun,1,,,rembarrnga2000[192],2,2000
 2249,Rembarrnga,ClassNum,0,,,rembarrnga1975,NA,1975
 2250,Rembarrnga,ClassNum,0,,,rembarrnga2000,NA,2000
@@ -2501,7 +2501,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 2500,Soo,Consonants,23,,a lot of stops; low frequency - but minimal pairs can be established,soo2009[3],2,2009
 2501,Soo,Dem,3,,3 spatial - one of reference: nin - nan - nansn,soo1971[272],2,1971
 2502,Soo,Dem,NA,,not discussed,soo2009,NA,2009
-2503,Soo,DitransMarking,1,,278,Indirect Object marked with prefix kun-[269],2,soo1971
+2503,Soo,DitransMarking,1,,Indirect Object marked with prefix kun-,soo1971[269-278],2,1971
 2504,Soo,DitransMarking,1,,dative pronouns with kun-,soo2009[33],2,2009
 2505,Soo,Evid,0,,no mention,soo1971,NA,1971
 2506,Soo,Evid,0,,no mention,soo2009,NA,2009
@@ -2880,7 +2880,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 2879,Tlingit,GenN,Gen N,,,tlingit1917[89],2,1917
 2880,Tlingit,GenN,Gen N,,,tlingit1979[103],2,1979
 2881,Tlingit,InstrCom,0,,instrumental comitative is argued to be a full word - but the same form also occurs with Boas and it is unclear whether this is indeed the case,tlingit1979[122],1,1979
-2882,Tlingit,InstrCom,1,,101,-tc (instr)-n/tin (com)[99],2,tlingit1917
+2882,Tlingit,InstrCom,1,,-tc (instr)-n/tin (com),tlingit1917[99-101],2,1917
 2883,Tlingit,LocDir,NA,,not discussed,tlingit1917,NA,1917
 2884,Tlingit,LocDir,NA,,not discussed,tlingit1979,NA,1979
 2885,Tlingit,MorphCaus,1,,si-,tlingit1917[29],2,1917
@@ -2926,11 +2926,11 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 2925,Uighur,Cases,6,,,uighur2005[104],2,2005
 2926,Uighur,Cases,7,,Identical form for lative and dative; also mentions a comparative case – Se consignan formas idénticas para el lativo y el dativo. Se menciona un  caso comparativo que no se consigna en la tabla principal de casos pero que si se ha consignado en este cuestionario.,uighur1971[77],2,1971
 2927,Uighur,ClassGen,0,,,uighur1971,NA,1971
-2928,Uighur,ClassGen,0,,97, 98)[96],1,
+2928,Uighur,ClassGen,0,,,uighur2005[96-98],1,2005
 2929,Uighur,ClassNoun,0,,Only lexical distinction. The few – and uncommon – gender morphemes are borrowed from contact and are unproductive – Las distinciones de género son léxicas.Los únicos - y poco comunes - morfemas de género son prestados de lenguas de contacto y no son productivos.,uighur1971,1,1971
 2930,Uighur,ClassNoun,0,,lexical gender,uighur2005,1,2005
 2931,Uighur,ClassNum,1,,,uighur1971[95],2,1971
-2932,Uighur,ClassNum,1,,126,etc.)[107],2,
+2932,Uighur,ClassNum,1,,,uighur2005[107-126],2,2005
 2933,Uighur,Consonants,22,,,uighur2005[30],2,2005
 2934,Uighur,Consonants,24,,,uighur1971[17],2,1971
 2935,Uighur,Dem,6,,"“Basic” pronouns - other forms also attested but with spatial reference – Los pornombres consignados son los ""básicos"". El sistema admite otros elementos que precisan la distancia entre el hablante y lo referenciado.",uighur2005[104],1,2005

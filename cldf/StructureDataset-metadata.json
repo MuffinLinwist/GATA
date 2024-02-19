@@ -15,20 +15,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.0-1-gf4b5f70",
+            "dc:created": "v1.0.0-6-g99926f7",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v4.8-64-ga931098fea",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.11.6"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
