@@ -61,67 +61,67 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 60,Arapaho,VP_Agr,1,,,arapaho2008[59],2,2008
 61,Arapaho,Vowels,4,,,arapaho1963[12],2,1963
 62,Arapaho,Vowels,4,,Short and long realizations – Hay realizaciones breves y largas.,arapaho2008[14],2,2008
-63,Bardi,AdjN,Adj N,,"Not conclusive, based on examples",bardi1972[117],1,1972
+63,Bardi,AdjN,Adj N,,"Not conclusive, based on examples",bardi1975[117],1,1975
 64,Bardi,AdjN,both,,Sometimes N ADJ is judged ungrammatical,bardi2012[335],2,2012
-65,Bardi,BasicWO,VSO,,,bardi1972,2,1972
+65,Bardi,BasicWO,VSO,,,bardi1975,2,1975
 66,Bardi,BasicWO,no basic word order,,,bardi2012[165],2,2012
-67,Bardi,CA_case,1,,,bardi1972[82],2,1972
+67,Bardi,CA_case,1,,,bardi1975[82],2,1975
 68,Bardi,CA_case,1,,,bardi2012[195-196],2,2012
 69,Bardi,CA_head,0,,,bardi2012[195-196],2,2012
-70,Bardi,CA_head,NA,,,bardi1972,NA,1972
+70,Bardi,CA_head,NA,,,bardi1975,NA,1975
 71,Bardi,CA_wordorder,0,,,bardi2012[195-196],2,2012
-72,Bardi,CA_wordorder,1,,,bardi1972,NA,1972
-73,Bardi,Cases,4,,,bardi1972[72],1,1972
+72,Bardi,CA_wordorder,1,,,bardi1975,NA,1975
+73,Bardi,Cases,4,,,bardi1975[72],1,1975
 74,Bardi,Cases,14,,,bardi2012[195-230],2,2012
-75,Bardi,ClassGen,0,,,bardi1972,NA,1972
+75,Bardi,ClassGen,0,,,bardi1975,NA,1975
 76,Bardi,ClassGen,0,,,bardi2012,NA,2012
-77,Bardi,ClassNoun,1,,,bardi1972[123],2,1972
+77,Bardi,ClassNoun,1,,,bardi1975[123],2,1975
 78,Bardi,ClassNoun,1,,,bardi2012[754],2,2012
-79,Bardi,ClassNum,1,,,bardi1972[186],2,1972
+79,Bardi,ClassNum,1,,,bardi1975[186],2,1975
 80,Bardi,ClassNum,1,,,bardi2012,NA,2012
-81,Bardi,Consonants,17,,,bardi1972[17],2,1972
+81,Bardi,Consonants,17,,,bardi1975[17],2,1975
 82,Bardi,Consonants,17,,,bardi2012[71],2,2012
 83,Bardi,Dem,13,,,bardi2012[195-322],2,2012
-84,Bardi,Dem,NA,,,bardi1972,NA,1972
+84,Bardi,Dem,NA,,,bardi1975,NA,1975
 85,Bardi,DitransMarking,0,,No ditransitive verbs – No hay verbos propiamente ditransitivos. Los verbos como 'dar' y 'mostrar' solo marcan un argumento.,bardi2012[211/370],2,2012
-86,Bardi,DitransMarking,NA,,,bardi1972,NA,1972
-87,Bardi,Evid,NA,,not discussed,bardi1972,NA,1972
+86,Bardi,DitransMarking,NA,,,bardi1975,NA,1975
+87,Bardi,Evid,NA,,not discussed,bardi1975,NA,1975
 88,Bardi,Evid,NA,,,bardi2012,NA,2012
 89,Bardi,GenN,both,,Inference based on examples – Inferencia a partir de ejemplos,bardi2012,2,2012
-90,Bardi,GenN,NA,,Unconclusive data,bardi1972,NA,1972
-91,Bardi,InstrCom,1,,,bardi1972[18],2,1972
+90,Bardi,GenN,NA,,Unconclusive data,bardi1975,NA,1975
+91,Bardi,InstrCom,1,,,bardi1975[18],2,1975
 92,Bardi,InstrCom,1,,,bardi2012[211/242],2,2012
-93,Bardi,LocDir,1,,,bardi1972[189],2,1972
+93,Bardi,LocDir,1,,,bardi1975[189],2,1975
 94,Bardi,LocDir,1,,,bardi2012[211/237],2,2012
-95,Bardi,MorphCaus,1,,,bardi1972[70],2,1972
+95,Bardi,MorphCaus,1,,,bardi1975[70],2,1975
 96,Bardi,MorphCaus,1,,,bardi2012[204],2,2012
-97,Bardi,NP_Agr,0,,Unconclusive data,bardi1972,1,1972
+97,Bardi,NP_Agr,0,,Unconclusive data,bardi1975,1,1975
 98,Bardi,NP_Agr,0,,,bardi2012[158],2,2012
-99,Bardi,NasVowels,0,,,bardi1972,NA,1972
+99,Bardi,NasVowels,0,,,bardi1975,NA,1975
 100,Bardi,NasVowels,0,,,bardi2012,NA,2012
-101,Bardi,NomAlign,ergative-absolutive,,,bardi1972[82],2,1972
+101,Bardi,NomAlign,ergative-absolutive,,,bardi1975[82],2,1975
 102,Bardi,NomAlign,ergative-absolutive,,Ergative -nim - Absolutive not marked.,bardi2012[195-196],2,2012
 103,Bardi,Poss,1,,,bardi2012[153],2,2012
-104,Bardi,Poss,NA,,,bardi1972,NA,1972
-105,Bardi,Pron1P,7,,Free and bound forms – Formas libres y ligadas,bardi1972[72/123],1,1972
+104,Bardi,Poss,NA,,,bardi1975,NA,1975
+105,Bardi,Pron1P,7,,Free and bound forms – Formas libres y ligadas,bardi1975[72/123],1,1975
 106,Bardi,Pron1P,7,,Free and bound forms; the latter have number distinctions – Se incluyen las formas libres y ligadas. Para las últimas se considera la diferencia entre aumentativo (tipo de plural) y mínimo.,bardi2012[396],2,2012
-107,Bardi,Pron2P,4,,free and bound forms – Formas libres  y ligadas,bardi1972[72],1,1972
+107,Bardi,Pron2P,4,,free and bound forms – Formas libres  y ligadas,bardi1975[72],1,1975
 108,Bardi,Pron2P,7,,,bardi2012[396],2,2012
-109,Bardi,Pron3P,4,,free and bound forms – Formas libres  y ligadas,bardi1972[72],1,1972
+109,Bardi,Pron3P,4,,free and bound forms – Formas libres  y ligadas,bardi1975[72],1,1975
 110,Bardi,Pron3P,6,,,bardi2012[396],2,2012
-111,Bardi,PronAlign,ergative-absolutive,,Author stats that pronouns are not marked. The examples clearly show ergative markers on them,bardi1972[82],2,1972
+111,Bardi,PronAlign,ergative-absolutive,,Author stats that pronouns are not marked. The examples clearly show ergative markers on them,bardi1975[82],2,1975
 112,Bardi,PronAlign,ergative-absolutive,,Ergative -nim – Absolutive not marked.,bardi2012[195-196],2,2012
-113,Bardi,Questions,1,,,bardi1972[184],2,1972
+113,Bardi,Questions,1,,,bardi1975[184],2,1975
 114,Bardi,Questions,1,,,bardi2012[617],NA,2012
-115,Bardi,TA_marks,6,,Only suffixes listed in affix-list are considered - not all are discussed in the grammar – Se consideran los sufijos listados en el afijario. No necesariamente todos presentan un tratamiento en la gramática.,bardi1972[82],2,1972
+115,Bardi,TA_marks,6,,Only suffixes listed in affix-list are considered - not all are discussed in the grammar – Se consideran los sufijos listados en el afijario. No necesariamente todos presentan un tratamiento en la gramática.,bardi1975[82],2,1975
 116,Bardi,TA_marks,6,,,bardi2012[195-436],2,2012
-117,Bardi,TempLoc,NA,,,bardi1972,NA,1972
+117,Bardi,TempLoc,NA,,,bardi1975,NA,1975
 118,Bardi,TempLoc,NA,,,bardi2012,NA,2012
-119,Bardi,Tones,0,,,bardi1972,NA,1972
+119,Bardi,Tones,0,,,bardi1975,NA,1975
 120,Bardi,Tones,0,,,bardi2012,NA,2012
-121,Bardi,VP_Agr,0,,Inference based on examples – Inferencia a partir de ejemplos.,bardi1972,1,1972
+121,Bardi,VP_Agr,0,,Inference based on examples – Inferencia a partir de ejemplos.,bardi1975,1,1975
 122,Bardi,VP_Agr,1,,,bardi2012[370],2,2012
-123,Bardi,Vowels,7,,Long vowels are included – Se incluyen las vocales largas.,bardi1972[17],2,1972
+123,Bardi,Vowels,7,,Long vowels are included – Se incluyen las vocales largas.,bardi1975[17],2,1975
 124,Bardi,Vowels,7,,,bardi2012[71],2,2012
 125,Baure,AdjN,both,,,baure2007[104],2,2007
 126,Baure,AdjN,NA,,,baure1880,NA,1880
