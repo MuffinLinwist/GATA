@@ -61,67 +61,67 @@ ID,Language_ID,Parameter_ID,Value,Certainty,Comment,Source,Year
 60,Arapaho,VP_Agr,1,2,,arapaho2008[59],2008
 61,Arapaho,Vowels,4,2,,arapaho1963[12],1963
 62,Arapaho,Vowels,4,2,Short and long realizations – Hay realizaciones breves y largas.,arapaho2008[14],2008
-63,Bardi,AdjN,Adj N,1,"Not conclusive, based on examples",bardi1972[117],1972
+63,Bardi,AdjN,Adj N,1,"Not conclusive, based on examples",bardi1975[117],1975
 64,Bardi,AdjN,both,2,Sometimes N ADJ is judged ungrammatical,bardi2012[335],2012
-65,Bardi,BasicWO,VSO,2,,bardi1972,1972
+65,Bardi,BasicWO,VSO,2,,bardi1975,1975
 66,Bardi,BasicWO,no basic word order,2,,bardi2012[165],2012
-67,Bardi,CA_case,1,2,,bardi1972[82],1972
+67,Bardi,CA_case,1,2,,bardi1975[82],1975
 68,Bardi,CA_case,1,2,,bardi2012[195-196],2012
 69,Bardi,CA_head,0,2,,bardi2012[195-196],2012
-70,Bardi,CA_head,NA,NA,,bardi1972,1972
+70,Bardi,CA_head,NA,NA,,bardi1975,1975
 71,Bardi,CA_wordorder,0,2,,bardi2012[195-196],2012
-72,Bardi,CA_wordorder,1,NA,,bardi1972,1972
-73,Bardi,Cases,4,1,,bardi1972[72],1972
+72,Bardi,CA_wordorder,1,NA,,bardi1975,1975
+73,Bardi,Cases,4,1,,bardi1975[72],1975
 74,Bardi,Cases,14,2,,bardi2012[195-230],2012
-75,Bardi,ClassGen,0,NA,,bardi1972,1972
+75,Bardi,ClassGen,0,NA,,bardi1975,1975
 76,Bardi,ClassGen,0,NA,,bardi2012,2012
-77,Bardi,ClassNoun,1,2,,bardi1972[123],1972
+77,Bardi,ClassNoun,1,2,,bardi1975[123],1975
 78,Bardi,ClassNoun,1,2,,bardi2012[754],2012
-79,Bardi,ClassNum,1,2,,bardi1972[186],1972
+79,Bardi,ClassNum,1,2,,bardi1975[186],1975
 80,Bardi,ClassNum,1,NA,,bardi2012,2012
-81,Bardi,Consonants,17,2,,bardi1972[17],1972
+81,Bardi,Consonants,17,2,,bardi1975[17],1975
 82,Bardi,Consonants,17,2,,bardi2012[71],2012
 83,Bardi,Dem,13,2,,bardi2012[195-322],2012
-84,Bardi,Dem,NA,NA,,bardi1972,1972
+84,Bardi,Dem,NA,NA,,bardi1975,1975
 85,Bardi,DitransMarking,0,2,No ditransitive verbs – No hay verbos propiamente ditransitivos. Los verbos como 'dar' y 'mostrar' solo marcan un argumento.,bardi2012[211/370],2012
-86,Bardi,DitransMarking,NA,NA,,bardi1972,1972
-87,Bardi,Evid,NA,NA,not discussed,bardi1972,1972
+86,Bardi,DitransMarking,NA,NA,,bardi1975,1975
+87,Bardi,Evid,NA,NA,not discussed,bardi1975,1975
 88,Bardi,Evid,NA,NA,,bardi2012,2012
 89,Bardi,GenN,both,2,Inference based on examples – Inferencia a partir de ejemplos,bardi2012,2012
-90,Bardi,GenN,NA,NA,Unconclusive data,bardi1972,1972
-91,Bardi,InstrCom,1,2,,bardi1972[18],1972
+90,Bardi,GenN,NA,NA,Unconclusive data,bardi1975,1975
+91,Bardi,InstrCom,1,2,,bardi1975[18],1975
 92,Bardi,InstrCom,1,2,,bardi2012[211/242],2012
-93,Bardi,LocDir,1,2,,bardi1972[189],1972
+93,Bardi,LocDir,1,2,,bardi1975[189],1975
 94,Bardi,LocDir,1,2,,bardi2012[211/237],2012
-95,Bardi,MorphCaus,1,2,,bardi1972[70],1972
+95,Bardi,MorphCaus,1,2,,bardi1975[70],1975
 96,Bardi,MorphCaus,1,2,,bardi2012[204],2012
-97,Bardi,NP_Agr,0,1,Unconclusive data,bardi1972,1972
+97,Bardi,NP_Agr,0,1,Unconclusive data,bardi1975,1975
 98,Bardi,NP_Agr,0,2,,bardi2012[158],2012
-99,Bardi,NasVowels,0,NA,,bardi1972,1972
+99,Bardi,NasVowels,0,NA,,bardi1975,1975
 100,Bardi,NasVowels,0,NA,,bardi2012,2012
-101,Bardi,NomAlign,ergative-absolutive,2,,bardi1972[82],1972
+101,Bardi,NomAlign,ergative-absolutive,2,,bardi1975[82],1975
 102,Bardi,NomAlign,ergative-absolutive,2,Ergative -nim - Absolutive not marked.,bardi2012[195-196],2012
 103,Bardi,Poss,1,2,,bardi2012[153],2012
-104,Bardi,Poss,NA,NA,,bardi1972,1972
-105,Bardi,Pron1P,7,1,Free and bound forms – Formas libres y ligadas,bardi1972[72/123],1972
+104,Bardi,Poss,NA,NA,,bardi1975,1975
+105,Bardi,Pron1P,7,1,Free and bound forms – Formas libres y ligadas,bardi1975[72/123],1975
 106,Bardi,Pron1P,7,2,Free and bound forms; the latter have number distinctions – Se incluyen las formas libres y ligadas. Para las últimas se considera la diferencia entre aumentativo (tipo de plural) y mínimo.,bardi2012[396],2012
-107,Bardi,Pron2P,4,1,free and bound forms – Formas libres  y ligadas,bardi1972[72],1972
+107,Bardi,Pron2P,4,1,free and bound forms – Formas libres  y ligadas,bardi1975[72],1975
 108,Bardi,Pron2P,7,2,,bardi2012[396],2012
-109,Bardi,Pron3P,4,1,free and bound forms – Formas libres  y ligadas,bardi1972[72],1972
+109,Bardi,Pron3P,4,1,free and bound forms – Formas libres  y ligadas,bardi1975[72],1975
 110,Bardi,Pron3P,6,2,,bardi2012[396],2012
-111,Bardi,PronAlign,ergative-absolutive,2,Author stats that pronouns are not marked. The examples clearly show ergative markers on them,bardi1972[82],1972
+111,Bardi,PronAlign,ergative-absolutive,2,Author stats that pronouns are not marked. The examples clearly show ergative markers on them,bardi1975[82],1975
 112,Bardi,PronAlign,ergative-absolutive,2,Ergative -nim – Absolutive not marked.,bardi2012[195-196],2012
-113,Bardi,Questions,1,2,,bardi1972[184],1972
+113,Bardi,Questions,1,2,,bardi1975[184],1975
 114,Bardi,Questions,1,NA,,bardi2012[617],2012
-115,Bardi,TA_marks,6,2,Only suffixes listed in affix-list are considered - not all are discussed in the grammar – Se consideran los sufijos listados en el afijario. No necesariamente todos presentan un tratamiento en la gramática.,bardi1972[82],1972
+115,Bardi,TA_marks,6,2,Only suffixes listed in affix-list are considered - not all are discussed in the grammar – Se consideran los sufijos listados en el afijario. No necesariamente todos presentan un tratamiento en la gramática.,bardi1975[82],1975
 116,Bardi,TA_marks,6,2,,bardi2012[195-436],2012
-117,Bardi,TempLoc,NA,NA,,bardi1972,1972
+117,Bardi,TempLoc,NA,NA,,bardi1975,1975
 118,Bardi,TempLoc,NA,NA,,bardi2012,2012
-119,Bardi,Tones,0,NA,,bardi1972,1972
+119,Bardi,Tones,0,NA,,bardi1975,1975
 120,Bardi,Tones,0,NA,,bardi2012,2012
-121,Bardi,VP_Agr,0,1,Inference based on examples – Inferencia a partir de ejemplos.,bardi1972,1972
+121,Bardi,VP_Agr,0,1,Inference based on examples – Inferencia a partir de ejemplos.,bardi1975,1975
 122,Bardi,VP_Agr,1,2,,bardi2012[370],2012
-123,Bardi,Vowels,7,2,Long vowels are included – Se incluyen las vocales largas.,bardi1972[17],1972
+123,Bardi,Vowels,7,2,Long vowels are included – Se incluyen las vocales largas.,bardi1975[17],1975
 124,Bardi,Vowels,7,2,,bardi2012[71],2012
 125,Baure,AdjN,both,2,,baure2007[104],2007
 126,Baure,AdjN,NA,NA,,baure1880,1880
