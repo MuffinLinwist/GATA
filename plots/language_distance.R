@@ -3,10 +3,10 @@ library(dplyr)
 library(tidyr)
 
 
-data <- read_tsv('datasets/gata/raw/gata_raw.tsv')
+data <- read_csv('../raw/gata_raw.csv')
 
 ind_years <- data %>% group_by(Language_ID, Year) %>% count() %>% select(-n)
-ind_years["grammar"] <- rep(c("first", "second"),times=52)
+ind_years["grammar"] <- rep(c("first", "second"),times=51)
 
 ind_years <- ind_years %>% pivot_wider(names_from=grammar, values_from=Year) 
 
