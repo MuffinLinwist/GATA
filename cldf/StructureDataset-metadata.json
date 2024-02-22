@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.0-18-g4fdfddd",
+            "dc:created": "v1.0.0-20-g571a3b8",
             "dc:title": "Repository"
         },
         {
