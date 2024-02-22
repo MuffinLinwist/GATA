@@ -5,7 +5,7 @@ bibtexparser==2.0.0b7
 bs4==0.0.2
 certifi==2024.2.2
 cldfbench==1.14.0
--e git+https://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@github.com/cldf-datasets/gata@b49aa51f35ffba6bf921ef6c6c08b922aafd96ad#egg=cldfbench_gata
+-e git+https://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@github.com/cldf-datasets/gata@d9371ede6b97f8e893df5000c69b4861ca575845#egg=cldfbench_gata
 cldfcatalog==1.5.1
 cldfzenodo==2.1.0
 clldutils==3.22.1

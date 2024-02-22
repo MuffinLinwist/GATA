@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.0-13-gb49aa51",
+            "dc:created": "v1.0.0-14-gd9371ed",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +40,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 3224,
+            "dc:extent": 3162,
             "tableSchema": {
                 "columns": [
                     {
