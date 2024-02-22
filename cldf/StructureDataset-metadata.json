@@ -15,13 +15,13 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.0-10-g08f0dc6",
+            "dc:created": "v1.0.0-13-gb49aa51",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8-64-ga931098fea",
+            "dc:created": "v4.8-60-g0a014f8f59",
             "dc:title": "Glottolog"
         }
     ],
@@ -201,7 +201,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 52,
+            "dc:extent": 51,
             "tableSchema": {
                 "columns": [
                     {
