@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gata",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.0-1-gf4b5f70",
+            "dc:created": "v1.0.0-21-ga8420e2",
             "dc:title": "Repository"
         },
         {
@@ -28,7 +28,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.11.6"
+            "dc:description": "3.11.7"
         },
         {
             "dc:title": "python-packages",
@@ -40,7 +40,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 3224,
+            "dc:extent": 3162,
             "tableSchema": {
                 "columns": [
                     {
@@ -201,7 +201,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 52,
+            "dc:extent": 51,
             "tableSchema": {
                 "columns": [
                     {
