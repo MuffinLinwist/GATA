@@ -2496,7 +2496,7 @@ ID,Language_ID,Parameter_ID,Value,Certainty,Comment,Source,Year
 2557,SouthWa,ClassNoun,0,2,Gender is distinguished by lexicon - and plural added through adjective – El género se distingue porque son distintas palabras y el plural es añadiendo un adj al nombre,wa1907[11],1907
 2558,SouthWa,ClassNoun,1,2,classfiers,wa2012[55-56],2012
 2559,SouthWa,ClassNum,0,NA,,wa1907,1907
-2560,SouthWa,ClassNum,1,2, pp. 55-56,[27-28],wa2012
+2560,SouthWa,ClassNum,1,2,,wa2012[27-28, 55-56],2012
 2561,SouthWa,Consonants,35,2,,wa2012[14],2012
 2562,SouthWa,Consonants,NA,NA,Only orthographic references / Solo hay referencia de la ortografía,wa1907,1907
 2563,SouthWa,Dem,6,2,,wa1907[14],1907
