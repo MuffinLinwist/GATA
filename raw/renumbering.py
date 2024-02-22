@@ -6,8 +6,8 @@ with open('raw/gata_raw.csv', 'r') as file:
     data = list(reader)
 
 # Renumber the entries
-for index, row in enumerate(data[1:], start=1):
-    row[0] = str(index)
+for index, row in enumerate(data):
+    row[0] = str(index + 1)
 
 # Write the updated data back to the CSV file
 with open('raw/gata_raw.csv', 'w', newline='') as file:
