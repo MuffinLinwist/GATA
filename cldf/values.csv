@@ -1177,68 +1177,6 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Certainty,Year
 1176,Kanakanavu,VP_Agr,1,,,kanakanavu2018[114-115],2,2018
 1177,Kanakanavu,Vowels,4,,,kanakanavu1975[27],2,1975
 1178,Kanakanavu,Vowels,6,,,kanakanavu2018[33],2,2018
-1179,Karok,AdjN,N Adj,,,karok1957[69],1,1957
-1180,Karok,AdjN,N Adj,,,karok1997[31],2,1997
-1181,Karok,BasicWO,SOV,,,karok1997[29],2,1997
-1182,Karok,BasicWO,no basic word order,,,karok1957[141],2,1957
-1183,Karok,CA_case,NA,,,karok1957,NA,1957
-1184,Karok,CA_case,NA,,,karok1997,NA,1997
-1185,Karok,CA_head,1,,Inference based on examples – Inferencia a partir de la evidencia en los ejemplos.,karok1957,1,1957
-1186,Karok,CA_head,1,,Inference based on examples – Inferencia a partir de la evidencia en los ejemplos.,karok1997,NA,1997
-1187,Karok,CA_wordorder,1,,,karok1997,NA,1997
-1188,Karok,CA_wordorder,NA,,,karok1957,NA,1957
-1189,Karok,Cases,5,,Imprecise translations,karok1997[26],1,1997
-1190,Karok,Cases,6,,,Karok1957[150-53],1,1957
-1191,Karok,ClassGen,1,,,Karok1957[45],1,1957
-1192,Karok,ClassGen,1,,,karok1997[25],1,1997
-1193,Karok,ClassNoun,0,,,karok1997[34],1,1997
-1194,Karok,ClassNoun,1,,,Karok1957[70],1,1957
-1195,Karok,ClassNum,1,,Singular - plural and dual,Karok1957[150],2,1957
-1196,Karok,ClassNum,1,,Dual forms seems to be lost – Parece haberse perdido la forma dual.,karok1997[25],1,1997
-1197,Karok,Consonants,16,,,karok1957[7],2,1957
-1198,Karok,Consonants,24,,,karok1997[24],2,1997
-1199,Karok,Dem,3,,"""Their use ins not fully understood""",karok1997[25],2,1997
-1200,Karok,Dem,30,,,Karok1957[95],1,1957
-1201,Karok,DitransMarking,NA,,,karok1957,NA,1957
-1202,Karok,DitransMarking,NA,,,karok1997,NA,1997
-1203,Karok,Evid,0,,,karok1957,NA,1957
-1204,Karok,Evid,5,,Only one proper evidential form - but forms glossed as “truly” counted as well; irrealis has not been considered – Si bien solo se consigna una forma como propiamente evidencial - he considerado marcas glosadas como 'truly'. No he considerado la marca de irrealis.,karok1997[26],1,1997
-1205,Karok,GenN,Gen N,,,karok1957[49],1,1957
-1206,Karok,GenN,Gen N,,,karok1997[25],2,1997
-1207,Karok,InstrCom,0,,,karok1997[25],1,1997
-1208,Karok,InstrCom,1,,,karok1957[ 150],NA,1957
-1209,Karok,LocDir,1,,,karok1957[ 75],1,1957
-1210,Karok,LocDir,1,,,karok1997[26],2,1997
-1211,Karok,MorphCaus,1,,,karok1957[75/109],2,1957
-1212,Karok,MorphCaus,1,,,karok1997[171],1,1997
-1213,Karok,NP_Agr,1,,No adjectives – Los adjetivos son nombres en funciones adjetivales por lo que toman la misma morfología del nombre al que modifican.,karok1957[69],1,1957
-1214,Karok,NP_Agr,1,,case agreement,karok1997[29],1,1997
-1215,Karok,NasVowels,0,,,karok1957[7],2,1957
-1216,Karok,NasVowels,0,,,karok1997[24],1,1997
-1217,Karok,NomAlign,nominative-accusative,,,karok1957,1,1957
-1218,Karok,NomAlign,nominative-accusative,,"""Object always remains unmarked (…) subject of transitivies and intransitives clauses are treated equally""",karok1997[26],1,1997
-1219,Karok,Poss,NA,,,karok1957,NA,1957
-1220,Karok,Poss,NA,,,karok1997,NA,1997
-1221,Karok,Pron1P,2,,Inference based on examples - pronominal system is not explicitly presented – Inferencia a partir de ejemplos. No  se presenta el sistema pronominal claramente. Solo se presentan morfemas de trancisión sin especificar las formas.,karok1957[60],1,1957
-1222,Karok,Pron1P,2,,,karok1997[25],2,1997
-1223,Karok,Pron2P,2,,Inference based on examples - pronominal system is not explicitly presented – Inferencia a partir de ejemplos. No  se presenta el sistema pronominal claramente. Solo se presentan morfemas de trancisión sin especificar las formas.,karok1957[60],1,1957
-1224,Karok,Pron2P,2,,,karok1997[25],2,1997
-1225,Karok,Pron3P,2,,Inference based on examples - pronominal system is not explicitly presented – Inferencia a partir de ejemplos. No  se presenta el sistema pronominal claramente. Solo se presentan morfemas de trancisión sin especificar las formas.,karok1957[60],1,1957
-1226,Karok,Pron3P,3,,,karok1997[25],2,1997
-1227,Karok,PronAlign,nominative-accusative,,,karok1957,1,1957
-1228,Karok,PronAlign,nominative-accusative,,"""Object always remains unmarked (…) subject of transitivies and intransitives clauses are treated equally""",karok1997[26],1,1997
-1229,Karok,Questions,0,,Previous description assigns interrogative form – Sin embargo la descripción posterior si consigna interrogativo.,karok1957[152],1,1957
-1230,Karok,Questions,1,,One interrogative,karok1997[26],2,1997
-1231,Karok,TA_marks,7,,,karok1997[26],1,1997
-1232,Karok,TA_marks,14,,,karok1957[152],1,1957
-1233,Karok,TempLoc,1,,LOC.TEMP clitic,karok1957[ 150],1,1957
-1234,Karok,TempLoc,1,,,karok1997[26],2,1997
-1235,Karok,Tones,0,,Only intonation / Solo fenómenos de entonación.,karok1957[16],1,1957
-1236,Karok,Tones,0,,,karok1997[24],2,1997
-1237,Karok,VP_Agr,1,,,karok1957[64],2,1957
-1238,Karok,VP_Agr,1,,,karok1997[25],2,1997
-1239,Karok,Vowels,8,,,karok1957[7],2,1957
-1240,Karok,Vowels,10,,,karok1997[24],1,1997
 1241,Kokama,AdjN,both,,,kokama1972[35],2,1972
 1242,Kokama,AdjN,both,,,kokama2016[262],2,2016
 1243,Kokama,BasicWO,no basic word order,,no marking of participants - so word order is crucial; at the same time - there does not seem to be a fixed order - but it depends on verb semantics,kokama1972[32],2,1972
